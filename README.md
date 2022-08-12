@@ -1,8 +1,8 @@
 # Module 1 Webpage Repository
 
-This repository contains the files for the website (https://physics-50.github.io/Module-1). 
+This repository contains the files for the website (https://physics-50.github.io/General/). 
 
-The markdown ".md" files in the [/docs/](https://github.com/Physics-50/Module-1/tree/master/docs) folder get converted into the pages shown on the website. If you're new to markdown, [here is a cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet). Latex can be to the documents by using double dollar signs to enclose the math "$$ .. $$".
+The markdown ".md" files in the [/docs/](https://github.com/Physics-50/General/tree/master/docs) folder get converted into the pages shown on the website. If you're new to markdown, [here is a cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet). Latex can be to the documents by using double dollar signs to enclose the math "$$ .. $$".
 
 You can use a "\<details>" tag to create expandable tabs: 
 
@@ -13,5 +13,3 @@ Take a look a the raw markdown file for how to format the "\<details>" tag.
 
 </details>
 
-## Instructor Brainstorming For Module 1 Improvements
-- make it clearer that students will need to propagate SEM in Week 3
