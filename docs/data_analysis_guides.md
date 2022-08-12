@@ -1,10 +1,10 @@
-# Module 1
+# Data Analysis Guides
 
 This page provides an overview of the Module 1 content. You should use the links below to find the relevant instructions specific to each week.
 
-+ [Week 1 - Exploration and First Careful Measurement](week1)
-+ [Week 2 - Final Careful Measurements and Analysis](week2)
-+ [Mini-questions](mini-questions):  all the Module 1 mini-questions in one location
++ [Intro to Uncertainty](week1)
++ [Guide to Plotting and Fitting](week2)
++ [Interpreting](mini-questions):  all the Module 1 mini-questions in one location
 
 
 ## Module 1 Overview 
