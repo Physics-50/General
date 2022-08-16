@@ -55,3 +55,6 @@ The first and third options are both plausible, so we would have to think carefu
 
 Your plot will also include the p-value for the fit. This represents the probability of obtaining a reduced $$\chi^2$$ value equal to or greater than the one you obtained under the premise of your hypothesis. 
 
+
+[Return to Data Analysis Main Page](data-analysis-guides) 
+-----------
