@@ -3,7 +3,6 @@
 This page links a few resources you can use throughout this course:
 
 + [Syllabus & Schedule](syllabus)
-+ [Data Analysis Manual(pdf)](images/intro_to_uncert_2022.pdf)
 + [Data Analysis Guides](data_analysis_guides)
 + [Sample Lab Report](images/sample-lab-report.pdf)
 
