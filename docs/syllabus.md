@@ -6,14 +6,15 @@
   
 
 Instructors: <br>
-S. Gerbode (gerbode@hmc.edu)<br>
-T. Lynn (lynn@hmc.edu)<br>
-R. Solanki (rsolanki@hmc.edu)<br>
-D. Tamayo (dtamayo@hmc.edu)<br>
+S. Gerbode (she/her), gerbode@hmc.edu<br>
+T. Lynn (she/her), lynn@hmc.edu<br>
+R. Solanki (he/him), rsolanki@hmc.edu<br>
+D. Tamayo (he/him), dtamayo@hmc.edu<br>
 
 # Physics 50 Syllabus
 
 + [Preamble](#preamble)
++ [Masking Policy](#masking-policy)
 + [Course Structure and Due Dates](#course-structure-and-due-dates)
 + [Lab Books and Data Sheets](#lab-books-and-data-sheets)
 + [Collaboration](#collaboration)
@@ -43,6 +44,10 @@ In order to be successful in this course you should:
 + tell the story about why you did what you did and what conclusions you can draw
 
 If we (your instructors) could do all of these all of the time we would be better physicists and probably better people in general. We are looking for you to demonstrate development and competence in these areas; we do not expect perfection.
+
+# Masking Policy
+
+Physics 50 course policy requires everyone in the lab room to wear a well-fitting mask that covers the nose and mouth, at all times.  Food and drink can be brought into the lab room in closed containers, but should not be consumed in class.  Students are encouraged to step outside the lab room briefly if necessary (for example, to eat or drink).  We thank you for following this policy to help reduce illness and quarantine time among your classmates and lab instructors.
 
 # Course Structure and Due Dates
 In this course you will complete four modules that each last several weeks.  Before each week of an experimental module, you will start by reading the online manual (linked on Sakai), where you will find background information and lab instructions, with miniquestions embedded throughout the text. These miniquestions are intended to help you quickly confirm your understanding of what you are reading and should be completed as you read. **Each week you are expected to read through the material for the week and complete the embedded mini-questions before the start of lab in order to be prepared to use your time efficiently in class.** After submission of a miniquestion, if your answer is incorrect you will be prompted to resubmit your answer. In order to receive credit for your resubmission, you must explain why your new answer is correct. When resubmitting, remember that your goal is not to describe what you did wrong but rather to explain and justify the correct answer.
