@@ -41,7 +41,7 @@ Roughly speaking, the reduced $$\chi^2$$ value tells us on average how many erro
 
 Finally, the fitting script reports a quantity $$P_>$$, given as a percentage.  The meaning of $$P_>$$ is as follows.  Suppose that the phenomenon you are measuring does actually follow the type of trend you fit it to -- constant, linear, or quadratic.  Also suppose that your error bars are an accurate representation of the uncertainty in each data point.  Now suppose that you repeat the entire experiment many times, producing many data sets, plots, and fits.  $$P_>$$ is the fraction of data sets that would give you $$\chi_{\nu}^2$$ value greater than this one just because of random variations in the experimental outcomes.  The calculation of $$P_>$$ starts with the reduced chi-squared value, but it also takes into account the number of data points and number of fit parameters.  With only four points to fit a line, it may not be so unlikely for a particularly unlucky data set to give $$\chi_{\nu}^2>1.1$$, but with 40 or 400 points to fit a line, the same $$\chi_{\nu}^2$$ value is much less likely to come about through simple bad luck, and much more likely to signal a real mismatch between data and theory.
 
-An "ideal" $$\chi_{\nu}^2$ of 1 corresponds to an "ideal" $$P_>$$ value of 50\%.  That result suggests that your data matches the fit function exactly as well as could be expected on average, given the size of the error bars; this experiment was neither lucky nor unlucky, but exactly in between.  Real data will seldom give this outcome, so it is useful rule of thumb is to look very closely at fits with $$P_>$$ above 90\% or below 10\%, paying attention to the other factors already discussed to decide why the fit is so much "better" or worse than expected.
+An "ideal" $$\chi_{\nu}^2$$ of 1 corresponds to an "ideal" $$P_>$$ value of 50\%.  That result suggests that your data matches the fit function exactly as well as could be expected on average, given the size of the error bars; this experiment was neither lucky nor unlucky, but exactly in between.  Real data will seldom give this outcome, so it is useful rule of thumb is to look very closely at fits with $$P_>$$ above 90\% or below 10\%, paying attention to the other factors already discussed to decide why the fit is so much "better" or worse than expected.
 
 #### 5. Combining all considerations
 
@@ -50,6 +50,7 @@ In the example above, the value of $$\chi_\nu^2 = 0.99$$ and $$P_> = 39.6\%$$ su
 Let's look at two examples where our reduced $$\chi^2$$ value differs significantly from 1. First, here's an example where $$\chi_\nu^2$$ is small:
 
 ![overfit example](images/errors-too-big-2022.png)
+
 In this example, each data point is much closer than 1 error bar to the fitted line. There are a few ways that a $$\chi_\nu^2 \ll 1$$ can occur: 
 
 + perhaps it was just a random coincidence that the values lined up, but we have many data points lining up, so that's probably not it; 
@@ -59,6 +60,7 @@ In this example, each data point is much closer than 1 error bar to the fitted l
 The last two options seem the most likely for the above plot. So **if our data looked like this, we should double-check the calculation of uncertainties and give some thought to possible sources of correlated systematic error in the experiment.**
 
 Finally, let's take a look at an example where the data points are typically much further than 1 error bar away from the fitted line:
+
 ![underfit example](images/errors-too-small-2022.png)
 
 This large value of $$\chi_\nu^2$$ tells us that:
