@@ -162,7 +162,7 @@ Remember: Systematic errors should be dealt with separately, by eliminating all 
 
 Prof. Gerbode explains how to propagate uncertainties from a measured quantity to a calculated value:
 
-[![Click on the link to get to the video](images/uncertainty-propagation-video-preview.png)](https://drive.google.com/file/d/1ilJNsVSgB_asmDdfjQwoyRdhedsSjaWO/view?usp=sharing) -->
+[![Click on the link to get to the video](images/uncertainty-propagation-video-preview.png)](https://drive.google.com/file/d/1ilJNsVSgB_asmDdfjQwoyRdhedsSjaWO/view?usp=sharing)
 
 -----------
 
@@ -195,7 +195,7 @@ Since the uncertainty in the volume of the cone due to the uncertainty in the ra
  
  ----------
 
-</details>
+</details> -->
 
 [Return to Data Analysis Main Page](data-analysis-guides) 
 -----------
