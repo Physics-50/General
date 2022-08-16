@@ -41,7 +41,7 @@ Roughly speaking, the reduced $$\chi^2$$ value tells us on average how many erro
 
 Finally, the fitting script reports a quantity $$P_>$$, given as a percentage.  The meaning of $$P_>$$ is as follows.  Suppose that the phenomenon you are measuring does actually follow the type of trend you fit it to -- constant, linear, or quadratic.  Also suppose that your error bars are an accurate representation of the uncertainty in each data point.  Now suppose that you repeat the entire experiment many times, producing many data sets, plots, and fits.  $$P_>$$ is the fraction of data sets that would give you $$\chi_{\nu}^2$$ value greater than this one just because of random variations in the experimental outcomes.  The calculation of $$P_>$$ starts with the reduced chi-squared value, but it also takes into account the number of data points and number of fit parameters.  With only four points to fit a line, it may not be so unlikely for a particularly unlucky data set to give $$\chi_{\nu}^2>1.1$$, but with 40 or 400 points to fit a line, the same $$\chi_{\nu}^2$$ value is much less likely to come about through simple bad luck, and much more likely to signal a real mismatch between data and theory.
 
-An "ideal" $$\chi_{\nu}^2$$ of 1 corresponds to an "ideal" $$P_>$$ value of 50\%.  That result suggests that your data matches the fit function exactly as well as could be expected on average, given the size of the error bars; this experiment was neither lucky nor unlucky, but exactly in between.  Real data will seldom give this outcome, so it is useful rule of thumb is to look very closely at fits with $$P_>$$ above 90\% or below 10\%, paying attention to the other factors already discussed to decide why the fit is so much "better" or worse than expected.
+An "ideal" $$\chi_{\nu}^2$$ of 1 corresponds to an "ideal" $$P_>$$ value of 50%.  That result suggests that your data matches the fit function exactly as well as could be expected on average, given the size of the error bars; this experiment was neither lucky nor unlucky, but exactly in between.  Real data will seldom give this outcome, so it is useful rule of thumb is to look very closely at fits with $$P_>$$ above 90% or below 10%, paying attention to the other factors already discussed to decide why the fit is so much "better" or worse than expected.
 
 #### 5. Combining all considerations
 
@@ -57,7 +57,7 @@ In this example, each data point is much closer than 1 error bar to the fitted l
 + we overestimated the error bars;
 + the main uncertainty in our experiment is affecting all data points in a correlated way, not scattering individual data points randomly above and below the overall trend.  This is called *correlated* error, most likely arising from some systematic effect that influences all data points in the same direction, but was reset between trials and so contributed to the measured SEM.
 
-The last two options seem the most likely for the above plot. So **if our data looked like this, we should double-check the calculation of uncertainties and give some thought to possible sources of correlated systematic error in the experiment.**
+The last two options seem the most likely for the above plot. So **if our data looks like this, we should double-check the calculation of uncertainties and give some thought to possible sources of correlated systematic error in the experiment.**
 
 Finally, let's take a look at an example where the data points are typically much further than 1 error bar away from the fitted line:
 
