@@ -22,3 +22,6 @@ Go to the tab in your spreadsheet that you will use to prepare your data for plo
 
 6. You can save the resulting plot by right clicking on the graph.
 
+
+[Return to Data Analysis Main Page](data-analysis-guides) 
+-----------
