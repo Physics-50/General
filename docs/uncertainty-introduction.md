@@ -7,7 +7,6 @@
     - [Random Uncertainty](#random-uncertainty)
     - [Systematic Errors](#systematic-errors)
 - [Combining Uncertainties](#combining-uncertainties)
-- [Propagation of Uncertainties](#propagation-of-uncertainties)
 
 
 ## Overview
@@ -37,9 +36,8 @@ A measurement uncertainty is not meant to be an indication of “mistakes” tha
 
 ## Sources of Uncertainty
 There are many sources of uncertainty in your experiment, but not all originate in the same manner and therefore there are different methods of accounting for them.  When designing an experiment the aim is to make the uncertainty small enough to achieve the experiment’s goal — or often, to make the uncertainty as small as possible in order to observe as much detail as possible about the phenomenon.  However, always keep in mind that the uncertainty can never be reduced to zero, just made small and honestly estimated.
-
-We will instruct you to return to read the rest of this guide later. For now:
-[*Return to Module 1 Week 1*](week1#estimating-uncertainty)
+<!-- We will instruct you to return to read the rest of this guide later. For now:
+[*Return to Module 1 Week 1*](week1#estimating-uncertainty) -->
 
 ### Resolution Uncertainty
 Imagine you are attempting to measure the length of an object using the meter stick shown in the figure. The length of the object is more than 80 cm and it is less than 90 cm, but we are clearly limited by the resolution of our measuring device:
@@ -52,8 +50,7 @@ Finally, we obtain a measurement device that can measure much smaller intervals 
 ![image of a meter stick zoomed in a lot](images/meter-stick-3.png)
 
 Apparently even with our super device there is a limit to the knowledge that the we can gain about the length of the object. All we can say is that the length of the object is between 83.4 and 83.5 cm. Even if we use smaller and smaller divisions on our meter stick our knowledge about the length of the object will never be perfect. This type of uncertainty is called the **resolution uncertainty**. A general rule of thumb is that the resolution is half of the smallest digit a device can measure. But it may be much greater than this if other known factors are limiting your uncertainty (perhaps you can’t get your ruler close enough to make an accurate measurement or can’t really tell where the object you are trying to measure begins or ends). It may also be less than this in cases where you are able to interpolate while making the measurement. (For example if you were to perform measurements using a meter stick with no markings with appropriate interpolation you should be able to estimate your measurements with better accuracy than 0.5m). Estimating uncertainties requires more than rules of thumb, it also requires judgment and common sense.
-
-In the context of our online Ph50 course, you will use a ruler to measure distances in Module 2 and will need to consider the resolution uncertainty of the measurement. In Module 3, you will measure the speed of sound based on images of levitating beads. In that module, your resolution uncertainty will come from the uncertainty in measuring the location of the object (in pixels). 
+<!-- In the context of our online Ph50 course, you will use a ruler to measure distances in Module 2 and will need to consider the resolution uncertainty of the measurement. In Module 3, you will measure the speed of sound based on images of levitating beads. In that module, your resolution uncertainty will come from the uncertainty in measuring the location of the object (in pixels).  -->
 
 
 -------------------------------------------
@@ -97,8 +94,6 @@ $$\mathrm{SEM} = \frac{x_\mathrm{dev}}{\sqrt{n}}$$
 
 *For more information about the SEM, check out paragraph 130-131 and associated footnotes [of this document](images/Essentials-of-Statistical-Methods.pdf){:target="_blank"}.*
 
-
-
 **Main point: our best estimate of our experimentally measured value is the sample mean, and our best estimate of its random uncertainty is the standard error of the mean. So only considering random sources of uncertainty, we would report $$x_\mathrm{mean} \pm  \mathrm{SEM}$$**
 
 
@@ -139,9 +134,8 @@ Lesson check: If you take several trials of a particular measurement and record 
 If you recorded an identical value every time, then you would still have the uncertainty from the resolution uncertainty of your measurement device. Moreover, there might also be some systematic effect that you are missing (see discussion below). You should try to "reset" your experiment by taking down and re-setting-up your experimental apparatus. These small changes in how your apparatus is set up will lead to some random changes in the value you are measuring.
 
 </details>
-
-If you are reading this in module 1, week 1 this is as far as you need to read this week:
-[Return to Week 1 - Reproducibility](week1#reproducibility)
+<!-- If you are reading this in module 1, week 1 this is as far as you need to read this week:
+[Return to Week 1 - Reproducibility](week1#reproducibility) -->
 
 -----------------------
 
@@ -156,25 +150,24 @@ For example, if you measure the length of an object with a meter stick that is 1
 
 ### Combining Uncertainties
 
-When you make a measurement you will have both random and resolution (sometimes multiple!) uncertainties. In order to obtain one actual uncertainty to quote in your value you can combine the sources by adding in quadrature. Adding in quadrature means to square each value for your uncertainty, add them all together, and take the square root of the sum,
+When you make a measurement you will often have multiple sources of uncertainty. Sometimes one source of uncertainty has a much larger contribution than others, in which case the smaller contributions can be ignored.  But what if two or more sources of uncertainty are about equal in their impact?  In order to obtain a final estimate of uncertainty you can combine the sources by adding **_in quadrature_**. Adding in quadrature means to square each individual uncertainty, add them all together, and take the square root of the sum,
 $$ \delta x_\mathrm{total} = \sqrt{(\delta x_1)^2 + (\delta x_2)^2 + (\delta x_3)^2 + \cdots}$$
-where $$\delta x_\mathrm{total}$$ is the total uncertainty in the measured value $$x$$ and $$\delta x_1$$,$$\delta x_2$$,$$\delta x_3$$,… are the various sources of uncertainty in the measurement of $$x$$ (e.g. random uncertainty, resolution uncertainty, etc).
+where $$\delta x_\mathrm{total}$$ is the total uncertainty in the measured value $$x$$ and $$\delta x_1$$,$$\delta x_2$$,$$\delta x_3$$,… are the uncertainties in $$x$$ from various independent sources.
 
 **When combining different sources of uncertainty make sure they have the same units**
 
 Remember: Systematic errors should be dealt with separately, by eliminating all you possibly can and estimating the size of remaining shifts, in addition to pinpointing the specific effect they would have on the final analysis.  (Would they make the value you measure too large? Would they make a linear graph look quadratic? etc.)
 
-## Propagation of Uncertainties
+<!-- ## Propagation of Uncertainties
 
 Prof. Gerbode explains how to propagate uncertainties from a measured quantity to a calculated value:
 
-[![Click on the link to get to the video](images/uncertainty-propagation-video-preview.png)](https://drive.google.com/file/d/1ilJNsVSgB_asmDdfjQwoyRdhedsSjaWO/view?usp=sharing)
-
+[![Click on the link to get to the video](images/uncertainty-propagation-video-preview.png)](https://drive.google.com/file/d/1ilJNsVSgB_asmDdfjQwoyRdhedsSjaWO/view?usp=sharing) -->
 
 -----------
 
 ## Extra practice
-If we now have a cone, with the same radius $$r=2.4 \pm0.3\,\textrm{cm}$$ and a height $$h=10.2\pm0.4\,\textrm{cm}$$, what is the volume of the cone? (Hint: $$V_\mathrm{cone}=\frac{1}{3}\pi r^2 h$$)
+If we have a cone with radius $$r=2.4 \pm0.3\,\textrm{cm}$$ and a height $$h=10.2\pm0.4\,\textrm{cm}$$, what is the volume of the cone? (Hint: $$V_\mathrm{cone}=\frac{1}{3}\pi r^2 h$$)
 
 <details>
 <summary markdown='span'> (try it first, then click to expand/collapse) Solution: 
@@ -204,5 +197,5 @@ Since the uncertainty in the volume of the cone due to the uncertainty in the ra
 
 </details>
 
-[Return to Module 1, Week 1](week1#propogation-of-your-experimental-uncertainty)
+[Return to Data Analysis Main Page](data-analysis-guides) 
 -----------
