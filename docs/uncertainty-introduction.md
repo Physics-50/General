@@ -150,7 +150,7 @@ For example, if you measure the length of an object with a meter stick that is 1
 
 ### Combining Uncertainties
 
-When you make a measurement you will often have multiple sources of uncertainty. Sometimes one source of uncertainty has a much larger contribution than others, in which case the smaller contributions can be ignored.  But what if two or more sources of uncertainty are about equal in their impact?  In order to obtain a final estimate of uncertainty you can combine the sources by adding **_in quadrature_**. Adding in quadrature means to square each individual uncertainty, add them all together, and take the square root of the sum,
+When you make a measurement you will often have multiple sources of uncertainty. Sometimes you have designed your experiment so that multiple sources of uncertainty are all accounted for in the variation between trials.  Sometimes one source of uncertainty has a much larger contribution than others, in which case the smaller contributions can be ignored.  But what if two or more sources of uncertainty are not represented in the SEM of repeated trials, and are about equal in their impact?  In order to obtain a final estimate of uncertainty you can combine the sources by adding **_in quadrature_**. Adding in quadrature means to square each individual uncertainty, add them all together, and take the square root of the sum,
 $$ \delta x_\mathrm{total} = \sqrt{(\delta x_1)^2 + (\delta x_2)^2 + (\delta x_3)^2 + \cdots}$$
 where $$\delta x_\mathrm{total}$$ is the total uncertainty in the measured value $$x$$ and $$\delta x_1$$,$$\delta x_2$$,$$\delta x_3$$,… are the uncertainties in $$x$$ from various independent sources.
 
