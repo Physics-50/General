@@ -41,3 +41,7 @@ An unweighted fit (red, dashed line) treats all three of those data points equal
 Here, $$\chi$$ is the Greek letter "chi" (pronounced like ["Kai"](https://www.marketplace.org/2020/10/01/canadas-tourist-driven-pne-pivots-to-hosting-film-production/){:target="_blank"}).
 
 Performing a weighted least-squares fit on the example data above, we get the solid blue line. When we do a weighted least-squares fit, we expect to find that **each data point is about one error bar away, on average, from the fitted line.**
+
+
+[Return to Data Analysis Main Page](data-analysis-guides) 
+-----------
