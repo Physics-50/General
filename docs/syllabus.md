@@ -46,20 +46,19 @@ In order to be successful in this course you should:
 If we (your instructors) could do all of these all of the time we would be better physicists and probably better people in general. We are looking for you to demonstrate development and competence in these areas; we do not expect perfection.
 
 # Masking Policy
-
 Physics 50 course policy requires everyone in the lab room to wear a well-fitting mask that covers the nose and mouth, at all times.  Food and drink can be brought into the lab room in closed containers, but should not be consumed in class.  Students are encouraged to step outside the lab room briefly if necessary (for example, to eat or drink).  We thank you for following this policy to help reduce illness and quarantine time among your classmates and lab instructors.
 
 # Course Structure and Due Dates
-In this course you will complete four modules that each last several weeks.  Before each week of an experimental module, you will start by reading the online manual (linked on Sakai), where you will find background information and lab instructions, with miniquestions embedded throughout the text. These miniquestions are intended to help you quickly confirm your understanding of what you are reading and should be completed as you read. **Each week you are expected to read through the material for the week and complete the embedded mini-questions before the start of lab in order to be prepared to use your time efficiently in class.** After submission of a miniquestion, if your answer is incorrect you will be prompted to resubmit your answer. In order to receive credit for your resubmission, you must explain why your new answer is correct. When resubmitting, remember that your goal is not to describe what you did wrong but rather to explain and justify the correct answer.
+In this course you will complete four modules that each last several weeks.  Before each week of Modules 1-3, you will start by reading the online manual (linked on Sakai), where you will find background information and lab instructions, with miniquestions embedded throughout the text. These miniquestions are intended to help you quickly confirm your understanding of what you are reading and should be completed as you read. **Each week you are expected to read through the material for the week and complete the embedded mini-questions before the start of lab in order to be prepared to use your time efficiently in class.** After submission of a miniquestion, if your answer is incorrect you will be prompted to resubmit your answer. In order to receive credit for your resubmission, you must explain why your new answer is correct. When resubmitting, remember that your goal is not to describe what you did wrong but rather to explain and justify the correct answer.
 
-During mid-module weeks, you will have a short "checkpoint" assignment designed to check data analysis or interpretation skills relevant to the experiment in progress.  Each checkpoint is due on Gradescope three days before the next lab meeting:
+After the first week of class, and during mid-module weeks, you will have a short "checkpoint" assignment designed to check data analysis or interpretation skills relevant to the experiment in progress.  Each checkpoint is due on Gradescope three days before the next lab meeting:
 
 + Monday sections: checkpoints due Fridays at 10 pm
 + Wednesday sections: checkpoints due Sundays at 10 pm
 + Thursday sections: checkpoints due Mondays at 10 pm
 + Friday sections: checkpoints due Tuesdays at 10 pm
 
-After Modules 1-3 you will submit short written reports.  These reports should be no more than two pages, including figures, and should summarize your experimental procedure, results, and conclusions.  Each partner should prepare their own written report.  Your instructor will discuss the reports and their submission with you in more detail.  Written reports are due on Gradescope three days before the first meeting of the next module:
+After Modules 1-3 you will submit short written reports.  These reports should be no more than two pages, including figures, and should summarize your experimental procedure, results, and conclusions.  Each partner should prepare their own written report.  A sample lab report is linked on Sakai, and your instructor may discuss report expectations with you in more detail.  Written reports are due on Gradescope three days before the first meeting of the next module:
 
 + Monday sections: reports due Friday 9/30, 10/28, and 11/18 at 10 pm
 + Wednesday sections: reports due Sunday 9/25, 10/23, and 11/13 at 10 pm
