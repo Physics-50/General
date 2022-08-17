@@ -1,4 +1,4 @@
-# Module 1 Webpage Repository
+# General Ph50 Materials Repository
 
 This repository contains the files for the website (https://physics-50.github.io/General/). 
 
