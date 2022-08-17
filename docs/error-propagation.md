@@ -6,7 +6,7 @@
 
 ## Functions of a Single Measured Quantity
 
-In the [uncertainty introduction](uncertainty-introduction), we discussed methods for finding the uncertainty for a direct measurement.  Often, however, we must do some calculations with our raw data to arrive at the result we are actually interested in.  Once we use a measured quantity in a calculation, we have to keep track of the uncertainty in our calculated result due to uncertainty in the original measurement.  Keeping track in this way is called **_error propagation_**.  There is really only one basic formula that governs error propagation, and we will develop it right now.
+In the [uncertainty introduction](uncertainty-introduction), we discussed methods for finding the uncertainty for a direct measurement.  Often, however, we must do some calculations with our raw data to arrive at the result we are actually interested in.  Turning an uncertainty in a measured quantity into the uncertainty it causes in a calculated result is called **_error propagation_**.  There is really only one basic formula that governs error propagation, and we will develop it right now.
 	
 Suppose we have a quantity, $$x$$, which we can measure directly with uncertainty $$\delta x$$.  There is a function $$f(x)$$ whose value we are interested in knowing.  Being uncertain about $$x$$ will clearly cause some uncertainty in $$f$$, so we will call this uncertainty $$\delta f$$. The sketched graph below may give us some inspiration about how to calculate $$\delta f$$:
 
@@ -19,7 +19,7 @@ From the sketch above, it is tempting to suggest a simple rule like $$\delta f =
 In the second sketch, $$\delta f$$ is clearly much smaller than in the first sketch, even though $$\delta x$$ is exactly the same in both cases.  Why?  Because the function $$f(x)$$ is flat, or very nearly so, near the value of $$x$$ we care about in the second drawing.  Aha!  The uncertainty in $$f$$ depends on the uncertainty in $$x$$, but also on the steepness of the function $$f$$ in the spot where we are evaluating it.  We can express "the steepness of the function $$f$$" in more precise and mathematical terms – it is the function’s derivative, $$\frac{df}{dx}$$.  Thus we have an error propagation rule for functions of a single variable:
 
 \begin{equation}
-\delta f = \delta x \abs{\frac{df}{dx}},
+\delta f = \delta x \fabs{\frac{df}{dx}},
 \end{equation}
 
 where the derivative $$\frac{df}{dx}$$ is evaluated at the measured value of $$x$$.  The absolute value signs are there because error bars give the size of uncertainties, so all error bars are expressed as positive numbers.
@@ -29,7 +29,7 @@ where the derivative $$\frac{df}{dx}$$ is evaluated at the measured value of $$x
 A student measures the side length $$s$$ of a square and finds $$s=4.0 \pm 0.05$$ cm.  They calculate that the perimeter of the square is $$p=16$$ cm.  To find the uncertainty $$\delta p$$, they let $$S=x$$ and $$p=f(x)$$ in Equation 1 above, and obtain
 
 \begin{equation}
-\delta p = (\delta s) (4),
+\delta p = (\delta s) (4), \nonumber
 \end{equation}
 
 giving in this case $$\delta p = 0.2 cm$$.
@@ -39,7 +39,7 @@ giving in this case $$\delta p = 0.2 cm$$.
 A lab group measures the maximum angle $$\theta_c$$ that a wooden ramp can be tilted away from the horizontal before a metal container on the ramp begins to slip.  They find $$\theta_c = 27.0\pm 1.4$$ degrees.  Using mechanics they derive $$\mu_s = \tan{\theta_c}$$, so they calculate $$\mu_s = 0.509525\ldots$$.  To find the uncertainty $$\delta \mu_s$$, they let $$\theta_c = x$$ and $$\mu_s = f(x)$$ in Equation 1 above, and obtain
 
 \begin{equation}
-\delta \mu_s = (\delta \theta_c)(\sec{\theta_c})^2.
+\delta \mu_s = (\delta \theta_c)(\sec{\theta_c})^2. \nonumber
 \end{equation}
 
 The derivative of $$\text{tan}$$ is $$\text{sec}^2$$ only if $$\theta_c$$ is expressed in radians, so to complete the calculation above they convert $$\delta \theta_c$$ to radians before plugging in numbers.  They find $$\delta \mu_s = 0.030778229\ldots$$.  Since digits of an answer well beyond the uncertainty are misleading, not meaningful, they write their final result as $$\mu_s = 0.51 \pm 0.03$$.
@@ -53,7 +53,7 @@ Consider a function $$g=g(x,y,z,\ldots)$$.  If each independent variable has its
 Let the uncertainty in $$g$$ caused by $$\delta x$$ be called $$\delta g_1$$.  From Equation 1 above, we know
 
 \begin{equation}
-\delta g_1 = \delta x \abs{\frac{\del f}{\del x}},
+\delta g_1 = \delta x \fabs{\frac{\partial f}{\partial x}}, \nonumber
 \end{equation}
 
 where we have changed the derivative to a partial derivative since $$g$$ is a function of multiple variables.  The partial derivative in Equation 2 is evaluated at the measured values of $$(x,y,z,\ldots)$$.  However, we have similar results for the uncertainty in $$g$$ caused by $$\delta y$$, which we can call $$\delta g_2$$, and so forth.
@@ -67,7 +67,7 @@ How can we combine all these?  We have already learned how to combine unrelated 
 which in this situation becomes
 
 \begin{equation}
-\delta g = \sqrt{\Bigl(\delta x \frac{\del g}{\del x}\Bigr)^2 + \Bigl(\delta y \frac{\del g}{\del y}\Bigr)^2 + \Bigl(\delta z \frac{\del g}{\del z}\Bigr)^2 + \ldots}.
+\delta g = \sqrt{\Bigl(\delta x \frac{\partial g}{\partial x}\Bigr)^2 + \Bigl(\delta y \frac{\partial g}{\partial y}\Bigr)^2 + \Bigl(\delta z \frac{\partial g}{\partial z}\Bigr)^2 + \ldots}.
 \end{equation}
 
 ### Example:  Area of a Rectangle
@@ -75,19 +75,19 @@ which in this situation becomes
 A pair of students measure a rectangle's length to be $$\ell = 2.0 \pm 0.1$$ cm and its width to be $$w = 1.2 \pm 0.1$$ cm.  They calculate its area to be $$A = \ell w = 2.4 \text{cm}^2$$.  To find the uncertainty, they compute
 
 \begin{equation}
-\delta g_1 = \delta \ell \abs{\frac{\del A}{\del \ell}} = (\delta ell)(w) = 0.0144 \text{cm}^2
+\delta g_1 = \delta \ell \fabs{\frac{\partial A}{\partial \ell}} = (\delta ell)(w) = 0.0144 \text{cm}^2 \nonumber
 \end{equation}
 
 and 
 
 \begin{equation}
-\delta g_2 = \delta w \abs{\frac{\del A}{\del w}} = (\delta w)(\ell) = 0.04 \text{cm}^2.
+\delta g_2 = \delta w \fabs{\frac{\partial A}{\partial w}} = (\delta w)(\ell) = 0.04 \text{cm}^2. \nonumber
 \end{equation}
 
  Combining these uncertainties from two independent sources, they find
  
  \begin{equation}
- \delta g = \sqrt{\bigl((\delta ell)(w)\bigr)^2 + \bigl((\delta w)(\ell)\bigr)^2} = 0.2332 \ldots \text{cm}^2.
+ \delta g = \sqrt{\bigl((\delta \ell)(w)\bigr)^2 + \bigl((\delta w)(\ell)\bigr)^2} = 0.2332 \ldots \text{cm}^2.
  \end{equation}
  
  They present their final result as $$A = 2.4 \pm 0.23 \text{cm}^2$$.
