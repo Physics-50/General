@@ -24,7 +24,7 @@ D. Tamayo (he/him), dtamayo@hmc.edu<br>
 <!-- + [Online Resources](#online-resources) -->
 <!-- + [Gradescope Submissions](#gradescope-submissions) -->
 + [Writing Center](#the-writing-center)
-+ [Accomodations, Wellness, Belonging, Title IX](#accommodations)
++ [Accommodations, Wellness, Belonging, Title IX](#accommodations)
 
 
 
