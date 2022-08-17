@@ -18,9 +18,9 @@ From the sketch above, it is tempting to suggest a simple rule like $$\delta f =
 
 In the second sketch, $$\delta f$$ is clearly much smaller than in the first sketch, even though $$\delta x$$ is exactly the same in both cases.  Why?  Because the function $$f(x)$$ is flat, or very nearly so, near the value of $$x$$ we care about in the second drawing.  Aha!  The uncertainty in $$f$$ depends on the uncertainty in $$x$$, but also on the steepness of the function $$f$$ in the spot where we are evaluating it.  We can express "the steepness of the function $$f$$" in more precise and mathematical terms – it is the function’s derivative, $$\frac{df}{dx}$$.  Thus we have an error propagation rule for functions of a single variable:
 
-\begin{equation}
+**\begin{equation}
 \delta f = \delta x \Bigl|\frac{df}{dx}\Bigr|,
-\end{equation}
+\end{equation}**
 
 where the derivative $$\frac{df}{dx}$$ is evaluated at the measured value of $$x$$.  The absolute value signs are there because error bars give the size of uncertainties, so all error bars are expressed as positive numbers.
 
@@ -66,9 +66,9 @@ How can we combine all these?  We have already learned how to combine unrelated 
 
 which in this situation becomes
 
-\begin{equation}
+**\begin{equation}
 \delta g = \sqrt{\Bigl(\delta x \frac{\partial g}{\partial x}\Bigr)^2 + \Bigl(\delta y \frac{\partial g}{\partial y}\Bigr)^2 + \Bigl(\delta z \frac{\partial g}{\partial z}\Bigr)^2 + \ldots}.
-\end{equation}
+\end{equation}**
 
 ### Example:  Area of a Rectangle
 
