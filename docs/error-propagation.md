@@ -92,7 +92,9 @@ and
  
  They present their final result as $$A = 2.4 \pm 0.23 \text{cm}^2$$.
  
-## Extra practice (optional, not assigned homework)
+## Extra practice
+
+_This extra practice is optional -- it is not assigned homework, which can be found on Gradescope!_
 
 If we have a cone with radius $$r=2.4 \pm0.3\,\textrm{cm}$$ and a height $$h=10.2\pm0.4\,\textrm{cm}$$, what is the volume of the cone? (Hint: $$V_\mathrm{cone}=\frac{1}{3}\pi r^2 h$$)
 
