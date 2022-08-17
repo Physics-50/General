@@ -19,7 +19,7 @@ From the sketch above, it is tempting to suggest a simple rule like $$\delta f =
 In the second sketch, $$\delta f$$ is clearly much smaller than in the first sketch, even though $$\delta x$$ is exactly the same in both cases.  Why?  Because the function $$f(x)$$ is flat, or very nearly so, near the value of $$x$$ we care about in the second drawing.  Aha!  The uncertainty in $$f$$ depends on the uncertainty in $$x$$, but also on the steepness of the function $$f$$ in the spot where we are evaluating it.  We can express "the steepness of the function $$f$$" in more precise and mathematical terms – it is the function’s derivative, $$\frac{df}{dx}$$.  Thus we have an error propagation rule for functions of a single variable:
 
 **\begin{equation}
-\delta f = \delta x \lvert\frac{df}{dx}\rvert,
+\delta f = \delta x \Bigl\lvert\frac{df}{dx}\Bigr\rvert,
 \end{equation}**
 
 where the derivative $$\frac{df}{dx}$$ is evaluated at the measured value of $$x$$.  The absolute value signs are there because error bars give the size of uncertainties, so all error bars are expressed as positive numbers.
@@ -53,7 +53,7 @@ Consider a function $$g=g(x,y,z,\ldots)$$.  If each independent variable has its
 Let the uncertainty in $$g$$ caused by $$\delta x$$ be called $$\delta g_1$$.  From Equation 1 above, we know
 
 \begin{equation}
-\delta g_1 = \delta x |\frac{\partial f}{\partial x}|, \nonumber
+\delta g_1 = \delta x Bigl\lvert\frac{\partial f}{\partial x}\Bigr\rvert, \nonumber
 \end{equation}
 
 where we have changed the derivative to a partial derivative since $$g$$ is a function of multiple variables.  The partial derivative in Equation 2 is evaluated at the measured values of $$(x,y,z,\ldots)$$.  However, we have similar results for the uncertainty in $$g$$ caused by $$\delta y$$, which we can call $$\delta g_2$$, and so forth.
@@ -75,13 +75,13 @@ which in this situation becomes
 A pair of students measure a rectangle's length to be $$\ell = 2.0 \pm 0.1$$ cm and its width to be $$w = 1.2 \pm 0.1$$ cm.  They calculate its area to be $$A = \ell w = 2.4 \text{cm}^2$$.  To find the uncertainty, they compute
 
 \begin{equation}
-\delta g_1 = \delta \ell \Bigl|\frac{\partial A}{\partial \ell}\Bigr| = (\delta \ell)(w) = 0.0144 \text{cm}^2 \nonumber
+\delta g_1 = \delta \ell \Bigl\lvert\frac{\partial A}{\partial \ell}\Bigr\rvert = (\delta \ell)(w) = 0.0144 \text{cm}^2 \nonumber
 \end{equation}
 
 and 
 
 \begin{equation}
-\delta g_2 = \delta w \Bigl|\frac{\partial A}{\partial w}\Bigr| = (\delta w)(\ell) = 0.04 \text{cm}^2. \nonumber
+\delta g_2 = \delta w \Bigl\lvert\frac{\partial A}{\partial w}\Bigr\rvert = (\delta w)(\ell) = 0.04 \text{cm}^2. \nonumber
 \end{equation}
 
  Combining these uncertainties from two independent sources, they find
