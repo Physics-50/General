@@ -53,7 +53,7 @@ Consider a function $$g=g(x,y,z,\ldots)$$.  If each independent variable has its
 Let the uncertainty in $$g$$ caused by $$\delta x$$ be called $$\delta g_1$$.  From Equation 1 above, we know
 
 \begin{equation}
-\delta g_1 = \delta x Bigl\lvert\frac{\partial f}{\partial x}\Bigr\rvert, \nonumber
+\delta g_1 = \delta x \Bigl\lvert\frac{\partial f}{\partial x}\Bigr\rvert, \nonumber
 \end{equation}
 
 where we have changed the derivative to a partial derivative since $$g$$ is a function of multiple variables.  The partial derivative in Equation 2 is evaluated at the measured values of $$(x,y,z,\ldots)$$.  However, we have similar results for the uncertainty in $$g$$ caused by $$\delta y$$, which we can call $$\delta g_2$$, and so forth.
