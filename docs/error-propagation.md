@@ -19,7 +19,7 @@ From the sketch above, it is tempting to suggest a simple rule like $$\delta f =
 In the second sketch, $$\delta f$$ is clearly much smaller than in the first sketch, even though $$\delta x$$ is exactly the same in both cases.  Why?  Because the function $$f(x)$$ is flat, or very nearly so, near the value of $$x$$ we care about in the second drawing.  Aha!  The uncertainty in $$f$$ depends on the uncertainty in $$x$$, but also on the steepness of the function $$f$$ in the spot where we are evaluating it.  We can express "the steepness of the function $$f$$" in more precise and mathematical terms – it is the function’s derivative, $$\frac{df}{dx}$$.  Thus we have an error propagation rule for functions of a single variable:
 
 **\begin{equation}
-\delta f = \delta x \Bigl\lvert\frac{df}{dx}\Bigr\rvert,
+\delta f = \delta x \lvert\frac{df}{dx}\rvert,
 \end{equation}**
 
 where the derivative $$\frac{df}{dx}$$ is evaluated at the measured value of $$x$$.  The absolute value signs are there because error bars give the size of uncertainties, so all error bars are expressed as positive numbers.
@@ -36,13 +36,13 @@ giving in this case $$\delta p = 0.2 cm$$.
 
 ### Example 2:  Coefficient of Static Friction
 
-A lab group measures the maximum angle $$\theta_c$$ that a wooden ramp can be tilted away from the horizontal before a metal container on the ramp begins to slip.  They find $$\theta_c = 27.0\pm 1.4$$ degrees.  Using mechanics they derive $$\mu_s = \tan{\theta_c}$$, so they calculate $$\mu_s = 0.509525\ldots$$.  To find the uncertainty $$\delta \mu_s$$, they let $$\theta_c = x$$ and $$\mu_s = f(x)$$ in Equation 1 above, and obtain
+A lab group measures the maximum angle $$\theta_m$$ at which a wooden ramp can be tilted away from the horizontal before a metal container on the ramp begins to slip.  They find $$\theta_m = 27.0\pm 1.4$$ degrees.  Using mechanics they derive $$\mu_s = \tan{\theta_m}$$, so they calculate $$\mu_s = 0.509525\ldots$$.  To find the uncertainty $$\delta \mu_s$$, they let $$\theta_m = x$$ and $$\mu_s = f(x)$$ in Equation 1 above, and obtain
 
 \begin{equation}
-\delta \mu_s = (\delta \theta_c)(\sec{\theta_c})^2. \nonumber
+\delta \mu_s = (\delta \theta_m)(\sec{\theta_m})^2. \nonumber
 \end{equation}
 
-The derivative of $$\text{tan}$$ is $$\text{sec}^2$$ only if $$\theta_c$$ is expressed in radians, so to complete the calculation above they convert $$\delta \theta_c$$ to radians before plugging in numbers.  They find $$\delta \mu_s = 0.030778229\ldots$$.  Since digits of an answer well beyond the uncertainty are misleading, not meaningful, they write their final result as $$\mu_s = 0.51 \pm 0.03$$.
+The derivative of $$\text{tan}$$ is $$\text{sec}^2$$ only if $$\theta_m$$ is expressed in radians, so to complete the calculation above they convert $$\delta \theta_m$$ to radians before plugging in numbers.  They find $$\delta \mu_s = 0.030778229\ldots$$.  Since digits of an answer well beyond the uncertainty are misleading, not meaningful, they write their final result as $$\mu_s = 0.51 \pm 0.03$$.
 
 -----------
 
