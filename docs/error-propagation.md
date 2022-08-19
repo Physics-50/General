@@ -32,7 +32,7 @@ A student measures the side length $$s$$ of a square and finds $$s=4.0 \pm 0.05$
 \delta p = (\delta s) (4), \nonumber
 \end{equation}
 
-giving in this case $$\delta p = 0.2 cm$$.
+giving in this case $$\delta p = 0.2$$ cm.
 
 ### Example 2:  Coefficient of Static Friction
 
