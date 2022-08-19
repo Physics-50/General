@@ -26,7 +26,7 @@ where the derivative $$\frac{df}{dx}$$ is evaluated at the measured value of $$x
 
 ### Example 1:  Perimeter of a Square
 
-A student measures the side length $$s$$ of a square and finds $$s=4.0 \pm 0.05$$ cm.  They calculate that the perimeter of the square is $$p=16$$ cm.  To find the uncertainty $$\delta p$$, they let $$S=x$$ and $$p=f(x)$$ in Equation 1 above, and obtain
+A student measures the side length $$s$$ of a square and finds $$s=4.0 \pm 0.05$$ cm.  They calculate that the perimeter of the square is $$p=16$$ cm.  To find the uncertainty $$\delta p$$, they let $$s=x$$ and $$p=f(x)$$ in Equation 1 above, and obtain
 
 \begin{equation}
 \delta p = (\delta s) (4), \nonumber
