@@ -109,8 +109,8 @@ Some checkpoints are submitted in two parts for which part 1 is a practice calcu
 The course grade will be calculated based upon your performance on the mini-questions, checkpoints, reports, and in-lab conduct.
 
 Final grades will be determined as follows:
-+ Timely completion of the reading miniquestions: 20%
-+ Checkpoints: 10%
++ Timely completion of the reading miniquestions: 10%
++ Checkpoints: 20%
 + Reports: 60%
 + Lab Citizenship: 10%
 
