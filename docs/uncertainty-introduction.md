@@ -19,7 +19,7 @@ In panel (i), the measured velocities of cars A and B are reported, but we are g
 
 Instead, if the values are reported with their uncertainties as in (ii), the error bars (the vertical lines around each data point) give an indication of how confident we are that the actual speed for each car falls within a range of values. In this example, the velocity of car A is reported as $$v_A = 23 \pm 5\,\mathrm{m/s}$$ and the velocity of car B is $$v_B = 18 \pm 5 \, \mathrm{m/s}$$. Because the error bars are relatively large compared to the difference between A and B in (ii), we might conclude the following: *"The speed of A and B was measured to be similar and their difference was within the experimental uncertainty of $$\pm$$ 5 m/s."* In other words, the experiment was not sensitive enough to tell the difference between the speed of A and B. 
 
-If we had used a more sensitive experimental technique, that would give a smaller uncertainty as in (iii). This smaller experimental uncertainty lets us make a more powerful conclusion: *"The velocity of car A was measured to be faster than that of car B, with $$v_A = 23 \pm 2\,\mathrm{m/s}$$ and $$v_B = 18 \pm 2 \, \mathrm{m/s}$$.* By minimizing sources of uncertainty in our experiments and providing accurate estimates of how large the uncertainties are in our measurements, we are able to make strong conclusions about our experiments.
+If we had used a more sensitive experimental technique, that would give a smaller uncertainty as in (iii). This smaller experimental uncertainty lets us make a more powerful conclusion: *"The velocity of car A was measured to be faster than that of car B, with $$v_A = 23 \pm 2\,\mathrm{m/s}$$ and $$v_B = 18 \pm 2 \, \mathrm{m/s}$$."* By minimizing sources of uncertainty in our experiments and providing accurate estimates of how large the uncertainties are in our measurements, we are able to make strong conclusions about our experiments.
 
 That's our goal as experimental scientists: to make strong conclusions based on our data. To do this we need to try to minimize the uncertainty when we perform a measurement. We must be aware of how much variance there is in the data and how to quantify that variance. We want to be aware of what factors in the experiment are introducing the most significant uncertainty and determine if there is some way we can improve the experimental design within our laboratory constraints. During an experiment you will need to ask yourself what factors could influence the result of your measurement. Each of these factors can be thought of as working against our having perfect knowledge about a “measurand” (the quantity we want to measure) and adding to the overall uncertainty in the result. A crucial aspect of experimentation is to identify the most important sources of uncertainty and to numerically estimate their effect on your measurement result.
 
@@ -99,7 +99,7 @@ $$\mathrm{SEM} = \frac{x_\mathrm{dev}}{\sqrt{n}}$$
 
 ----------------------------------------
 
-Returning to our example with $$n=3$$ for our two techniques, and looking at these at these three important quantities (sample mean, sample standard deviation, and standard error of the mean):
+Returning to our example with $$n=3$$ for our two techniques, and looking at these three important quantities (sample mean, sample standard deviation, and standard error of the mean):
 
 ![experiment with 3 data points](images/exper-n3.jpg)
 
