@@ -75,13 +75,13 @@ which in this situation becomes
 A pair of students measure a rectangle's length to be $$\ell = 2.0 \pm 0.1$$ cm and its width to be $$w = 1.2 \pm 0.1$$ cm.  They calculate its area to be $$A = \ell w = 2.4 \text{ cm}^2$$.  To find the uncertainty, they compute
 
 \begin{equation}
-\delta g_1 = \delta \ell \Bigl\lvert\frac{\partial A}{\partial \ell}\Bigr\rvert = (\delta \ell)(w) = 0.0144 \text{ cm}^2 \nonumber
+\delta g_1 = \delta \ell \Bigl\lvert\frac{\partial A}{\partial \ell}\Bigr\rvert = (\delta \ell)(w) = 0.12 \text{ cm}^2 \nonumber
 \end{equation}
 
 and 
 
 \begin{equation}
-\delta g_2 = \delta w \Bigl\lvert\frac{\partial A}{\partial w}\Bigr\rvert = (\delta w)(\ell) = 0.04 \text{ cm}^2. \nonumber
+\delta g_2 = \delta w \Bigl\lvert\frac{\partial A}{\partial w}\Bigr\rvert = (\delta w)(\ell) = 0.2 \text{ cm}^2. \nonumber
 \end{equation}
 
  Combining these uncertainties from two independent sources, they find
