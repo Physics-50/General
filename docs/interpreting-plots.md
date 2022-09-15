@@ -7,9 +7,9 @@ In our [introduction to plotting](curve-fitting-motivation) we introduced the pa
 \end{equation}
 Here, $$\chi$$ is the Greek letter "chi" (pronounced like ["Kai"](https://www.marketplace.org/2020/10/01/canadas-tourist-driven-pne-pivots-to-hosting-film-production/){:target="_blank"}).
 
-In particular we defined a weighted least squares fit as the linear function that minimized this parameter.
+In particular we defined a weighted least squares fit as one that adjusted the fit parameters to minimize this quantity.
 
-Now that you've performed the fit, the next question is how to interpret the results.
+Now that you've performed a fit, the next question is how to interpret the results.
 
 
 #### 1. Uncertainties in the fitted slope and intercept
@@ -41,11 +41,11 @@ Roughly speaking, the reduced $$\chi^2$$ value tells us on average how many erro
 
 Finally, the fitting script reports a quantity $$P_>$$, given as a percentage.  The meaning of $$P_>$$ is as follows.  Suppose that the phenomenon you are measuring does actually follow the type of trend you fit it to -- constant, linear, or quadratic.  Also suppose that your error bars are an accurate representation of the uncertainty in each data point.  Now suppose that you repeat the entire experiment many times, producing many data sets, plots, and fits.  $$P_>$$ is the fraction of data sets that would give you a $$\chi_{\nu}^2$$ value greater than this one just because of random variations in the experimental outcomes.  The calculation of $$P_>$$ starts with the reduced chi-squared value, but it also takes into account the number of data points and number of fit parameters.  With only four points to fit a line, it may not be so unlikely for a particularly unlucky data set to give $$\chi_{\nu}^2>1.1$$, but with 40 or 400 points to fit a line, the same $$\chi_{\nu}^2$$ value is much less likely to come about through simple bad luck, and much more likely to signal a real mismatch between data and theory.
 
-An "ideal" $$\chi_{\nu}^2$$ of 1 corresponds to an "ideal" $$P_>$$ value of 50%.  That result suggests that your data matches the fit function exactly as well as could be expected on average, given the size of the error bars; this experiment was neither lucky nor unlucky, but exactly in between.  Real data will seldom give this outcome, so it is a useful rule of thumb is to look very closely at fits with $$P_>$$ above 90% or below 10%, paying attention to the other factors already discussed to decide why the fit is so much "better" or worse than expected.
+An "ideal" $$\chi_{\nu}^2$$ of 1 corresponds to an "ideal" $$P_>$$ value of 50%.  That result suggests that your data matches the fit function exactly as well as could be expected on average, given the size of the error bars; this experiment was neither lucky nor unlucky, but exactly in between.  Real data will seldom give this outcome, so a useful rule of thumb is to look very closely at fits with $$P_>$$ above 90% or below 10%, paying attention to the other factors already discussed to decide why the fit is so much "better" or worse than expected.
 
 #### 5. Combining all considerations
 
-In the example above, the value of $$\chi_\nu^2 = 0.99$$ and $$P_> = 39.6\%$$ supports the idea that our linear fit is a good model of the data.  The residuals seem randomly distributed, so that is an added reassurance that a linear function may do a good job of describing the phenomenon we are studying.
+In the example graph above, the value of $$\chi_\nu^2 = 0.99$$ and $$P_> = 39.6\%$$ supports the idea that our linear fit is a good model of the data.  The residuals seem randomly distributed, so that is an added reassurance that a linear function may do a good job of describing the phenomenon we are studying.
 
 Let's look at two examples where our reduced $$\chi^2$$ value differs significantly from 1. First, here's an example where $$\chi_\nu^2$$ is small:
 
@@ -57,7 +57,7 @@ In this example, each data point is much closer than 1 error bar to the fitted l
 + we overestimated the error bars;
 + the main uncertainty in our experiment is affecting all data points in a correlated way, not scattering individual data points randomly above and below the overall trend.  This is called *correlated* error, most likely arising from some systematic effect that influences all data points in the same direction, but was reset between trials and so contributed to the measured SEM.
 
-The last two options seem the most likely for the above plot. So **if our data looks like this, we should double-check the calculation of uncertainties and give some thought to possible sources of correlated systematic error in the experiment.**
+The last two options seem the most likely for the plot above. So **if our data looks like this, we should double-check the calculation of uncertainties and give some thought to possible sources of correlated systematic error in the experiment.**
 
 Finally, let's take a look at an example where the data points are typically much further than 1 error bar away from the fitted line:
 
