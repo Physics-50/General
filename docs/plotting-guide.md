@@ -12,9 +12,9 @@ Make (or go to) a tab in your spreadsheet that you will use specifically to prep
 
 1. If necessary, you should rename the column headings in Row 1 to match your data. These will form the axis labels for your plot. You may surround algebraic variables and Greek letters with dollar signs; e.g., $\theta$ (°) or $L$ (cm) or $T^2$ (s$^2$) or $L_{\rm string}$ (cm), where \rm "removes" math mode and lets you include normally-formatted text within a mathematical formula.  Column headings have already been entered in the sample sheet.
 
-2. Check that correct data entries prefilled into the plotting tab of the spreadsheet. Note the formatting that allows an entry to be copied from a previous sheet. Specifically: **='Data Collection'!B6** will copy the entry from cell B6 of the "Data Collection" tab into the new cell. Check to make sure that the entries are indeed the values you wish to export.
+2. Check that correct data entries prefilled into the plotting tab of the spreadsheet. Note the formatting that allows an entry to be copied from a previous sheet. For example: **='Data Collection'!B6** will copy the entry from cell B6 of the "Data Collection" tab into the new cell. Check to make sure that the entries are indeed the values you wish to export.
 
-3. You should now go to the "File" menu and select "Dowload". From within the download tab select "Comma Separated Values (.csv)" and save the file to your computer.
+3. You should now go to the "File" menu and select "Download". From within the download tab select "Comma Separated Values (.csv)" and save the file to your computer.
 
 4. Now go to the [Physics 50 Fitting Page](https://physics.hmc.edu/fitter/){:target="_blank"}. Under **Data** choose the .csv file you just saved. Under **Kind** select the type of fit you would like to perform.
 
