@@ -1,15 +1,13 @@
 **Click on the image below to enlarge in a new tab:**
-[![Schedule](images/fa22schedule.png)](images/fa22schedule.png){:target="_blank"}
+[![Schedule](images/sp23schedule.png)](images/sp23schedule.png){:target="_blank"}
 
 
   
   
 
 Instructors: <br>
-S. Gerbode (she/her), gerbode@hmc.edu<br>
-T. Lynn (she/her), lynn@hmc.edu<br>
-R. Solanki (he/him), rsolanki@hmc.edu<br>
 D. Tamayo (he/him), dtamayo@hmc.edu<br>
+R. Solanki (he/him), rsolanki@hmc.edu<br>
 
 # Physics 50 Syllabus
 
@@ -53,15 +51,11 @@ In this course you will complete four modules that each last several weeks.  Bef
 
 After the first week of class, and during mid-module weeks, you will have a short "checkpoint" assignment designed to check data analysis or interpretation skills relevant to the experiment in progress.  Each checkpoint is due on Gradescope three days before the next lab meeting:
 
-+ Monday sections: checkpoints due Fridays at 10 pm
-+ Wednesday sections: checkpoints due Sundays at 10 pm
 + Thursday sections: checkpoints due Mondays at 10 pm
 + Friday sections: checkpoints due Tuesdays at 10 pm
 
 After Modules 1-3 you will submit short written reports.  These reports should be no more than two pages, including figures, and should summarize your experimental procedure, results, and conclusions.  Each partner should prepare their own written report.  A sample lab report is linked on Sakai, and your instructor may discuss report expectations with you in more detail.  Written reports are due on Gradescope three days before the first meeting of the next module:
 
-+ Monday sections: reports due Friday 9/30, 10/28, and 11/18 at 10 pm
-+ Wednesday sections: reports due Sunday 9/25, 10/23, and 11/13 at 10 pm
 + Thursday sections: reports due Monday 9/26, 10/24, and 11/14 at 10 pm
 + Friday sections: reports due Tuesday 9/27, 10/25, and 11/15 at 10 pm
 
@@ -124,7 +118,7 @@ All modules must be satisfactorily completed (lab weeks attended or made up, and
 Please do not attend class if you are ill or subject to quarantine due to possible COVID-19 exposure. However, attendance at all class meetings is required except in case of illness, school-related travel, or family or personal emergency.  Any missed lab days must be made up.  Please do reach out to your instructor as soon as you know (or expect) you will be unable to attend a class, and we will work with you to make alternate arrangements including no-penalty extensions. 
 
 # Late Policy
-You may have two extensions of up to 24 hours without penalty over the course of the semester, to be used for checkpoints or written reports (but not mini-questions or the tech report oral presentation).  To use one of these extensions, simply email your instructor by the regular deadline for the assignment.
+You may have two extensions of up to 48 hours without penalty over the course of the semester, to be used for checkpoints or written reports (but not mini-questions or the tech report oral presentation).  To use one of these extensions, *you must email your instructor by the regular deadline for the assignment.*
 
 When an extension has not been granted, late work will be accepted within the windows listed below with the following deductions. These deductions are based on the available points for the item, not your score:
 
@@ -139,20 +133,11 @@ Mini-questions are intended to help you prepare for your time in lab and are due
 
  If you are experiencing extenuating circumstances please don't hesitate to reach out to your instructor to seek accommodation beyond the structures listed above. 
 
-<!-- # Online Resources
-The course website is available on Sakai, where you will find links to each module of the course in the side menu of the Physics 50 page. Also linked from that page are Gradescope and Piazza. You will submit the module checkpoints (and reports??) through Gradescope. To offer another way for students to communicate with each other we have created [this Piazza site](https://piazza.com/hmc/spring2022/ph50){:target="_blank"}. In Piazza you can ask questions to the class; we encourage you to use this forum to ask your classmates course-related questions and to answer each other's questions. There are no grades associated with participation on Piazza; it is for your own benefit as a means to collaborate with each other. Office hours are posted on the "Office Hours" link on the side menu of Sakai. Please note that you must be logged into your g.hmc.edu account through a Google Chrome browser to access this information. **Students should feel welcome to attend any professor’s office hours.**
-
-We will also be using Google apps including Docs and Sheets. Several templates and blank documents will assigned throughout the course via Google Classroom, which enables us to create copies of documents for every student. You will need to log in to Google Classroom when prompted from the Module instructions, but you do not need to actively monitor Google Classroom for new assignments. Sakai is our primary point of contact with you, not Google Classroom. -->
-
-
 # The Writing Center
 The Writing Center provides a welcoming space for writers to get feedback on their composition projects, whether written, spoken or visual pieces. Writing Center Consultants are prepared to assist students in any discipline with any stage of the writing process, from developing an idea to polishing a final draft. Even the most accomplished writers benefit from seeking feedback at the Writing Center. You may schedule an appointment through their website, [https://www.hmc.edu/learning-programs/writing center](https://www.hmc.edu/learning-programs/writing-center/){:target="_blank"}.
 
-
 # Accommodations
 HMC is committed to providing an inclusive learning environment and support for all students. As we continue to navigate the effects of the pandemic, we recognize that the challenges facing students may be different and student accommodation needs may change. Students with a disability (including mental health, chronic or temporary medical conditions) who may need accommodations in order to fully participate in this class are encouraged to contact the Office of Accessible Education at access@g.hmc.edu to request accommodations. Students from the other Claremont Colleges should contact their home college's Accessible Education officer.
-
-
 
 # Wellness 
 College can be stressful, and it’s important to support the physical and mental well-being of ourselves and others even as we work to learn challenging new material in courses. That means getting some food, sleep, exercise and relaxation even during crunch time! If you find that you are in need of help or overwhelmed by this class, don’t hesitate to reach out to your instructor or the Academic Deans at academicdeans@g.hmc.edu. We will work with you to develop a plan for success in this course. 
