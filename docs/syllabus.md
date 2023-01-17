@@ -56,8 +56,8 @@ After the first week of class, and during mid-module weeks, you will have a shor
 
 After Modules 1-3 you will submit short written reports.  These reports should be no more than two pages, including figures, and should summarize your experimental procedure, results, and conclusions.  Each partner should prepare their own written report.  A sample lab report is linked on Sakai, and your instructor may discuss report expectations with you in more detail.  Written reports are due on Gradescope three days before the first meeting of the next module:
 
-+ Thursday sections: reports due Monday 9/26, 10/24, and 11/14 at 10 pm
-+ Friday sections: reports due Tuesday 9/27, 10/25, and 11/15 at 10 pm
++ Thursday sections: Lab reports due Mondays at 10 pm
++ Friday sections: Lab reports due Tuesdays at 10 pm
 
 Rough drafts of the first two reports should be prepared for peer review during the "lesson" meetings following the end of these modules.  For the final module (the tech report), you and your partner will jointly give an oral presentation (see schedule) instead of submitting individual written reports.
 
