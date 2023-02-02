@@ -4,6 +4,7 @@ This page links a few resources you can use throughout this course:
 
 + [Syllabus & Schedule](syllabus)
 + [Data Analysis Guides](data_analysis_guides)
++ [Lab Report Grading Rubric](images/labreportgradingrubric.pdf)
 + [Sample Lab Report](images/sample-lab-report.pdf)
 
 For module-by-module content, go to "Module X Content" on Sakai.
