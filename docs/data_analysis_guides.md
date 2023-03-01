@@ -8,4 +8,4 @@ This page links to several lessons on different aspects of quantifying uncertain
 + [Introduction to Plotting and Fitting](DAG_curve-fitting-motivation)
 + [Guide to Plotting and Fitting Routine](DAG_plotting-guide)
 + [Interpreting Weighted Fits](DAG_interpreting-plots)
-+ [Experimental Design Activity](images/Bohannon.pdf)
++ [Experimental Design Activity](images/Bohannon15.pdf)
