@@ -17,3 +17,23 @@ Week #  | Week of   | Monday                        | Wednesday, Thursday, Frida
 13      | 11/20     | Tech report, week 1           | No Class (Thanksgiving break) |
 14      | 11/27     | Tech report, week 2           | Tech report, week 2           | 
 15      | 12/4      | Tech report presentations     | Tech report presentations     | 
+
+<table border="1">
+        <tr>
+            <th>NAME</th>
+            <th>AGE</th>
+            <th>BRANCH</th>
+        </tr>
+ 
+        <tr>
+            <td bgcolor="green">BITTU</td>
+            <td bgcolor="red">22</td>
+            <td bgcolor="yellow">CSE</td>
+        </tr>
+ 
+        <tr>
+            <td bgcolor="yellow">RAKESH</td>
+            <td bgcolor="green">25</td>
+            <td bgcolor="red">EC</td>
+        </tr>
+    </table>
