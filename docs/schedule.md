@@ -10,7 +10,7 @@
         <tr>
             <td>1</td>
             <td>8/28</td>
-            <td bgcolor="#FFF2CC">[Intro lesson](syllabus)</td>
+            <td bgcolor="#FFF2CC"><a href="syllabus">Intro lesson</a></td>
             <td bgcolor="#FFF2CC">Intro lesson</td>
         </tr>
         <tr>
