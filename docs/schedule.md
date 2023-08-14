@@ -35,8 +35,8 @@ Week #  | Week of   | Monday                        | Wednesday, Thursday, Frida
         <tr>
             <td>1</td>
             <td>8/28</td>
-            <td bgcolor="#FFF2CC">Intro Lesson</td>
-            <td bgcolor="#FFF2CC">Intro Lesson</td>
+            <td bgcolor="#FFF2CC">Intro lesson</td>
+            <td bgcolor="#FFF2CC">Intro lesson</td>
         </tr>
         <tr>
             <td>2</td>
@@ -55,5 +55,71 @@ Week #  | Week of   | Monday                        | Wednesday, Thursday, Frida
             <td>9/18</td>
             <td bgcolor="#E2EFDA">Module 1, week 2</td>
             <td bgcolor="#E2EFDA">Module 1, week 2</td>
+        </tr>
+        <tr>
+            <td>5</td>
+            <td>9/25</td>
+            <td bgcolor="#FFF2CC">Graphing and fitting lesson</td>
+            <td bgcolor="#FFF2CC">Graphing and fitting lesson</td>
+        </tr>
+        <tr>
+            <td>6</td>
+            <td>10/2</td>
+            <td bgcolor="#FFD5EC">Module 2, week 1</td>
+            <td bgcolor="#FFD5EC">Module 2, week 1</td>
+        </tr>
+        <tr>
+            <td>7</td>
+            <td>10/9</td>
+            <td bgcolor="#FFD5EC">Module 2, week 2</td>
+            <td bgcolor="#FFD5EC">Module 2, week 2</td>
+        </tr>
+        <tr>
+            <td>8</td>
+            <td>10/16</td>
+            <td>No class (fall break)</td>
+            <td bgcolor="#FFF2CC">EXperimental design lesson</td>
+        </tr>
+        <tr>
+            <td>9</td>
+            <td>10/23</td>
+            <td bgcolor="#FFF2CC">EXperimental design lesson</td>
+            <td bgcolor="#DDEBF7">Module 3, week 1</td>
+        </tr>
+       <tr>
+            <td>10</td>
+            <td>10/30</td>
+            <td bgcolor="#DDEBF7">Module 3, week 1</td>
+            <td bgcolor="#DDEBF7">Module 3, week 2</td>
+        </tr>
+        <tr>
+            <td>11</td>
+            <td>11/6</td>
+            <td bgcolor="#DDEBF7">Module 3, week 2</td>
+            <td bgcolor="#DDEBF7">Module 3, week 3</td>
+        </tr>
+        <tr>
+            <td>12</td>
+            <td>11/13</td>
+            <td bgcolor="#DDEBF7">Module 3, week 3</td>
+            <td bgcolor="#E6D9FF">Tech report, week 1</td>
+        </tr>
+        <tr>
+            <td>13</td>
+            <td>11/20</td>
+            <td bgcolor="#E6D9FF">Tech report, week 1</td>
+            <td>No class (Thanksgiving break)</td>
+        </tr>
+        <tr>
+            <td>14</td>
+            <td>11/27</td>
+            <td bgcolor="#E6D9FF">Tech report, week 2</td>
+            <td bgcolor="#E6D9FF">Tech report, week 2</td>
+        </tr>
+        <tr>
+            <td>15</td>
+            <td>12/4</td>
+            <td bgcolor="#E6D9FF">Tech report presentations</td>
+            <td bgcolor="#E6D9FF">Tech report presentations</td>
         </tr>
     </table>
