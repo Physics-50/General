@@ -2,7 +2,7 @@
 
 Week #  | Week of   | Monday                        | Wednesday, Thursday, Friday   |
 --------|-----------|------------------------------ | ------------------------------|
-1       | 8/28      | <span style="color: red">Intro Lesson</span>                  | Intro Lesson                  |          
+1       | 8/28      | <span style="background-color: red">[Intro Lesson](syllabus)</span>                  | Intro Lesson                  |          
 2       | 9/4       | No Class                      | No Class                      |
 3       | 9/11      | Module 1, week 1              | Module 1, week 1              |
 4       | 9/18      | Module 1, week 2              | Module 1, week 2              |
