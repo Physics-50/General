@@ -18,22 +18,37 @@ Week #  | Week of   | Monday                        | Wednesday, Thursday, Frida
 14      | 11/27     | Tech report, week 2           | Tech report, week 2           | 
 15      | 12/4      | Tech report presentations     | Tech report presentations     | 
 
-<table border="1">
+
+ “RGB(226, 239, 218)”. M1
+
+ “RGB(255, 213, 236)”.M2
+ “RGB(221, 235, 247 )”. M3
+ “RGB(230, 217, 255)”. TR
+<table>
         <tr>
-            <th>NAME</th>
-            <th>AGE</th>
-            <th>BRANCH</th>
+            <th>Week #</th>
+            <th>Week of</th>
+            <th>Monday</th>
+            <th>Wednesday, Thursday, Friday</th>
         </tr>
  
         <tr>
-            <td bgcolor="green">BITTU</td>
-            <td bgcolor="red">22</td>
-            <td bgcolor="yellow">CSE</td>
+            <td>1</td>
+            <td>8/28</td>
+            <td bgcolor="RGB(255, 242, 204)">Intro Lesson</td>
+            <td bgcolor="RGB(255, 242, 204)">Intro Lesson</td>
         </tr>
- 
         <tr>
-            <td bgcolor="yellow">RAKESH</td>
-            <td bgcolor="green">25</td>
-            <td bgcolor="red">EC</td>
+            <td>2</td>
+            <td>9/4</td>
+            <td>No Class</td>
+            <td>No Class</td>
         </tr>
+        <tr>
+            <td>3</td>
+            <td>9/11</td>
+            <td bgcolor="RGB(226, 239, 218)">Module 1, week 1</td>
+            <td bgcolor="RGB(226, 239, 218)">Module 1, week 1</td>
+        </tr>
+        
     </table>
