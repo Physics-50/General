@@ -35,8 +35,8 @@ Week #  | Week of   | Monday                        | Wednesday, Thursday, Frida
         <tr>
             <td>1</td>
             <td>8/28</td>
-            <td bgcolor="RGB(255, 242, 204)">Intro Lesson</td>
-            <td bgcolor="RGB(255, 242, 204)">Intro Lesson</td>
+            <td bgcolor="#FFF2CC">Intro Lesson</td>
+            <td bgcolor="#FFF2CC">Intro Lesson</td>
         </tr>
         <tr>
             <td>2</td>
@@ -47,8 +47,13 @@ Week #  | Week of   | Monday                        | Wednesday, Thursday, Frida
         <tr>
             <td>3</td>
             <td>9/11</td>
-            <td bgcolor="RGB(226, 239, 218)">Module 1, week 1</td>
-            <td bgcolor="RGB(226, 239, 218)">Module 1, week 1</td>
+            <td bgcolor="#E2EFDA">Module 1, week 1</td>
+            <td bgcolor="#E2EFDA">Module 1, week 1</td>
         </tr>
-        
+        <tr>
+            <td>4</td>
+            <td>9/18</td>
+            <td bgcolor="#E2EFDA">Module 1, week 2</td>
+            <td bgcolor="#E2EFDA">Module 1, week 2</td>
+        </tr>
     </table>
