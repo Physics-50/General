@@ -1,5 +1,6 @@
 # Physics 50 Syllabus
 
++ [Instructors](#instructors)
 + [Preamble](#preamble)
 + [Masking Policy](#masking-policy)
 + [Course Structure and Due Dates](#course-structure-and-due-dates)
@@ -16,12 +17,11 @@
 
 ## Instructors
 
-Instructors: <br>
-R. Solanki (he/him), rsolanki@g.hmc.edu <br>
-A. Esin (she/her), esin@g.hmc.edu <br>
-M. Ilton (he/him), milton@g.hmc.edu <br>
-T. Lynn (she/her), lynn@g.hmc.edu <br>
-T. A. Rodriquez-Velez (he/him,she/her), trodriguezvalez@g.hmc.edu <br> 
+R. Solanki (he/him), rsolanki@g.hmc.edu, Monday lab sections <br>
+A. Esin (she/her), esin@g.hmc.edu, Wednesday lab sections <br>
+M. Ilton (he/him), milton@g.hmc.edu, Thursday lab sections  <br>
+T. Lynn (she/her), lynn@g.hmc.edu, Friday Morning lab sections<br>
+T. A. Rodriquez-Velez (he/him,she/her), trodriguezvalez@g.hmc.edu, Friday lab sections <br> 
 
 
 ## Preamble

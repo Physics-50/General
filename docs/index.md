@@ -4,7 +4,7 @@ This page links a few resources you can use throughout this course:
 
 
 + [Syllabus](syllabus)
-+ [Schedule](shcedule)
++ [Schedule](schedule)
 
 
 + [Data Analysis Guides](data_analysis_guides)
