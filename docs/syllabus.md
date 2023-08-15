@@ -1,14 +1,24 @@
 # Physics 50 Syllabus
 
-+ [Instructors](#instructors)
-+ [Preamble](#preamble)
-+ [Masking Policy](#masking-policy)
-+ [Course Structure and Due Dates](#course-structure-and-due-dates)
-+ [Lab Books and Data Sheets](#lab-books-and-data-sheets)
-+ [Collaboration](#collaboration)
-+ [Grading](#grading)
-+ [Absence from Class](#absence-from-class)
-+ [Late Policy](#late-policy)
+- [Physics 50 Syllabus](#physics-50-syllabus)
+  - [Instructors](#instructors)
+  - [Preamble](#preamble)
+  - [Masking Policy](#masking-policy)
+  - [Course Structure and Due Dates](#course-structure-and-due-dates)
+  - [Lab Books and Data Sheets](#lab-books-and-data-sheets)
+  - [Google Doc Notebook:](#google-doc-notebook)
+    - [Data Sheets](#data-sheets)
+  - [Collaboration](#collaboration)
+  - [Grading](#grading)
+  - [Absence from Class](#absence-from-class)
+  - [Late Policy](#late-policy)
+    - [Miniquestions](#miniquestions)
+    - [Checkpoints and Reports](#checkpoints-and-reports)
+  - [The Writing Center](#the-writing-center)
+  - [Accommodations](#accommodations)
+  - [Wellness](#wellness)
+  - [Belonging](#belonging)
+  - [Title IX Notification](#title-ix-notification)
 <!-- + [Online Resources](#online-resources) -->
 <!-- + [Gradescope Submissions](#gradescope-submissions) -->
 + [Writing Center](#the-writing-center)
@@ -21,8 +31,7 @@ R. Solanki (he/him), rsolanki@g.hmc.edu, Monday lab sections <br>
 A. Esin (she/her), esin@g.hmc.edu, Wednesday lab sections <br>
 M. Ilton (he/him), milton@g.hmc.edu, Thursday lab sections  <br>
 T. Lynn (she/her), lynn@g.hmc.edu, Friday Morning lab sections<br>
-T. A. Rodriquez-Velez (he/him,she/her), trodriguezvalez@g.hmc.edu, Friday lab sections <br> 
-
+T. A. Rodriguez-Velez (he/him,she/her), trodriguezvelez@g.hmc.edu, Friday lab sections <br> 
 
 ## Preamble
 
