@@ -1,10 +1,19 @@
-# Physics 50, fall 2022
+# Physics 50, Fall 2023
 
 This page links a few resources you can use throughout this course:
 
-+ [Syllabus & Schedule](syllabus)
-+ [Data Analysis Guides](data_analysis_guides)
-+ [Lab Report Grading Rubric](images/labreportgradingrubric.pdf)
-+ [Sample Lab Report](images/sample-lab-report.pdf)
 
-For module-by-module content, go to "Module X Content" on Sakai.
++ [Syllabus](syllabus)
++ [Schedule](shcedule)
+
+
++ [Data Analysis Guides](data_analysis_guides)
+
++ [Science Communication Guides](science_communication_guides)
+
+
++ [Module 1](https://physics-50.github.io/Module-1)
++ [Module 2](https://physics-50.github.io/Module-2)
++ [Module 3](https://physics-50.github.io/Module-3)
+
+
