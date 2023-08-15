@@ -5,7 +5,6 @@
 
 
 + [Data Analysis Guides](data_analysis_guides)
-
 + [Science Communication Guides](science_communication_guides)
 
 
