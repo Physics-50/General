@@ -1,8 +1,5 @@
 # Physics 50, Fall 2023
 
-This page links a few resources you can use throughout this course:
-
-
 + [Syllabus](syllabus)
 + [Schedule](schedule)
 
