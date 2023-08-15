@@ -53,12 +53,12 @@
             <td>8</td>
             <td>10/16</td>
             <td>No class (fall break)</td>
-            <td bgcolor="#FFF2CC">EXperimental design lesson</td>
+            <td bgcolor="#FFF2CC">Experimental design lesson</td>
         </tr>
         <tr>
             <td>9</td>
             <td>10/23</td>
-            <td bgcolor="#FFF2CC">EXperimental design lesson</td>
+            <td bgcolor="#FFF2CC">Experimental design lesson</td>
             <td bgcolor="#DDEBF7">Module 3, week 1</td>
         </tr>
        <tr>
