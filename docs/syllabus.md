@@ -1,14 +1,3 @@
-**Click on the image below to enlarge in a new tab:**
-[![Schedule](images/sp23schedule.png)](images/sp23schedule.png){:target="_blank"}
-
-
-  
-  
-
-Instructors: <br>
-D. Tamayo (he/him), dtamayo@hmc.edu<br>
-R. Solanki (he/him), rsolanki@hmc.edu<br>
-
 # Physics 50 Syllabus
 
 + [Preamble](#preamble)
@@ -25,8 +14,17 @@ R. Solanki (he/him), rsolanki@hmc.edu<br>
 + [Accommodations, Wellness, Belonging, Title IX](#accommodations)
 
 
+## Instructors
 
-# Preamble
+Instructors: <br>
+R. Solanki (he/him), rsolanki@g.hmc.edu <br>
+A. Esin (she/her), esin@g.hmc.edu <br>
+M. Ilton (he/him), milton@g.hmc.edu <br>
+T. Lynn (she/her), lynn@g.hmc.edu <br>
+T. A. Rodriquez-Velez (he/him,she/her), trodriguezvalez@g.hmc.edu <br> 
+
+
+## Preamble
 
 By the end of this course you will be able to collect, analyze, and interpret real measured data in an ethical manner and draw meaningful conclusions from direct observations of the physical world. Toward that end, we hope that this course will provide you with specific skills but also with multiple opportunities to reflect on and refine your own experimental process and choices. Before each module you will learn relevant statistical techniques for analyzing data and quantifying uncertainty.  In each module you will first follow directions to become familiar with a new set of equipment and physical phenomena, and then use what you have learned to carry out careful measurements to determine a particular quantity or test a theory. In later modules you will set your own experimental goals. At the end of each module you will communicate the results of your experiment and analysis in a short written summary or oral presentation.
 
@@ -43,10 +41,10 @@ In order to be successful in this course you should:
 
 If we (your instructors) could do all of these all of the time we would be better physicists and probably better people in general. We are looking for you to demonstrate development and competence in these areas; we do not expect perfection.
 
-# Masking Policy
+## Masking Policy
 Physics 50 course policy requires everyone in the lab room to wear a well-fitting mask that covers the nose and mouth, at all times.  Food and drink can be brought into the lab room in closed containers, but should not be consumed in class.  Students are encouraged to step outside the lab room briefly if necessary (for example, to eat or drink).  We thank you for following this policy to help reduce illness and quarantine time among your classmates and lab instructors.
 
-# Course Structure and Due Dates
+## Course Structure and Due Dates
 In this course you will complete four modules that each last several weeks.  Before each week of Modules 1-3, you will start by reading the online manual (linked on Sakai), where you will find background information and lab instructions, with miniquestions embedded throughout the text. These miniquestions are intended to help you quickly confirm your understanding of what you are reading and should be completed as you read. **Each week you are expected to read through the material for the week and complete the embedded mini-questions before the start of lab in order to be prepared to use your time efficiently in class.** After submission of a miniquestion, if your answer is incorrect you will be prompted to resubmit your answer. In order to receive credit for your resubmission, you must explain why your new answer is correct. When resubmitting, remember that your goal is not to describe what you did wrong but rather to explain and justify the correct answer.
 
 After the first week of class, and during mid-module weeks, you will have a short "checkpoint" assignment designed to check data analysis or interpretation skills relevant to the experiment in progress.  Each checkpoint is due on Gradescope three days before the next lab meeting:
@@ -61,7 +59,7 @@ After Modules 1-3 you will submit short written reports.  These reports should b
 
 Rough drafts of the first two reports should be prepared for peer review during the "lesson" meetings following the end of these modules.  For the final module (the tech report), you and your partner will jointly give an oral presentation (see schedule) instead of submitting individual written reports.
 
-# Lab Books and Data Sheets
+## Lab Books and Data Sheets
 
 In this course we will not be using traditional lab books. Instead you will be assigned a Google Doc and Google Spreadsheet at the beginning of each module to keep your lab record. These documents will be assigned through Google Classroom, which enables us to create copies of documents for every student and automatically share those documents with instructors.  You will meed to log in to Google Classroom when prompted from the Module instructions to access these documents, which will then be accessible in your Google Drive.  **The Google Docs and Sheets are not explicitly graded. Nevertheless, you are required to use them to document your work and data collected in the lab. The Google docs and Google spreadsheets issued to you through this course are accessible to your instructor, and should provide a clear and complete record of your in-lab and analysis work if your instructor seeks additional detail after reading a report.**
 
@@ -85,10 +83,10 @@ Some tips:
 + Link to your various electronic files (Google Sheets, etc) in the body of your document in the context of describing how you took that particular data. 
     + You can simply copy the URL of the item you wish to link to and paste it into your document.
 
-## Data Sheets
+### Data Sheets
 We expect you to make use of formulae in Google Sheets to make your intermediate calculations. This helps avoid mistakes and makes it easier to fix any mistakes later. It is also how we understand and evaluate some of your work if questions arise when we read your reports.  You are required to use your spreadsheet not just to record data but also to do the analysis using formulas in Sheets (not your calculator). If entries are entered without making use of Google Sheets to do the calculations you may not receive full credit for your work. Your data sheet, coupled with the history feature of Google Sheets, also serves as a time record of your work in the lab. Recording data elsewhere and then later pasting it into Google Sheets is not acceptable. However, it is acceptable to collect data in one lab partner's sheet and then copy it to the other partner's sheet. If doing this, you should include a note to the effect "this data was originally collected in **Name of Lab Partner**'s laboratory notebook and is reproduced here." 
 
-# Collaboration
+## Collaboration
 You will collect data with a partner in the lab. We expect individual students to complete the miniquestions, data analysis, checkpoints, and reports for themselves. If you would like to discuss with your lab partner or another classmate while doing analysis in parallel, we encourage that type of collaboration! It may not save you much time, but often working through material together gives a better learning experience. **Just remember that each of you needs to do your own analysis. It is not acceptable to turn in your lab partner's writing or products of their analysis such as a plot they prepared.**
 
 <!-- Module 1 will be completed in remote format. For this module you are welcome to work on your own or with one partner.  If you choose to work with a lab partner, your lab partner for this module must be currently enrolled in Physics 50 but does not need to be in your section. If you work with a lab partner please indicate who you worked with within your Google Sheets data sheet. -->
@@ -99,7 +97,7 @@ You will collect data with a partner in the lab. We expect individual students t
 Some checkpoints are submitted in two parts for which part 1 is a practice calculation for which the above policy doesn't apply. When this occurs it will be clearly indicated. When a checkpoint is in two parts, the total points for the two parts will be combined to give the checkpoint grade. -->
  
 
-# Grading
+## Grading
 The course grade will be calculated based upon your performance on the mini-questions, checkpoints, reports, and in-lab conduct.
 
 Final grades will be determined as follows:
@@ -114,18 +112,18 @@ All modules must be satisfactorily completed (lab weeks attended or made up, and
 
 <!-- Please note that in this course, in order to provide quick feedback, most grades will be published and released on Gradescope as the work is being graded. However, we do at times need to go back and make adjustments to ensure consistency and therefore do not consider grades final until ~2 weeks after they are released. -->
 
-# Absence from Class
+## Absence from Class
 Please do not attend class if you are ill or subject to quarantine due to possible COVID-19 exposure. However, attendance at all class meetings is required except in case of illness, school-related travel, or family or personal emergency.  Any missed lab days must be made up.  Please do reach out to your instructor as soon as you know (or expect) you will be unable to attend a class, and we will work with you to make alternate arrangements including no-penalty extensions. 
 
-# Late Policy
+## Late Policy
 You may have two extensions of up to 48 hours without penalty over the course of the semester, to be used for checkpoints or written reports (but not mini-questions or the tech report oral presentation).  To use one of these extensions, *you must email your instructor by the regular deadline for the assignment.*
 
 When an extension has not been granted, late work will be accepted within the windows listed below with the following deductions. These deductions are based on the available points for the item, not your score:
 
-## Miniquestions
+### Miniquestions
 Mini-questions are intended to help you prepare for your time in lab and are due at the start of lab. We therefore do not offer extensions on mini-questions.
 
-## Checkpoints and Reports
+### Checkpoints and Reports
 + Up to 5 hours past the deadline: 5%
 + Up to 24 hours past the deadline: 10%
 + Up to 48 hours past the deadline: 15%
@@ -133,19 +131,19 @@ Mini-questions are intended to help you prepare for your time in lab and are due
 
  If you are experiencing extenuating circumstances please don't hesitate to reach out to your instructor to seek accommodation beyond the structures listed above. 
 
-# The Writing Center
+## The Writing Center
 The Writing Center provides a welcoming space for writers to get feedback on their composition projects, whether written, spoken or visual pieces. Writing Center Consultants are prepared to assist students in any discipline with any stage of the writing process, from developing an idea to polishing a final draft. Even the most accomplished writers benefit from seeking feedback at the Writing Center. You may schedule an appointment through their website, [https://www.hmc.edu/learning-programs/writing center](https://www.hmc.edu/learning-programs/writing-center/){:target="_blank"}.
 
-# Accommodations
+## Accommodations
 HMC is committed to providing an inclusive learning environment and support for all students. As we continue to navigate the effects of the pandemic, we recognize that the challenges facing students may be different and student accommodation needs may change. Students with a disability (including mental health, chronic or temporary medical conditions) who may need accommodations in order to fully participate in this class are encouraged to contact the Office of Accessible Education at access@g.hmc.edu to request accommodations. Students from the other Claremont Colleges should contact their home college's Accessible Education officer.
 
-# Wellness 
+## Wellness 
 College can be stressful, and it’s important to support the physical and mental well-being of ourselves and others even as we work to learn challenging new material in courses. That means getting some food, sleep, exercise and relaxation even during crunch time! If you find that you are in need of help or overwhelmed by this class, don’t hesitate to reach out to your instructor or the Academic Deans at academicdeans@g.hmc.edu. We will work with you to develop a plan for success in this course. 
 
 
-# Belonging
+## Belonging
 Everyone who is registered for this course belongs here and has valuable contributions to make to our class. Our diversity of backgrounds, experiences, and viewpoints will enrich the classroom, and our mutual respect will allow us all the grace to make mistakes and learn from them.
 
-# Title IX Notification
+## Title IX Notification
 Harvey Mudd College is committed to providing an environment free of all forms of discrimination and sexual harassment, including sexual assault, domestic violence, dating violence, and stalking. If you (or someone you know) has experienced or experiences any of these incidents, know that you are not alone. We are available to talk to you if you are in need although we are obligated to report any contraventions of Title IX to the HMC Title IX Coordinator, Jennifer Alanis (jalanis@hmc.edu). If you want to speak to someone confidentially, the following resources are available on and off campus: the EmPOWER Center (909-607-2689), the Monsour Counseling Center (909-621-8202), the Project Sister Family Services' 24-hr sexual assault hotline (909-626-4357, ask for HMC Advocates) and the McAlister Chaplains (909-621-8685). Additional information about your options is also available at [https://www.hmc.edu/tix](https://www.hmc.edu/tix){:target="_blank"}. 
 
