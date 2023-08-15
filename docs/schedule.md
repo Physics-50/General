@@ -94,7 +94,9 @@
         <tr>
             <td>15</td>
             <td>12/4</td>
-            <td bgcolor="#E6D9FF">Tech report presentations</td>
-            <td bgcolor="#E6D9FF">Tech report presentations</td>
+            <td bgcolor="#E6D9FF">Tech report presentations*</td>
+            <td bgcolor="#E6D9FF">Tech report presentations*</td>
         </tr>
     </table>
+
+*Note: Tech report presentations will take place in Shan 3421 - (R2R Classroom)
