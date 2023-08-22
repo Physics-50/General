@@ -20,5 +20,5 @@ Homework for the Graphing and Fitting Lesson is due on Gradescope three days bef
 
 ## Experimental Design Lesson (Before Module 3)
 + [Experimental Design Activity](images/Bohannon15.pdf)
-+ 
+  
 Homework for the Experimental Design Lesson is due on Gradescope three days before your Module 3 begins.
