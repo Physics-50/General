@@ -22,14 +22,14 @@
         <tr>
             <td>3</td>
             <td>9/11</td>
-            <td bgcolor="#E2EFDA">Module 1, week 1</td>
-            <td bgcolor="#E2EFDA">Module 1, week 1</td>
+            <td bgcolor="#E2EFDA"><a href="https://physics-50.github.io/Module-1/week1">Module 1, week 1</a></td>
+            <td bgcolor="#E2EFDA"><a href="https://physics-50.github.io/Module-1/week1">Module 1, week 1</a></td>
         </tr>
         <tr>
             <td>4</td>
             <td>9/18</td>
-            <td bgcolor="#E2EFDA">Module 1, week 2</td>
-            <td bgcolor="#E2EFDA">Module 1, week 2</td>
+            <td bgcolor="#E2EFDA"><a href="https://physics-50.github.io/Module-1/week2">Module 1, week 2</a></td>
+            <td bgcolor="#E2EFDA"><a href="https://physics-50.github.io/Module-1/week2">Module 1, week 2</a></td>
         </tr>
         <tr>
             <td>5</td>
