@@ -9,6 +9,9 @@ This page links to several lessons on different aspects of quantifying uncertain
 
 Homework for the Intro Lesson is due on Gradescope three days before your Module 1 begins.
 
+Also due before Module 1 are the two pre-course assessments:
++ [E-CLASS](https://cuboulder.qualtrics.com/SE/?SID=SV_6sezdPSLqM8rBRQ){:target="_blank}
++ [PLIC](https://yul1.qualtrics.com/jfe/form/SV_9LCfGKAXl768pbU){:target="_blank"}
 
 ## Graphing and Fitting Lesson (Before Module 2)
 + [Introduction to Plotting and Fitting](DAG_curve-fitting-motivation)
@@ -16,6 +19,8 @@ Homework for the Intro Lesson is due on Gradescope three days before your Module
 + [Interpreting Weighted Fits](DAG_interpreting-plots)
 
 Homework for the Graphing and Fitting Lesson is due on Gradescope three days before your Module 2 begins.
+
+
 
 
 ## Experimental Design Lesson (Before Module 3)
