@@ -27,13 +27,13 @@
 
 ## Instructors
 
-Name (pronouns) | Email | Section Days | Office Location and Office Hours
+Name (pronouns) <br> Email | Section Days | Office Location and Office Hours
 -----------------| ------ |---------| -----------------------
-R. Solanki (he/him) | rsolanki@g.hmc.edu | Mondays | 1235 
-A. Esin (she/her) |  esin@g.hmc.edu | Wednesdays | Keck 1245
-M. Ilton (he/him) | milton@g.hmc.edu | Thursdays | Keck 1237  M/W 4:30-5:30pm, Th 9-10am
-T. Lynn (she/her) |  lynn@g.hmc.edu | Friday Mornings | Keck 1232 Tu/W  1:30-3pm
-T. A. Rodriguez-Velez (he/him,she/her) | trodriguezvelez@g.hmc.edu | Fridays | Keck 1226
+R. Solanki (he/him) <br> rsolanki@g.hmc.edu | Mondays | 1235 <br>
+A. Esin (she/her) <br>  esin@g.hmc.edu | Wednesdays | Keck 1245 <br>
+M. Ilton (he/him) <br> milton@g.hmc.edu | Thursdays | Keck 1237  <br> M/W 4:30-5:30pm, Th 9-10am
+T. Lynn (she/her) <br>  lynn@g.hmc.edu | Friday Mornings | Keck 1232 <br>Tu/W  1:30-3pm
+T. A. Rodriguez-Velez (he/him,she/her) <br> trodriguezvelez@g.hmc.edu | Fridays | Keck 1226 <br>
 
 ## Preamble
 
