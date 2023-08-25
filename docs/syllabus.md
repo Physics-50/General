@@ -27,11 +27,13 @@
 
 ## Instructors
 
-R. Solanki (he/him), rsolanki@g.hmc.edu, Monday lab sections <br>
-A. Esin (she/her), esin@g.hmc.edu, Wednesday lab sections <br>
-M. Ilton (he/him), milton@g.hmc.edu, Thursday lab sections  <br>
-T. Lynn (she/her), lynn@g.hmc.edu, Friday Morning lab sections<br>
-T. A. Rodriguez-Velez (he/him,she/her), trodriguezvelez@g.hmc.edu, Friday lab sections <br> 
+Name (pronouns) | Email | Section Days | Office Location and Office Hours
+-----------------| ------ |---------| -----------------------
+R. Solanki (he/him) | rsolanki@g.hmc.edu | Mondays | 1235 
+A. Esin (she/her) |  esin@g.hmc.edu | Wednesdays | Keck 1245
+M. Ilton (he/him) | milton@g.hmc.edu | Thursdays | Keck 1237  M/W 4:30-5:30pm, Th 9-10am
+T. Lynn (she/her) |  lynn@g.hmc.edu | Friday Mornings | Keck 1232 Tu/W  1:30-3pm
+T. A. Rodriguez-Velez (he/him,she/her) | trodriguezvelez@g.hmc.edu | Fridays | Keck 1226
 
 ## Preamble
 
@@ -51,7 +53,8 @@ In order to be successful in this course you should:
 If we (your instructors) could do all of these all of the time we would be better physicists and probably better people in general. We are looking for you to demonstrate development and competence in these areas; we do not expect perfection.
 
 ## Masking Policy
-Physics 50 course policy requires everyone in the lab room to wear a well-fitting mask that covers the nose and mouth, at all times.  Food and drink can be brought into the lab room in closed containers, but should not be consumed in class.  Students are encouraged to step outside the lab room briefly if necessary (for example, to eat or drink).  We thank you for following this policy to help reduce illness and quarantine time among your classmates and lab instructors.
+
+Physics 50 course policy requires everyone in the lab room to wear a well-fitting mask that covers the nose and mouth, for the first lab session. Your instructor will then tell you their masking policy for other lab meetings. Food and drink can be brought into the lab room in closed containers, but should not be consumed in class. Students are encouraged to step outside the lab room briefly if necessary (for example, to eat or drink). We thank you for following this policy to help reduce illness and quarantine time among your classmates and lab instructors.
 
 ## Course Structure and Due Dates
 In this course you will complete four modules that each last several weeks.  Before each week of Modules 1-3, you will start by reading the online manual (linked on Sakai), where you will find background information and lab instructions, with miniquestions embedded throughout the text. These miniquestions are intended to help you quickly confirm your understanding of what you are reading and should be completed as you read. **Each week you are expected to read through the material for the week and complete the embedded mini-questions before the start of lab in order to be prepared to use your time efficiently in class.** After submission of a miniquestion, if your answer is incorrect you will be prompted to resubmit your answer. In order to receive credit for your resubmission, you must explain why your new answer is correct. When resubmitting, remember that your goal is not to describe what you did wrong but rather to explain and justify the correct answer.
