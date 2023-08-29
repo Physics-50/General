@@ -11,7 +11,7 @@ This page links to several lessons on different aspects of quantifying uncertain
 
 <br>
 
-[Google Sheet for Intro Lesson in-class activity](https://docs.google.com/spreadsheets/d/1mObjRjk2TOFRMNUIl6de8zti46AGEUFYNAOkfX87fcI/){:target="_blank}
+[Google Sheet for Intro Lesson in-class activity](https://docs.google.com/spreadsheets/d/1mObjRjk2TOFRMNUIl6de8zti46AGEUFYNAOkfX87fcI/){:target="_blank"}
 
 ### Intro Lesson Homework
 
