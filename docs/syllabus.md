@@ -33,7 +33,7 @@ R. Solanki (he/him) <br> rsolanki@g.hmc.edu | Mondays | 1235 <br> Wednesday 1-2:
 A. Esin (she/her) <br>  esin@g.hmc.edu | Wednesdays | Keck 1245 <br> T 1:15-3:15pm, F 9-10:30am (my office), Th 1-2:30pm (Zoom ID: annesin)
 M. Ilton (he/him) <br> milton@g.hmc.edu | Thursdays | Keck 1237  <br> M/W 4-5pm, Th 9-10am
 T. Lynn (she/her) <br>  lynn@g.hmc.edu | Friday Mornings | Keck 1232 <br>Tu/W  1:30-3pm
-T. A. Rodriguez-Velez (he/him,she/her) <br> trodriguezvelez@g.hmc.edu | Fridays | Keck 1226 <br>
+T. A. Rodriguez-Velez (he/him,she/her) <br> trodriguezvelez@g.hmc.edu | Fridays | Keck 1226 <br> 5:30-6:30pm
 
 ## Preamble
 
