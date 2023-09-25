@@ -34,8 +34,8 @@
         <tr>
             <td>5</td>
             <td>9/25</td>
-            <td bgcolor="#FFF2CC">Graphing and fitting lesson</td>
-            <td bgcolor="#FFF2CC">Graphing and fitting lesson</td>
+            <td bgcolor="#FFF2CC"><a href="https://physics-50.github.io/General/data_analysis_guides#graphing-and-fitting-lesson-before-module-2">Graphing and fitting lesson</a></td>
+            <td bgcolor="#FFF2CC"><a href="https://physics-50.github.io/General/data_analysis_guides#graphing-and-fitting-lesson-before-module-2">Graphing and fitting lesson</a></td>
         </tr>
         <tr>
             <td>6</td>
