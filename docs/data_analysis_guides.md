@@ -10,7 +10,9 @@ This page links to several lessons on different aspects of quantifying uncertain
 + [Significant Figures](DAG_significant-figures)
 
 <br>
-<!--
+
+<!---
+
 [Google Sheet for Intro Lesson in-class activity](https://docs.google.com/spreadsheets/d/1mObjRjk2TOFRMNUIl6de8zti46AGEUFYNAOkfX87fcI/){:target="_blank"}
 
 ### Intro Lesson Homework
@@ -22,7 +24,8 @@ Also due three days before Module 1 are the two pre-course assessments:
 + [PLIC](https://yul1.qualtrics.com/jfe/form/SV_9LCfGKAXl768pbU){:target="_blank"}
 
 <br>
--->
+
+--->
 
 ## Graphing and Fitting Lesson (Before Module 2)
 + [Introduction to Plotting and Fitting](DAG_curve-fitting-motivation)
