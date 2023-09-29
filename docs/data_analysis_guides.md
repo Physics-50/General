@@ -32,7 +32,7 @@ Also due three days before Module 1 are the two pre-course assessments:
 + [Guide to Plotting and Fitting Routine](DAG_plotting-guide)
 + [Interpreting Weighted Fits](DAG_interpreting-plots)
 
-Homework for the Graphing and Fitting Lesson is due on Gradescope three days before your Module 2 begins.
+Homework for the Graphing and Fitting Lesson is included in Module 2 Checkpoint 1 (due three days before Module 2 Week 2).
 
 
 
