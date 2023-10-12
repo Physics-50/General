@@ -77,19 +77,19 @@
             <td>12</td>
             <td>11/13</td>
             <td bgcolor="#DDEBF7"><a href="https://physics-50.github.io/Module-3/week3">Module 3, week 3</a></td>
-            <td bgcolor="#E6D9FF">Tech report, week 1</td>
+            <td bgcolor="#E6D9FF"><a href="https://physics-50.github.io/General/science_communication_guides">Tech report, week 1</a></td>
         </tr>
         <tr>
             <td>13</td>
             <td>11/20</td>
-            <td bgcolor="#E6D9FF">Tech report, week 1</td>
+            <td bgcolor="#E6D9FF"><a href="https://physics-50.github.io/General/science_communication_guides">Tech report, week 1</a></td>
             <td>No class (Thanksgiving break)</td>
         </tr>
         <tr>
             <td>14</td>
             <td>11/27</td>
-            <td bgcolor="#E6D9FF">Tech report, week 2</td>
-            <td bgcolor="#E6D9FF">Tech report, week 2</td>
+            <td bgcolor="#E6D9FF"><a href="https://physics-50.github.io/General/science_communication_guides">Tech report, week 2</a></td>
+            <td bgcolor="#E6D9FF"><a href="https://physics-50.github.io/General/science_communication_guides">Tech report, week 2</a></td>
         </tr>
         <tr>
             <td>15</td>
