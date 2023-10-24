@@ -40,4 +40,4 @@ Homework for the Graphing and Fitting Lesson is included in Module 2 Checkpoint 
 ## Experimental Design Lesson (Before Module 3)
 + [Experimental Design Activity](images/Bohannon15.pdf)
   
-Homework for the Experimental Design Lesson is due on Gradescope three days before your Module 3 begins.
+Homework for the Experimental Design Lesson is included in Module 3 Checkpoint 2 (due three days before Module 3 Week 3).
