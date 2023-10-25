@@ -132,7 +132,7 @@ All modules must be satisfactorily completed (lab weeks attended or made up, and
 Please do not attend class if you are ill or subject to quarantine due to possible COVID-19 exposure. However, attendance at all class meetings is required except in case of illness, school-related travel, or family or personal emergency.  Any missed lab days must be made up.  Please do reach out to your instructor as soon as you know (or expect) you will be unable to attend a class, and we will work with you to make alternate arrangements including no-penalty extensions. 
 
 ## Late Policy
-You may have two extensions of up to 48 hours without penalty over the course of the semester, to be used for checkpoints or written reports (but not mini-questions or the tech report oral presentation).  To use one of these extensions, *you must email your instructor by the regular deadline for the assignment.*
+You may have two extensions of up to 48 hours each without penalty over the course of the semester, to be used for checkpoints or written reports (but not mini-questions or the tech report oral presentation).  To use one of these extensions, *you must email your instructor by the regular deadline for the assignment.*
 
 When an extension has not been granted, late work will be accepted within the windows listed below with the following deductions. These deductions are based on the available points for the item, not your score:
 
