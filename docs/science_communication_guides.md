@@ -8,5 +8,4 @@
 ## Presentations
 
 + [Tech Report Presentation Guidelines](images/TechReportOralPresentationGuidelines.pdf){:target="_blank"}
-
 + [Tech Report Evaluation Rubric](images/tech-report-evaluation.pdf){:target="_blank"}

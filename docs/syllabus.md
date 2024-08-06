@@ -31,9 +31,9 @@ Name (pronouns) <br> Email | Section Days | Office Location and Office Hours
 -----------------| ------ |---------| -----------------------
 R. Solanki (he/him) <br> rsolanki@g.hmc.edu | Mondays | 1235 <br> Wednesday 1-3:30pm
 A. Esin (she/her) <br>  esin@g.hmc.edu | Wednesdays | Keck 1245 <br> T 1:15-3:15pm, F 9-10:30am (my office), Th 1-2:30pm (Zoom ID: annesin)
-M. Ilton (he/him) <br> milton@g.hmc.edu | Thursdays | Keck 1237  <br> M 3-4pm, W 4-5pm, F 3-4pm
+P. Saeta (he/him) <br>  saeta@g.hmc.edu | Thursdays | Keck 1231 <br> 
 T. Lynn (she/her) <br>  lynn@g.hmc.edu | Friday Mornings | Keck 1232 <br>Tu/W  1:30-3pm
-T. A. Rodriguez-Velez (he/him,she/her) <br> trodriguezvelez@g.hmc.edu | Fridays | Keck 1226 <br> 5:30-6:30pm
+M. Ilton (he/him) <br>  milton@g.hmc.edu | Friday Afternoons | Keck 1237  <br> M 3-4pm, W 4-5pm
 
 ## Preamble
 
@@ -57,16 +57,17 @@ If we (your instructors) could do all of these all of the time we would be bette
 Physics 50 course policy requires everyone in the lab room to wear a well-fitting mask that covers the nose and mouth, for the first lab session. Your instructor will then tell you their masking policy for other lab meetings. Food and drink can be brought into the lab room in closed containers, but should not be consumed in class. Students are encouraged to step outside the lab room briefly if necessary (for example, to eat or drink). We thank you for following this policy to help reduce illness and quarantine time among your classmates and lab instructors.
 
 ## Course Structure and Due Dates
-In this course you will complete four modules that each last several weeks.  Before each week of Modules 1-3, you will start by reading the online manual (linked on Sakai), where you will find background information and lab instructions, with miniquestions embedded throughout the text. These miniquestions are intended to help you quickly confirm your understanding of what you are reading and should be completed as you read. **Each week you are expected to read through the material for the week and complete the embedded mini-questions before the start of lab in order to be prepared to use your time efficiently in class.** After submission of a miniquestion, if your answer is incorrect you will be prompted to resubmit your answer. In order to receive credit for your resubmission, you must explain why your new answer is correct. When resubmitting, remember that your goal is not to describe what you did wrong but rather to explain and justify the correct answer.
 
-After the first week of class, and during mid-module weeks, you will have a short "checkpoint" assignment designed to check data analysis or interpretation skills relevant to the experiment in progress.  Each checkpoint is due on Gradescope three days before the next lab meeting:
+In this course you will complete four modules that each last several weeks.  Before each week of Modules 1-3, you will start by reading the online manual (linked on Canvas), where you will find background information and lab instructions, with miniquestions embedded throughout the text. These miniquestions are intended to help you quickly confirm your understanding of what you are reading and should be completed as you read. **Each week you are expected to read through the material for the week and complete the embedded pre-lab mini-questions before the start of lab in order to be prepared to use your time efficiently in class.** After submission of a miniquestion, if your answer is incorrect you will be prompted to resubmit your answer. In order to receive credit for your resubmission, you must explain why your new answer is correct. When resubmitting, remember that your goal is not to describe what you did wrong but rather to explain and justify the correct answer.
 
-+ Monday sections: checkpoints due Fridays at 10pm
-+ Wednesday sections: checkpoints due Sundays at 10 pm 
-+ Thursday sections: checkpoints due Mondays at 10 pm
-+ Friday sections: checkpoints due Tuesdays at 10 pm
+After the first week of class, and during mid-module weeks, you will have a short post-lab "checkpoint" assignment designed to check data analysis or interpretation skills relevant to the experiment in progress.  Each post-lab checkpoint is due on Gradescope three days before the next lab meeting:
 
-After Modules 1-3 you will submit short written reports.  These reports should be no more than two pages, including figures, and should summarize your experimental procedure, results, and conclusions.  Each partner should prepare their own written report.  A sample lab report is linked on Sakai, and your instructor may discuss report expectations with you in more detail.  Written reports are due on Gradescope three days before the first meeting of the next module:
++ Monday sections: post-lab checkpoints due Fridays at 10pm
++ Wednesday sections: post-lab checkpoints due Sundays at 10 pm 
++ Thursday sections: post-lab checkpoints due Mondays at 10 pm
++ Friday sections: post-lab checkpoints due Tuesdays at 10 pm
+
+After Modules 1-3 you will submit short written reports.  These reports should be no more than two pages, including figures, and should summarize your experimental procedure, results, and conclusions.  Each partner should prepare their own written report.  A sample lab report is linked on Canvas, and your instructor may discuss report expectations with you in more detail.  Written reports are due on Gradescope three days before the first meeting of the next module:
 
 + Monday sections: Lab reports due Fridays at 10pm
 + Wednesday sections: Lab reports due Sundays at 10 pm 
@@ -132,7 +133,7 @@ All modules must be satisfactorily completed (lab weeks attended or made up, and
 Please do not attend class if you are ill or subject to quarantine due to possible COVID-19 exposure. However, attendance at all class meetings is required except in case of illness, school-related travel, or family or personal emergency.  Any missed lab days must be made up.  Please do reach out to your instructor as soon as you know (or expect) you will be unable to attend a class, and we will work with you to make alternate arrangements including no-penalty extensions. 
 
 ## Late Policy
-You may have two extensions of up to 48 hours each without penalty over the course of the semester, to be used for checkpoints or written reports (but not mini-questions or the tech report oral presentation).  To use one of these extensions, *you must email your instructor by the regular deadline for the assignment.*
+You may have two extensions of up to 48 hours each without penalty over the course of the semester, to be used for post-lab checkpoints or written reports (but not pre-lab mini-questions or the tech report oral presentation).  To use one of these extensions, *you must email your instructor by the regular deadline for the assignment.*
 
 When an extension has not been granted, late work will be accepted within the windows listed below with the following deductions. These deductions are based on the available points for the item, not your score:
 
