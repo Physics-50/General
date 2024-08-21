@@ -31,8 +31,8 @@ Name (pronouns) <br> Email | Section Days | Office Location and Office Hours
 -----------------| ------ |---------| -----------------------
 R. Solanki (he/him) <br> rsolanki@g.hmc.edu | Mondays | 1235 <br> Wednesday 1-3:30pm
 A. Esin (she/her) <br>  esin@g.hmc.edu | Wednesdays | Keck 1245 <br> T 1:15-3:15pm, F 9-10:30am (my office), Th 1-2:30pm (Zoom ID: annesin)
-P. Saeta (he/him) <br>  saeta@g.hmc.edu | Thursdays | Keck 1231 <br> 
-T. Lynn (she/her) <br>  lynn@g.hmc.edu | Friday Mornings | Keck 1232 <br>Tu/W  1:30-3pm
+P. Saeta (he/him) <br>  saeta@g.hmc.edu | Thursdays | Keck 1231 <br> W 1:15-5pm
+T. Lynn (she/her) <br>  lynn@g.hmc.edu | Friday Mornings | Keck 1232 <br>M/Tu  2:45-4pm
 M. Ilton (he/him) <br>  milton@g.hmc.edu | Friday Afternoons | Keck 1237  <br> M 3-4pm, W 4-5pm
 
 ## Preamble
@@ -78,7 +78,7 @@ Rough drafts of the first two reports should be prepared for peer review during 
 
 ## Lab Books and Data Sheets
 
-In this course we will not be using traditional lab books. Instead you will be assigned a Google Doc and Google Spreadsheet at the beginning of each module to keep your lab record. These documents will be assigned through Google Classroom, which enables us to create copies of documents for every student and automatically share those documents with instructors.  You will meed to log in to Google Classroom when prompted from the Module instructions to access these documents, which will then be accessible in your Google Drive.  **The Google Docs and Sheets are not explicitly graded. Nevertheless, you are required to use them to document your work and data collected in the lab. The Google docs and Google spreadsheets issued to you through this course are accessible to your instructor, and should provide a clear and complete record of your in-lab and analysis work if your instructor seeks additional detail after reading a report.**
+In this course we will not be using paper lab books. Instead you will be assigned a Google Doc and Google Spreadsheet at the beginning of each module to keep your lab record. These documents will be assigned through Google Classroom, which enables us to create copies of documents for every student and automatically share those documents with instructors.  You will need to log in to Google Classroom when prompted from the Module instructions to access these documents, which will then be accessible in your Google Drive.  **The Google Docs and Sheets are not explicitly graded. Nevertheless, you are required to use them to document your work and data collected in the lab. The Google docs and Google spreadsheets issued to you through this course are accessible to your instructor, and should provide a clear and complete record of your in-lab and analysis work if your instructor seeks additional detail after reading a report.**
 
 The Google Doc and Google Sheets notebooks are intended to be used in parallel. In broad terms we encourage you to use the Google docs notebook to keep detailed notes and images of your experimental set-up and the Google sheets for data collection and analysis, with sufficient organization and description that a student not enrolled in Physics 50 would be able to understand your data and analysis. We describe our expectations in more detail below.
 
@@ -119,9 +119,10 @@ The course grade will be calculated based upon your performance on the mini-ques
 
 Final grades will be determined as follows:
 + Timely completion of the reading miniquestions: 10%
-+ Checkpoints: 20%
-+ Reports: 60%
-+ Lab Citizenship: 10%
++ Checkpoints: 15%
++ Reports: 65%
++ Lab Citizenship: 5%
++ Pre and Post Course Surveys: 5%
 
 All modules must be satisfactorily completed (lab weeks attended or made up, and reports submitted) to pass this course. 
 
@@ -130,10 +131,11 @@ All modules must be satisfactorily completed (lab weeks attended or made up, and
 <!-- Please note that in this course, in order to provide quick feedback, most grades will be published and released on Gradescope as the work is being graded. However, we do at times need to go back and make adjustments to ensure consistency and therefore do not consider grades final until ~2 weeks after they are released. -->
 
 ## Absence from Class
-Please do not attend class if you are ill or subject to quarantine due to possible COVID-19 exposure. However, attendance at all class meetings is required except in case of illness, school-related travel, or family or personal emergency.  Any missed lab days must be made up.  Please do reach out to your instructor as soon as you know (or expect) you will be unable to attend a class, and we will work with you to make alternate arrangements including no-penalty extensions. 
+Please do not attend class if you are ill or are quarantining due to possible COVID-19 exposure. However, attendance at all class meetings is required except in case of illness, school-related travel, or family or personal emergency.  Any missed lab days must be made up.  Please do reach out to your instructor as soon as you know (or expect) you will be unable to attend a class, and we will work with you to make alternate arrangements including no-penalty extensions. 
 
 ## Late Policy
-You may have two extensions of up to 48 hours each without penalty over the course of the semester, to be used for post-lab checkpoints or written reports (but not pre-lab mini-questions or the tech report oral presentation).  To use one of these extensions, *you must email your instructor by the regular deadline for the assignment.*
+You may have two extensions of up to 48 hours each without penalty over the course of the semester, to be used for post-lab checkpoints or written reports (but not pre-lab mini-questions or the tech report oral presentation).  To use one of these extensions, *you must email your instructor by the regular deadline for the assignment.* You can use both extensions for the same checkpoint or report. You cannot use a fraction of an extension (e.g. a 1 hour extension counts for a full 48 hour extension).
+
 
 When an extension has not been granted, late work will be accepted within the windows listed below with the following deductions. These deductions are based on the available points for the item, not your score:
 
@@ -146,7 +148,7 @@ Mini-questions are intended to help you prepare for your time in lab and are due
 + Up to 48 hours past the deadline: 15%
 + Up to 72 hours past the deadline: 20%
 
- If you are experiencing extenuating circumstances please don't hesitate to reach out to your instructor to seek accommodation beyond the structures listed above. 
+ If you are experiencing extenuating circumstances please don't hesitate to reach out to your instructor to discuss accommodation beyond the structures listed above. 
 
 ## The Writing Center
 The Writing Center provides a welcoming space for writers to get feedback on their composition projects, whether written, spoken or visual pieces. Writing Center Consultants are prepared to assist students in any discipline with any stage of the writing process, from developing an idea to polishing a final draft. Even the most accomplished writers benefit from seeking feedback at the Writing Center. You may schedule an appointment through their website, [https://www.hmc.edu/learning-programs/writing center](https://www.hmc.edu/learning-programs/writing-center/){:target="_blank"}.
