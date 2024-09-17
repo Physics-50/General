@@ -29,7 +29,7 @@
 
 Name (pronouns) <br> Email | Section Days | Office Location and Office Hours
 -----------------| ------ |---------| -----------------------
-R. Solanki (he/him) <br> rsolanki@g.hmc.edu | Mondays | Keck 1235 or Stauffer <br> Tu 1-3:30pm, W 2:30-3:30pm
+R. Solanki (he/him) <br> rsolanki@g.hmc.edu | Mondays | Keck 1235 or Stauffer <br> W 1-2pm, Th 1-2pm
 A. Esin (she/her) <br>  esin@g.hmc.edu | Wednesdays | Keck 1245 <br> Tu 1:15-3:15pm, F 9-10:30am (my office), Th 1-2:30pm (Zoom ID: annesin)
 P. Saeta (he/him) <br>  saeta@g.hmc.edu | Thursdays | Keck 1231 <br> W 1:15-5pm
 T. Lynn (she/her) <br>  lynn@g.hmc.edu | Friday Mornings | Keck 1232 <br>M/Tu  2:45-4pm
