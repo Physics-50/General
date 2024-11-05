@@ -101,5 +101,5 @@
     </table>
 
 *Note: Tech report presentations will take place in:<br>
-Shan 3461 (Monday & Wendesday sections)<br>
+Shan 3465 (Monday & Wendesday sections)<br>
 Shan 3460 Skycube (Thursday & Friday sections)
