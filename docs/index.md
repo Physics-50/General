@@ -1,4 +1,4 @@
-# Physics 50, Fall 2024
+# Physics 50, Fall 2025
 
 + [Syllabus](syllabus)
 + [Schedule](schedule)
