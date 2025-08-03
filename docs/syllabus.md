@@ -29,7 +29,7 @@
 
 Name (pronouns) | Email | Section Days | Office Location | Office Hours
 -----------------| ------ |---------| -------------- | --------------
-S. Patel (she/her) | skpatel@g.hmc.edu | Monday | Keck 1247 | TBD
+S. Patel (she/her) | coming soon | Monday | Keck 1247 | TBD
 A. Esin (she/her) | esin@g.hmc.edu | Wednesday | Keck 1245 | TBD
 V. Sahakian (he/him) | sahakian@g.hmc.edu | Thursday | Keck 1229 | TBD
 E. Ibarra Garcia Padilla (he/him) | eibarragarciapadilla@g.hmc.edu | Friday (early) | Keck 1243 | TBD
