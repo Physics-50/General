@@ -3,7 +3,7 @@
 - [Physics 50 Syllabus](#physics-50-syllabus)
   - [Instructors](#instructors)
   - [Preamble](#preamble)
-[comment]: <> (  - [Masking Policy](#masking-policy))
+<!--[comment]: <> (  - [Masking Policy](#masking-policy)) -->
   - [Course Structure and Due Dates](#course-structure-and-due-dates)
   - [Lab Books and Data Sheets](#lab-books-and-data-sheets)
   - [Google Doc Notebook:](#google-doc-notebook)
@@ -27,10 +27,13 @@
 
 ## Instructors
 
-Name (pronouns) <br> Email | Section Days | Office Location and Office Hours
------------------| ------ |---------| -----------------------
-V. Sahakian (he/him) <br> sahakian@g.hmc.edu | Thursdays | Keck 1229 <br> MW 10-11 am
-R. Solanki (he/him) <br> rsolanki@g.hmc.edu | Friday | Keck 1235 <br> Tu 1-2 pm, Th 1-2 pm
+Name (pronouns) | Email | Section Days | Office Location | Office Hours
+-----------------| ------ |---------| -------------- | --------------
+S. Patel (she/her) | skpatel@g.hmc.edu | Monday | Keck 1247 | TBD
+A. Esin (she/her) | esin@g.hmc.edu | Wednesday | Keck 1245 | TBD
+V. Sahakian (he/him) | sahakian@g.hmc.edu | Thursday | Keck 1229 | TBD
+E. Ibarra Garcia Padilla (he/him) | eibarragarciapadilla@g.hmc.edu | Friday (early) | Keck 1243 | TBD
+T. Lynn (she/her) | lynn@g.hmc.edu | Friday (late) | Keck 1232 | TBD
 
 ## Preamble
 
@@ -49,9 +52,9 @@ In order to be successful in this course you should:
 
 If we (your instructors) could do all of these all of the time we would be better physicists and probably better people in general. We are looking for you to demonstrate development and competence in these areas; we do not expect perfection.
 
-[comment]: <> (## Masking Policy)
+<!-- [comment]: <> (## Masking Policy) -->
 
-[comment]: <> (Physics 50 course policy requires everyone in the lab room to wear a well-fitting mask that covers the nose and mouth, for the first lab session. Your instructor will then tell you their masking policy for other lab meetings. Food and drink can be brought into the lab room in closed containers, but should not be consumed in class. Students are encouraged to step outside the lab room briefly if necessary (for example, to eat or drink). We thank you for following this policy to help reduce illness and quarantine time among your classmates and lab instructors.)
+<!-- [comment]: <> (Physics 50 course policy requires everyone in the lab room to wear a well-fitting mask that covers the nose and mouth, for the first lab session. Your instructor will then tell you their masking policy for other lab meetings. Food and drink can be brought into the lab room in closed containers, but should not be consumed in class. Students are encouraged to step outside the lab room briefly if necessary (for example, to eat or drink). We thank you for following this policy to help reduce illness and quarantine time among your classmates and lab instructors.) -->
 
 ## Course Structure and Due Dates
 
