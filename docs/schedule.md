@@ -129,7 +129,7 @@
             <td bgcolor="#E6D9FF">Tech report presentations*</td>
             <td bgcolor="#E6D9FF">Tech report presentations*</td>
         </tr>
-    </table>
+</table>
 
 *Note: Tech report presentations will take place in alternate locations TBD.<br>
 <!-- Shan 3465 (Thursday sections)<br>
