@@ -29,11 +29,11 @@
 
 Name (pronouns) | Email | Section Days | Office Location | Office Hours
 -----------------| ------ |---------| -------------- | --------------
-S. Patel (she/her) | skpatel@g.hmc.edu | Monday | Keck 1247 | TBD
-A. Esin (she/her) | esin@g.hmc.edu | Wednesday | Keck 1245 | TBD
-V. Sahakian (he/him) | sahakian@g.hmc.edu | Thursday | Keck 1229 | TBD
-E. Ibarra Garcia Padilla (he/him) | eibarragarciapadilla@g.hmc.edu | Friday (early) | Keck 1243 | TBD
-T. Lynn (she/her) | lynn@g.hmc.edu | Friday (late) | Keck 1232 | TBD
+S. Patel (she/her) | skpatel@g.hmc.edu | Monday | Keck 1247 | Tue. 1:15-2:45p.m.
+A. Esin (she/her) | esin@g.hmc.edu | Wednesday | Keck 1245 | Fri. 1-3p.m.
+V. Sahakian (he/him) | sahakian@g.hmc.edu | Thursday | Keck 1229 | Wed. 2:30-4:15p.m., Thu. 11a.m.-1p.m.
+E. Ibarra Garcia Padilla (he/him) | eibarragarciapadilla@g.hmc.edu | Friday (early) | Keck 1243 | Mon. 1-3p.m.
+T. Lynn (she/her) | lynn@g.hmc.edu | Friday (late) | Keck 1232 | Mon. 3-5p.m.
 
 ## Preamble
 
@@ -120,7 +120,7 @@ The course grade will be calculated based upon your performance on the mini-ques
 Final grades will be determined as follows:
 + Timely completion of the reading miniquestions: 10%
 + Checkpoints: 15%
-+ Reports: 65%
++ Reports: 65% (Modules 1-3 15% each, Tech Report 20%)
 + Lab Citizenship: 5%
 + Pre and Post Course Surveys: 5%
 
@@ -148,7 +148,7 @@ Mini-questions are intended to help you prepare for your time in lab and are due
 + Up to 48 hours past the deadline: 15%
 + Up to 72 hours past the deadline: 20%
 
- If you are experiencing extenuating circumstances please don't hesitate to reach out to your instructor to discuss accommodation beyond the structures listed above. 
+ If you are experiencing extenuating circumstances please don't hesitate to reach out to your instructor to discuss accommodation beyond the structures listed above.  Typically in these circumstances, the Academic Deans or the Office of Accessible Education should be involved.
 
 ## The Writing Center
 The Writing Center provides a welcoming space for writers to get feedback on their composition projects, whether written, spoken or visual pieces. Writing Center Consultants are prepared to assist students in any discipline with any stage of the writing process, from developing an idea to polishing a final draft. Even the most accomplished writers benefit from seeking feedback at the Writing Center. You may schedule an appointment through their website, [https://www.hmc.edu/learning-programs/writing center](https://www.hmc.edu/learning-programs/writing-center/){:target="_blank"}.
