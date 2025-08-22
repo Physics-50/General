@@ -8,7 +8,7 @@
   - [Lab Books and Data Sheets](#lab-books-and-data-sheets)
   - [Google Doc Notebook](#google-doc-notebook)
     - [Data Sheets](#data-sheets)
-  - [Collaboration](#collaboration)
+  - [Collaboration and AI Use](#collaboration)
   - [Grading](#grading)
   - [Absence from Class](#absence-from-class)
   - [Late Policy](#late-policy)
