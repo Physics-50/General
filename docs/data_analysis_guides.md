@@ -14,8 +14,8 @@ This page links to several lessons on different aspects of quantifying uncertain
 Homework for the Intro Lesson is due on Gradescope three days before your Module 1 begins.
 
 Due three days before your second scheduled class meeting are the two pre-course assessments:
-+ [E-CLASS](https://cuboulder.qualtrics.com/SE/?SID=SV_1M5CJZ1lnKYl6rI){:target="_blank}
-+ [PLIC](https://yul1.qualtrics.com/jfe/form/SV_cO3LJDSXZ0UItNQ){:target="_blank"}
++ [E-CLASS](https://cuboulder.qualtrics.com/SE/?SID=SV_8GLI2QXBMhlqEkK){:target="_blank"}
++ [PLIC](https://yul1.qualtrics.com/jfe/form/SV_42d3GQ8evjWOMui){:target="_blank"}
 
 <br>
 
