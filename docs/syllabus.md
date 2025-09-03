@@ -32,7 +32,7 @@ Name (pronouns) | Email | Section Days | Office Location | Office Hours
 S. Patel (she/her) | skpatel@g.hmc.edu | Monday | Keck 1247 | Tue. 1:15-2:45p.m.
 A. Esin (she/her) | esin@g.hmc.edu | Wednesday | Keck 1245 | Fri. 1-3p.m.
 V. Sahakian (he/him) | sahakian@g.hmc.edu | Thursday | Keck 1229 | Wed. 2:30-4:15p.m., Thu. 11a.m.-12:30p.m.
-E. Ibarra Garcia Padilla (he/him) | eibarragarciapadilla@g.hmc.edu | Friday (early) | Keck 1243 | Mon. 1-3p.m.
+E. Ibarra Garcia Padilla (he/him) | eibarragp@g.hmc.edu | Friday (early) | Keck 1243 | Mon. 1-3p.m.
 T. Lynn (she/her) | lynn@g.hmc.edu | Friday (late) | Keck 1232 | Mon. 3-5p.m.
 
 ## Preamble
