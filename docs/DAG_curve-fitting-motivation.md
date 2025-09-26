@@ -19,7 +19,7 @@ Suppose we are fitting a set of $$n$$ data points $$\{(x_1,y_1), (x_2,y_2), \ldo
 \begin{equation}\label{eq:unweighted}
 \sum_{i=1}^{n} (y_i - (mx_i+b))^2
 \end{equation}
-for a fixed set of $$\{(x_i,y_i)\}$$ that is your data.  If you look at that sum, each term is the squared difference in height, on a $$y$$ vs. $$x$$ plot, between the actual measured value $$y_i$$, and the predicted value $$mx_i +b$$ from the linear fit. So by adjusting the values of the parameters $$m$$ and $$b$$, this type of fitting minimizes the difference between the measured values and the predicted values.
+for a fixed set of $$\{(x_i,y_i)\}$$ values that is your data.  If you look at that sum, each term is the squared difference in height, on a $$y$$ vs. $$x$$ plot, between the actual measured value $$y_i$$, and the predicted value $$mx_i +b$$ from the linear fit. So by adjusting the values of the parameters $$m$$ and $$b$$, this type of fitting minimizes the difference between the measured values and the predicted values.
 
 For example, if we have three data points $$(x_1,y_1)$$, $$(x_2,y_2)$$, $$(x_3,y_3)$$, an unweighted fit to those data points would minimize the total squared distance between the data and the fitted line.
  
