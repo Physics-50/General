@@ -29,11 +29,9 @@
 
 Name (pronouns) | Email | Section Days | Office Location | Office Hours
 -----------------| ------ |---------| -------------- | --------------
-S. Patel (she/her) | skpatel@g.hmc.edu | Monday | Keck 1247 | Tue. 1:15-2:45p.m.
-A. Esin (she/her) | esin@g.hmc.edu | Wednesday | Keck 1245 | Fri. 1-3p.m.
-V. Sahakian (he/him) | sahakian@g.hmc.edu | Thursday | Keck 1229 | Wed. 2:30-4:15p.m., Thu. 11a.m.-12:30p.m.
-E. Ibarra Garcia Padilla (he/him) | eibarragp@g.hmc.edu | Friday (early) | Keck 1243 | Mon. 1-3p.m.
-T. Lynn (she/her) | lynn@g.hmc.edu | Friday (late) | Keck 1232 | Mon. 3-5p.m.
+A. Esin (she/her) | esin@g.hmc.edu | Monday | Keck 1245 | Fri. 1-3p.m.
+S. Patel (she/her) | skpatel@g.hmc.edu | Tuesday | Keck 1247 | Tue. 1:15-2:45p.m.
+R. Solanki (he/him) | rsolanki@g.hmc.edu | Thursday | Keck 1235 | Wed. 2:30-4:15p.m., Thu. 11a.m.-12:30p.m.
 
 ## Preamble
 
@@ -63,6 +61,7 @@ In this course you will complete four modules that each last several weeks.  Bef
 After the first week of class, and during mid-module weeks, you will have a short post-lab "checkpoint" assignment designed to check data analysis or interpretation skills relevant to the experiment in progress.  Each post-lab checkpoint is due on Gradescope three days before the next lab meeting:
 
 + Monday sections: post-lab checkpoints due Fridays at 10pm
++ Tuesday sections:  post-lab checkpoints due Saturdays at 10pm
 + Wednesday sections: post-lab checkpoints due Sundays at 10 pm 
 + Thursday sections: post-lab checkpoints due Mondays at 10 pm
 + Friday sections: post-lab checkpoints due Tuesdays at 10 pm
@@ -70,6 +69,7 @@ After the first week of class, and during mid-module weeks, you will have a shor
 After Modules 1-3 you will submit short written reports.  These reports should be no more than two pages, including figures, and should summarize your experimental procedure, results, and conclusions.  Each partner should prepare their own written report.  A sample lab report is linked on Canvas, and your instructor may discuss report expectations with you in more detail.  Written reports are due on Gradescope three days before the first meeting of the next module:
 
 + Monday sections: Lab reports due Fridays at 10pm
++ Tuesday sections: Lab reports due Saturdays at 10pm
 + Wednesday sections: Lab reports due Sundays at 10 pm 
 + Thursday sections: Lab reports due Mondays at 10 pm
 + Friday sections: Lab reports due Tuesdays at 10 pm
@@ -121,10 +121,10 @@ The course grade will be calculated based upon your performance on the mini-ques
 
 Final grades will be determined as follows:
 + Timely completion of the reading miniquestions: 10%
-+ Checkpoints: 15%
++ Checkpoints: 20%
 + Reports: 65% (Modules 1-3 15% each, Tech Report 20%)
 + Lab Citizenship: 5%
-+ Pre and Post Course Surveys: 5%
+<!--+ Pre and Post Course Surveys: 5%-->
 
 All modules must be satisfactorily completed (lab weeks attended or made up, and reports submitted) to pass this course. 
 
