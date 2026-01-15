@@ -121,8 +121,8 @@ The course grade will be calculated based upon your performance on the mini-ques
 
 Final grades will be determined as follows:
 + Timely completion of the reading miniquestions: 10%
-+ Checkpoints: 20%
-+ Reports: 65% (Modules 1-3 15% each, Tech Report 20%)
++ Checkpoints: 10%
++ Reports: 75% (Modules 1-3 18% each, Tech Report 21%)
 + Lab Citizenship: 5%
 <!--+ Pre and Post Course Surveys: 5%-->
 
