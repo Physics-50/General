@@ -30,7 +30,7 @@
 Name (pronouns) | Email | Section Days | Office Location | Office Hours
 -----------------| ------ |---------| -------------- | --------------
 A. Esin (she/her) | esin@g.hmc.edu | Monday | Keck 1245 | TBD
-S. Patel (she/her) | skpatel@g.hmc.edu | Tuesday | Keck 1247 | TBD
+S. Patel (she/her) | skpatel@g.hmc.edu | Tuesday | Keck 1247 | Wed. 3-5p.m.
 R. Solanki (he/him) | rsolanki@g.hmc.edu | Thursday | Keck 1235 | Tue. 2:30-3:45p.m.
 
 ## Preamble
