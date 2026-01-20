@@ -88,7 +88,7 @@
         <tr>
             <td>12</td>
             <td>4/6</td>
-            <td bgcolor="#DDEBF7"><a href="https://physics-50.github.io/Module-3/week2">Module 3, week 2</a></td>
+            <td bgcolor="#DDEBF7"><a href="https://physics-50.github.io/Module-3/week2">Module 3, week 3</a></td>
             <td bgcolor="#DDEBF7"><a href="https://physics-50.github.io/Module-3/week3">Module 3, week 3</a></td>
             <td bgcolor="#DDEBF7"><a href="https://physics-50.github.io/Module-3/week3">Module 3, week 3</a></td>
         </tr>
