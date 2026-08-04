@@ -1,20 +1,28 @@
 # Schedule
 <table>
     <tr>
+            <th>Week #</th>
+            <th>Week of</th>
+            <th>Monday</th>
+            <th>Wednesday</th>
+            <th>Thursday</th>
+            <th>Friday</th>
+        </tr>
+    <tr>
         <td>1</td>
         <td>8/31</td>
         <td bgcolor="#FFF2CC">Lab Intro <br/> <a href="data_analysis_guides">Uncertainty & error lesson</a></td>
-        <td bgcolor="#FFF2CC">Lab Intro <br/> </td>
-        <td bgcolor="#FFF2CC">Lab Intro <br/> </td>
-        <td bgcolor="#FFF2CC">Lab Intro <br/> </td>
-    </tr>
+        <td bgcolor="#FFF2CC">Lab Intro <br/> <a href="data_analysis_guides">Uncertainty & error lesson</a></td>
+        <td bgcolor="#FFF2CC">Lab Intro <br/> <a href="data_analysis_guides">Uncertainty & error lesson</a></td>
+        <td bgcolor="#FFF2CC">Lab Intro <br/> <a href="data_analysis_guides">Uncertainty & error lesson</a></td>
+            </tr>
     <tr>
         <td>2</td>
         <td>9/7</td>
         <td>No class (Labor Day)</td>
-        <td bgcolor="#FFF2CC"><a href="data_analysis_guides">Uncertainty & error lesson</a></td>
-        <td bgcolor="#FFF2CC"><a href="data_analysis_guides">Uncertainty & error lesson</a></td>
-        <td bgcolor="#FFF2CC"><a href="data_analysis_guides">Uncertainty & error lesson</a></td>
+        <td>No class (Labor Day week)</td>
+        <td>No class (Labor Day week)</td>
+        <td>No class (Labor Day week)</td>
     </tr>
     <tr>
         <td>3</td>
