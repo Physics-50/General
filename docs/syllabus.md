@@ -13,7 +13,7 @@
   - [Absence from Class](#absence-from-class)
   - [Late Policy](#late-policy)
     - [Miniquestions](#miniquestions)
-    - [Checkpoints and Reports](#checkpoints-and-reports)
+    - [Checkpoints](#checkpoints)
   - [The Writing Center](#the-writing-center)
   - [Accommodations](#accommodations)
   - [Wellness](#wellness)
@@ -56,7 +56,7 @@ If we (your instructors) could do all of these all of the time we would be bette
 
 ## Course Structure and Due Dates
 
-In this course you will complete four modules that each last several weeks.  Before each week of Modules 1-3, you will start by reading the online manual (linked on Canvas), where you will find background information and lab instructions, with miniquestions embedded throughout the text. These miniquestions are intended to help you quickly confirm your understanding of what you are reading and should be completed as you read. **Each week you are expected to read through the material for the week and complete the embedded pre-lab mini-questions before the start of lab in order to be prepared to use your time efficiently in class.** After submission of a miniquestion, if your answer is incorrect you will be prompted to resubmit your answer. In order to receive credit for your resubmission, you must explain why your new answer is correct. When resubmitting, remember that your goal is not to describe what you did wrong but rather to explain and justify the correct answer.
+In this course you will complete three modules that each last several weeks.  Before each week of Modules 1-2, you will start by reading the online manual (linked on Canvas), where you will find background information and lab instructions, with miniquestions embedded throughout the text. These miniquestions are intended to help you quickly confirm your understanding of what you are reading and should be completed as you read. **Each week you are expected to read through the material for the week and complete the embedded pre-lab mini-questions before the start of lab in order to be prepared to use your time efficiently in class.** After submission of a miniquestion, if your answer is incorrect you will be prompted to resubmit your answer. In order to receive credit for your resubmission, you must explain why your new answer is correct. When resubmitting, remember that your goal is not to describe what you did wrong but rather to explain and justify the correct answer.
 
 After the first week of class, and during mid-module weeks, you will have a short post-lab "checkpoint" assignment designed to check data analysis or interpretation skills relevant to the experiment in progress.  Each post-lab checkpoint is due on Gradescope three days before the next lab meeting:
 
@@ -66,15 +66,7 @@ After the first week of class, and during mid-module weeks, you will have a shor
 + Thursday sections: post-lab checkpoints due Mondays at 10 pm
 + Friday sections: post-lab checkpoints due Tuesdays at 10 pm
 
-After Modules 1-3 you will submit short written reports.  These reports should be no more than two pages, including figures, and should summarize your experimental procedure, results, and conclusions.  Each partner should prepare their own written report.  A sample lab report is linked on Canvas, and your instructor may discuss report expectations with you in more detail.  Written reports are due on Gradescope three days before the first meeting of the next module:
-
-+ Monday sections: Lab reports due Fridays at 10pm
-+ Tuesday sections: Lab reports due Saturdays at 10pm
-+ Wednesday sections: Lab reports due Sundays at 10 pm 
-+ Thursday sections: Lab reports due Mondays at 10 pm
-+ Friday sections: Lab reports due Tuesdays at 10 pm
-
-Rough drafts of the first two reports should be prepared for peer review during the "lesson" meetings following the end of these modules.  For the final module (the tech report), you and your partner will jointly give an oral presentation (see schedule) instead of submitting individual written reports.
+After Module 1, Module 2, and the Tech Report, instead of a written report you will give a short interactive oral report (approximately 10 minutes) to your instructor.  For Module 1, you and your lab partner give this oral report together with your instructor.  For Module 2 and the Tech Report, you give the oral report individually with your instructor.  These oral reports are scheduled during the Assessment week that follows each module (see [schedule](schedule)), when class time is set aside to meet with each pair or individual in your section.  See the [Science Communication Guides](science_communication_guides) for more detail on format and expectations.
 
 ## Lab Books and Data Sheets
 
@@ -122,11 +114,11 @@ The course grade will be calculated based upon your performance on the mini-ques
 Final grades will be determined as follows:
 + Timely completion of the reading miniquestions: 10%
 + Checkpoints: 10%
-+ Reports: 75% (Modules 1-3 18% each, Tech Report 21%)
++ Oral Reports: 75% **[TBD: confirm weighting across Module 1, Module 2, and Tech Report now that Module 3 is removed]**
 + Lab Citizenship: 5%
 <!--+ Pre and Post Course Surveys: 5%-->
 
-All modules must be satisfactorily completed (lab weeks attended or made up, and reports submitted) to pass this course. 
+All modules must be satisfactorily completed (lab weeks attended or made up, and oral reports given) to pass this course. 
 
 <!-- Grades on the checkpoints and deliverables will be renormalized before averaging so that within their respective category all 3 deliverables are equally weighted and similarly for checkpoints. -->
 
@@ -136,7 +128,7 @@ All modules must be satisfactorily completed (lab weeks attended or made up, and
 Please do not attend class if you are ill or are quarantining due to possible COVID-19 exposure. However, attendance at all class meetings is required except in case of illness, school-related travel, or family or personal emergency.  Any missed lab days must be made up.  Please do reach out to your instructor as soon as you know (or expect) you will be unable to attend a class, and we will work with you to make alternate arrangements including no-penalty extensions. 
 
 ## Late Policy
-You may have two extensions of up to 48 hours each without penalty over the course of the semester, to be used for post-lab checkpoints or written reports (but not pre-lab mini-questions or the tech report oral presentation).  To use one of these extensions, *you must email your instructor by the regular deadline for the assignment.* You can use both extensions for the same checkpoint or report. You cannot use a fraction of an extension (e.g. a 1 hour extension counts for a full 48 hour extension).
+You may have two extensions of up to 48 hours each without penalty over the course of the semester, to be used for post-lab checkpoints (but not pre-lab mini-questions or oral reports, which are scheduled individually with your instructor).  To use one of these extensions, *you must email your instructor by the regular deadline for the assignment.* You can use both extensions for the same checkpoint. You cannot use a fraction of an extension (e.g. a 1 hour extension counts for a full 48 hour extension).
 
 
 When an extension has not been granted, late work will be accepted within the windows listed below with the following deductions. These deductions are based on the available points for the item, not your score:
@@ -144,7 +136,7 @@ When an extension has not been granted, late work will be accepted within the wi
 ### Miniquestions
 Mini-questions are intended to help you prepare for your time in lab and are due at the start of lab. We therefore do not offer extensions on mini-questions.
 
-### Checkpoints and Reports
+### Checkpoints
 + Up to 5 hours past the deadline: 5%
 + Up to 24 hours past the deadline: 10%
 + Up to 48 hours past the deadline: 15%

@@ -29,7 +29,9 @@ Homework for the Graphing and Fitting Lesson is included in Module 2 Checkpoint 
 
 
 
-## Experimental Design Lesson (Before Module 3)
+## Experimental Design Lesson (Before Tech Report)
 + [Experimental Design Activity](images/Bohannon15.pdf)
-  
-Homework for the Experimental Design Lesson is included in Module 3 Checkpoint 2 (due three days before Module 3 Week 3).
+
+Before this lesson, complete the assigned pre-class reading/video on experimental design principles. In class, you will implement those principles hands-on using the solar panel apparatus and instructions from [Module 3, Week 1](https://physics-50.github.io/Module-3/week1). This gives you first-hand familiarity with the solar panel setup in case you would like to use it for your Tech Report investigation.
+
+Homework for the Experimental Design Lesson is due three days before Tech Report Week 1. **[TBD: confirm checkpoint number/name now that Module 3 checkpoints no longer exist.]**
