@@ -27,20 +27,23 @@
 
 ## Instructors
 
-Name (pronouns) | Email | Section Days | Office Location | Office Hours
+Name (pronouns) | Email | Sections  | Office Location | Office Hours
 -----------------| ------ |---------| -------------- | --------------
-A. Esin (she/her) | esin@g.hmc.edu | Monday | Keck 1245 | M 9-10 am, 3-5 pm;  Th 1-2 pm; F 1-3 pm
-S. Patel (she/her) | skpatel@g.hmc.edu | Tuesday | Keck 1247 | Mon. 2:30-5p.m.
-R. Solanki (he/him) | rsolanki@g.hmc.edu | Thursday | Keck 1235 | Tue. 2:30-3:45p.m.
+M. Ilton (he/him) | milton@g.hmc.edu | Monday 12:40 | Keck 1237 | TBD
+E. Ibarra García Padilla (he/him) | eibarragarciapadilla@hmc.edu | Monday 3:15 | Keck 1243 | TBD
+S. Patel (she/her) | skpatel@g.hmc.edu | Wednesday 12:40 & 3:15 | Keck 1235 | TBD
+P. Saeta (he/him) | saeta@g.hmc.edu | Thursday 12:40 & 3:15 | Keck 1231 | TBD
+S. Gerbode | gerbode@hmc.edu | Friday 10:00 | Keck 1233 | TBD
+N. Breznay | nbreznay@hmc.edu | Friday 12:40 & 3:15 | Keck 1247 | TBD
 
 ## Preamble
 
-By the end of this course you will be able to collect, analyze, and interpret real measured data in an ethical manner and draw meaningful conclusions from direct observations of the physical world. Toward that end, we hope that this course will provide you with specific skills but also with multiple opportunities to reflect on and refine your own experimental process and choices. Before each module you will learn relevant statistical techniques for analyzing data and quantifying uncertainty.  In each module you will first follow directions to become familiar with a new set of equipment and physical phenomena, and then use what you have learned to carry out careful measurements to determine a particular quantity or test a theory. In later modules you will set your own experimental goals. At the end of each module you will communicate the results of your experiment and analysis in a short written summary or oral presentation.
+By the end of this course you will be able to collect, analyze, and interpret real measured data in an ethical manner and draw meaningful conclusions from direct observations of the physical world. Toward that end, we hope that this course will provide you with specific skills but also with multiple opportunities to reflect on and refine your own experimental process and choices. Before each module you will learn relevant statistical techniques for analyzing data and quantifying uncertainty.  In each module you will first follow directions to become familiar with a new set of equipment and physical phenomena, and then use what you have learned to carry out careful measurements to determine a particular quantity or test a theory. In the Tech Report you will set your own experimental goals. At the end of each module you will communicate the results of your experiment and analysis in a short written summary or oral presentation.
 
 
 In order to be successful in this course you should:
 + be actively engaged and reach out for help when you get stuck 
-+ complete mini-questions, checkpoints, and reports on time
++ complete mini-questions and checkpoints, and give your oral reports, on time
 + document your work as you go along
 + design an experiment and carry it out, refine your methods along the way, go back and address major problems--do something, think about it, improve upon it
 + reflect on your results, identify main limitations and correct glaring omissions, identify any questions that your results raise
@@ -56,12 +59,12 @@ If we (your instructors) could do all of these all of the time we would be bette
 
 ## Course Structure and Due Dates
 
-In this course you will complete three modules that each last several weeks.  Before each week of Modules 1-2, you will start by reading the online manual (linked on Canvas), where you will find background information and lab instructions, with miniquestions embedded throughout the text. These miniquestions are intended to help you quickly confirm your understanding of what you are reading and should be completed as you read. **Each week you are expected to read through the material for the week and complete the embedded pre-lab mini-questions before the start of lab in order to be prepared to use your time efficiently in class.** After submission of a miniquestion, if your answer is incorrect you will be prompted to resubmit your answer. In order to receive credit for your resubmission, you must explain why your new answer is correct. When resubmitting, remember that your goal is not to describe what you did wrong but rather to explain and justify the correct answer.
+In this course you will complete three modules, each of which lasts several weeks.  Before each week of Modules 1-2, you will start by reading the online manual (linked on Canvas), where you will find background information and lab instructions, with miniquestions embedded throughout the text. These miniquestions are intended to help you quickly confirm your understanding of what you are reading and should be completed as you read. **Each week you are expected to read through the material for the week and complete the embedded pre-lab mini-questions before the start of lab in order to be prepared to use your time efficiently in class.** After submission of a miniquestion, if your answer is incorrect you will be prompted to resubmit your answer. In order to receive credit for your resubmission, you must explain why your new answer is correct. When resubmitting, remember that your goal is not to describe what you did wrong but rather to explain and justify the correct answer.
 
 After the first week of class, and during mid-module weeks, you will have a short post-lab "checkpoint" assignment designed to check data analysis or interpretation skills relevant to the experiment in progress.  Each post-lab checkpoint is due on Gradescope three days before the next lab meeting:
 
 + Monday sections: post-lab checkpoints due Fridays at 10pm
-+ Tuesday sections:  post-lab checkpoints due Saturdays at 10pm
++ Tuesday sections: post-lab checkpoints due Saturdays at 10pm
 + Wednesday sections: post-lab checkpoints due Sundays at 10 pm 
 + Thursday sections: post-lab checkpoints due Mondays at 10 pm
 + Friday sections: post-lab checkpoints due Tuesdays at 10 pm
@@ -70,7 +73,7 @@ After Module 1, Module 2, and the Tech Report, instead of a written report you w
 
 ## Lab Books and Data Sheets
 
-In this course we will not be using paper lab books. Instead you will be assigned a Google Doc and Google Spreadsheet at the beginning of each module to keep your lab record. These documents will be assigned through Google Classroom, which enables us to create copies of documents for every student and automatically share those documents with instructors.  You will need to log in to Google Classroom when prompted from the Module instructions to access these documents, which will then be accessible in your Google Drive.  **The Google Docs and Sheets are not explicitly graded. Nevertheless, you are required to use them to document your work and data collected in the lab. The Google docs and Google spreadsheets issued to you through this course are accessible to your instructor, and should provide a clear and complete record of your in-lab and analysis work if your instructor seeks additional detail after reading a report.**
+In this course you will be assigned a Google Doc and Google Spreadsheet at the beginning of each module to keep your lab record. At the start of each module, you will receive an email with a link to a Google Drive directory containing your lab notebook and data sheet for that module.  **The Google Docs and Sheets are not explicitly graded. Nevertheless, you are required to use them to document your work and data collected in the lab. The Google docs and Google spreadsheets issued to you through this course are accessible to your instructor, and should provide a clear and complete record of your in-lab and analysis work if your instructor seeks additional detail after your oral report.** If you have any trouble accessing your lab notebook or data sheet, please contact your instructor.
 
 The Google Doc and Google Sheets notebooks are intended to be used in parallel. In broad terms we encourage you to use the Google docs notebook to keep detailed notes and images of your experimental set-up and the Google sheets for data collection and analysis, with sufficient organization and description that a student not enrolled in Physics 50 would be able to understand your data and analysis. We describe our expectations in more detail below.
 
@@ -93,7 +96,7 @@ Some tips:
     + You can simply copy the URL of the item you wish to link to and paste it into your document.
 
 ### Data Sheets
-We expect you to make use of formulae in Google Sheets to make your intermediate calculations. This helps avoid mistakes and makes it easier to fix any mistakes later. It is also how we understand and evaluate some of your work if questions arise when we read your reports.  You are required to use your spreadsheet not just to record data but also to do the analysis using formulas in Sheets (not your calculator). If entries are entered without making use of Google Sheets to do the calculations you may not receive full credit for your work. Your data sheet, coupled with the history feature of Google Sheets, also serves as a time record of your work in the lab. Recording data elsewhere and then later pasting it into Google Sheets is not acceptable. However, it is acceptable to collect data in one lab partner's sheet and then copy it to the other partner's sheet. If doing this, you should include a note to the effect "this data was originally collected in **Name of Lab Partner**'s laboratory notebook and is reproduced here." 
+We expect you to make use of formulae in Google Sheets to make your intermediate calculations. This helps avoid mistakes and makes it easier to fix any mistakes later. It is also how we understand and evaluate some of your work if questions arise when we read your reports.  You are required to use your spreadsheet not just to record data but also to do the analysis using formulas in Sheets (not your calculator). If data are entered without using Google Sheets formulas to do the calculations, you may not receive full credit for your work. Your data sheet, coupled with the history feature of Google Sheets, also serves as a time record of your work in the lab. Recording data elsewhere and then later pasting it into Google Sheets is not acceptable. However, it is acceptable to collect data in one lab partner's sheet and then copy it to the other partner's sheet. If doing this, you should include a note to the effect "this data was originally collected in **Name of Lab Partner**'s laboratory notebook and is reproduced here." 
 
 ## Collaboration and AI Use
 You will collect data with a partner in the lab. We expect individual students to complete the miniquestions, data analysis, checkpoints, and reports for themselves. If you would like to discuss with your lab partner or another classmate while doing analysis in parallel, we encourage that type of collaboration! It may not save you much time, but often working through material together gives a better learning experience. **Just remember that each of you needs to do your own analysis. It is not acceptable to turn in your lab partner's writing or products of their analysis such as a plot they prepared.**
@@ -128,7 +131,7 @@ All modules must be satisfactorily completed (lab weeks attended or made up, and
 Please do not attend class if you are ill or are quarantining due to possible COVID-19 exposure. However, attendance at all class meetings is required except in case of illness, school-related travel, or family or personal emergency.  Any missed lab days must be made up.  Please do reach out to your instructor as soon as you know (or expect) you will be unable to attend a class, and we will work with you to make alternate arrangements including no-penalty extensions. 
 
 ## Late Policy
-You may have two extensions of up to 48 hours each without penalty over the course of the semester, to be used for post-lab checkpoints (but not pre-lab mini-questions or oral reports, which are scheduled individually with your instructor).  To use one of these extensions, *you must email your instructor by the regular deadline for the assignment.* You can use both extensions for the same checkpoint. You cannot use a fraction of an extension (e.g. a 1 hour extension counts for a full 48 hour extension).
+You may have two extensions of up to 48 hours each without penalty over the course of the semester, to be used for post-lab checkpoints (but not pre-lab mini-questions or oral reports, which are scheduled individually with your instructor).  To use one of these extensions, *you must email your instructor by the regular deadline for the assignment.* You can use both extensions for the same checkpoint. You cannot use a fraction of an extension (e.g. a 1-hour extension counts for a full 48-hour extension).
 
 
 When an extension has not been granted, late work will be accepted within the windows listed below with the following deductions. These deductions are based on the available points for the item, not your score:
@@ -142,10 +145,10 @@ Mini-questions are intended to help you prepare for your time in lab and are due
 + Up to 48 hours past the deadline: 15%
 + Up to 72 hours past the deadline: 20%
 
- If you are experiencing extenuating circumstances please don't hesitate to reach out to your instructor to discuss accommodation beyond the structures listed above.  Typically in these circumstances, the Academic Deans or the Office of Accessible Education should be involved.
+If you are experiencing extenuating circumstances, please don't hesitate to reach out to your instructor to discuss accommodation beyond the structures listed above.  Typically in these circumstances, the Academic Deans or the Office of Accessible Education should be involved.
 
 ## The Writing Center
-The Writing Center provides a welcoming space for writers to get feedback on their composition projects, whether written, spoken or visual pieces. Writing Center Consultants are prepared to assist students in any discipline with any stage of the writing process, from developing an idea to polishing a final draft. Even the most accomplished writers benefit from seeking feedback at the Writing Center. You may schedule an appointment through their website, [https://www.hmc.edu/learning-programs/writing center](https://www.hmc.edu/learning-programs/writing-center/){:target="_blank"}.
+The Writing Center provides a welcoming space for writers to get feedback on their composition projects, whether written, spoken or visual pieces. Writing Center Consultants are prepared to assist students in any discipline with any stage of the writing process, from developing an idea to polishing a final draft. Even the most accomplished writers benefit from seeking feedback at the Writing Center. You may schedule an appointment through their [website](https://www.hmc.edu/learning-programs/writing-center/){:target="_blank"}.
 
 ## Accommodations
 HMC is committed to providing an inclusive learning environment and support for all students. As we continue to navigate the effects of the pandemic, we recognize that the challenges facing students may be different and student accommodation needs may change. Students with a disability (including mental health, chronic or temporary medical conditions) who may need accommodations in order to fully participate in this class are encouraged to contact the Office of Accessible Education at access@g.hmc.edu to request accommodations. Students from the other Claremont Colleges should contact their home college's Accessible Education officer.

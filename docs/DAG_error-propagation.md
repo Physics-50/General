@@ -42,7 +42,7 @@ A lab group measures the maximum angle $$\theta_m$$ at which a wooden ramp can b
 \delta \mu_s = (\delta \theta_m)(\sec{\theta_m})^2. \nonumber
 \end{equation}
 
-The derivative of $$\text{tan}$$ is $$\text{sec}^2$$ only if $$\theta_m$$ is expressed in radians, so to complete the calculation above they convert $$\delta \theta_m$$ to radians before plugging in numbers.  They find $$\delta \mu_s = 0.030778229\ldots$$.  Since digits of an answer well beyond the uncertainty are misleading, not meaningful, they write their final result as $$\mu_s = 0.51 \pm 0.03$$.
+The derivative of $$\text{tan}$$ is $$\text{sec}^2$$ only if $$\theta_m$$ is expressed in radians, so to complete the calculation above they convert $$\delta \theta_m$$ to radians before plugging in numbers.  They find $$\delta \mu_s = 0.030778229\ldots$$.  Since digits of an answer well beyond the uncertainty are misleading rather than meaningful, they write their final result as $$\mu_s = 0.51 \pm 0.03$$.
 
 -----------
 

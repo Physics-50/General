@@ -11,7 +11,7 @@ This page links to several lessons on different aspects of quantifying uncertain
 
 [Google Sheet for Intro Lesson in-class activity](https://docs.google.com/spreadsheets/d/1mObjRjk2TOFRMNUIl6de8zti46AGEUFYNAOkfX87fcI/){:target="_blank"}
 
-Homework for the Intro Lesson is due on Gradescope three days before your Module 1 begins.
+Homework for the Intro Lesson is due on Gradescope three days before Module 1 begins.
 
 <!--Due three days before your second scheduled class meeting are the two pre-course assessments:-->
 <!--+ [E-CLASS](https://cuboulder.qualtrics.com/SE/?SID=SV_8GLI2QXBMhlqEkK){:target="_blank"}-->

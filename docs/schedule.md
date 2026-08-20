@@ -124,11 +124,10 @@
     <tr>
         <td>15</td>
         <td>12/7</td>
-        <td bgcolor="#FCE4D6"><a href="science_communication_guides#tech-report-oral-assessment">Tech report assessment*</a></td>
-        <td bgcolor="#FCE4D6"><a href="science_communication_guides#tech-report-oral-assessment">Tech report assessment*</a></td>
-        <td bgcolor="#FCE4D6"><a href="science_communication_guides#tech-report-oral-assessment">Tech report assessment*</a></td>
-        <td bgcolor="#FCE4D6"><a href="science_communication_guides#tech-report-oral-assessment">Tech report assessment*</a></td>
+        <td bgcolor="#FCE4D6"><a href="science_communication_guides#tech-report-oral-assessment">Tech report assessment</a></td>
+        <td bgcolor="#FCE4D6"><a href="science_communication_guides#tech-report-oral-assessment">Tech report assessment</a></td>
+        <td bgcolor="#FCE4D6"><a href="science_communication_guides#tech-report-oral-assessment">Tech report assessment</a></td>
+        <td bgcolor="#FCE4D6"><a href="science_communication_guides#tech-report-oral-assessment">Tech report assessment</a></td>
     </tr>
     </table>
 
-*Note: Tech report assessment meetings are individual ~10 minute oral reports with your instructor and may take place in alternate locations TBD.<br> 
