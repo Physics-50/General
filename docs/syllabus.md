@@ -33,8 +33,8 @@ M. Ilton (he/him) | milton@g.hmc.edu | Monday 12:40 | Keck 1237 | TBD
 E. Ibarra García Padilla (he/him) | eibarragarciapadilla@hmc.edu | Monday 3:15 | Keck 1243 | TBD
 S. Patel (she/her) | skpatel@g.hmc.edu | Wednesday 12:40 & 3:15 | Keck 1235 | TBD
 P. Saeta (he/him) | saeta@g.hmc.edu | Thursday 12:40 & 3:15 | Keck 1231 | TBD
-S. Gerbode | gerbode@hmc.edu | Friday 10:00 | Keck 1233 | TBD
-N. Breznay | nbreznay@hmc.edu | Friday 12:40 & 3:15 | Keck 1247 | TBD
+S. Gerbode (they/them) | gerbode@hmc.edu | Friday 10:00 | Keck 1233 | TBD
+N. Breznay (he/him) | nbreznay@hmc.edu | Friday 12:40 & 3:15 | Keck 1247 | TBD
 
 ## Preamble
 
@@ -117,8 +117,12 @@ The course grade will be calculated based upon your performance on the mini-ques
 Final grades will be determined as follows:
 + Timely completion of the reading miniquestions: 10%
 + Checkpoints: 10%
-+ Oral Reports: 75% **[TBD: confirm weighting across Module 1, Module 2, and Tech Report now that Module 3 is removed]**
-+ Lab Citizenship: 5%
++ Oral Reports: 70%
+    - 20% Module 1
+    - 20% Module 2
+    - 25% Tech Report
+    - +5% weighted to best report
++ Lab Citizenship: 10%
 <!--+ Pre and Post Course Surveys: 5%-->
 
 All modules must be satisfactorily completed (lab weeks attended or made up, and oral reports given) to pass this course. 
