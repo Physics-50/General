@@ -11,10 +11,10 @@
     <tr>
         <td>1</td>
         <td>8/31</td>
-        <td bgcolor="#FFF2CC">Lab Intro <br/> <a href="data_analysis_guides">Uncertainty & error lesson</a></td>
-        <td bgcolor="#FFF2CC">Lab Intro <br/> <a href="data_analysis_guides">Uncertainty & error lesson</a></td>
-        <td bgcolor="#FFF2CC">Lab Intro <br/> <a href="data_analysis_guides">Uncertainty & error lesson</a></td>
-        <td bgcolor="#FFF2CC">Lab Intro <br/> <a href="data_analysis_guides">Uncertainty & error lesson</a></td>
+        <td bgcolor="#E2EFDA">Lab Intro <br/> <a href="data_analysis_guides">Uncertainty & error lesson</a></td>
+        <td bgcolor="#E2EFDA">Lab Intro <br/> <a href="data_analysis_guides">Uncertainty & error lesson</a></td>
+        <td bgcolor="#E2EFDA">Lab Intro <br/> <a href="data_analysis_guides">Uncertainty & error lesson</a></td>
+        <td bgcolor="#E2EFDA">Lab Intro <br/> <a href="data_analysis_guides">Uncertainty & error lesson</a></td>
             </tr>
     <tr>
         <td>2</td>
@@ -43,18 +43,18 @@
     <tr>
         <td>5</td>
         <td>9/28</td>
-        <td bgcolor="#FCE4D6"><a href="science_communication_guides#module-1-oral-report">Module 1 Assessment</a></td>
-        <td bgcolor="#FCE4D6"><a href="science_communication_guides#module-1-oral-report">Module 1 Assessment</a></td>
-        <td bgcolor="#FCE4D6"><a href="science_communication_guides#module-1-oral-report">Module 1 Assessment</a></td>
-        <td bgcolor="#FCE4D6"><a href="science_communication_guides#module-1-oral-report">Module 1 Assessment</a></td>
+        <td bgcolor="#E2EFDA"><a href="science_communication_guides#module-1-oral-report">Module 1 Assessment</a></td>
+        <td bgcolor="#E2EFDA"><a href="science_communication_guides#module-1-oral-report">Module 1 Assessment</a></td>
+        <td bgcolor="#E2EFDA"><a href="science_communication_guides#module-1-oral-report">Module 1 Assessment</a></td>
+        <td bgcolor="#E2EFDA"><a href="science_communication_guides#module-1-oral-report">Module 1 Assessment</a></td>
     </tr>
     <tr>
         <td>6</td>
         <td>10/5</td>
-        <td bgcolor="#FFF2CC"><a href="https://physics-50.github.io/General/data_analysis_guides#graphing-and-fitting-lesson-before-module-2">Graphing and fitting lesson</a></td>
-        <td bgcolor="#FFF2CC"><a href="https://physics-50.github.io/General/data_analysis_guides#graphing-and-fitting-lesson-before-module-2">Graphing and fitting lesson</a></td>
-        <td bgcolor="#FFF2CC"><a href="https://physics-50.github.io/General/data_analysis_guides#graphing-and-fitting-lesson-before-module-2">Graphing and fitting lesson</a></td>
-        <td bgcolor="#FFF2CC"><a href="https://physics-50.github.io/General/data_analysis_guides#graphing-and-fitting-lesson-before-module-2">Graphing and fitting lesson</a></td>            
+        <td bgcolor="#FFD5EC"><a href="https://physics-50.github.io/General/data_analysis_guides#graphing-and-fitting-lesson-before-module-2">Graphing and fitting lesson</a></td>
+        <td bgcolor="#FFD5EC"><a href="https://physics-50.github.io/General/data_analysis_guides#graphing-and-fitting-lesson-before-module-2">Graphing and fitting lesson</a></td>
+        <td bgcolor="#FFD5EC"><a href="https://physics-50.github.io/General/data_analysis_guides#graphing-and-fitting-lesson-before-module-2">Graphing and fitting lesson</a></td>
+        <td bgcolor="#FFD5EC"><a href="https://physics-50.github.io/General/data_analysis_guides#graphing-and-fitting-lesson-before-module-2">Graphing and fitting lesson</a></td>            
     </tr>
     <tr>
         <td>7</td>
@@ -76,22 +76,22 @@
         <td>9</td>
         <td>10/26</td>
         <td bgcolor="#FFD5EC"><a href="https://physics-50.github.io/Module-2/week2">Module 2, week 2</a></td>
-        <td bgcolor="#FCE4D6"><a href="science_communication_guides#module-2-oral-report">Module 2 Assessment</a></td>
-        <td bgcolor="#FCE4D6"><a href="science_communication_guides#module-2-oral-report">Module 2 Assessment</a></td>
-        <td bgcolor="#FCE4D6"><a href="science_communication_guides#module-2-oral-report">Module 2 Assessment</a></td>
+        <td bgcolor="#FFD5EC"><a href="science_communication_guides#module-2-oral-report">Module 2 Assessment</a></td>
+        <td bgcolor="#FFD5EC"><a href="science_communication_guides#module-2-oral-report">Module 2 Assessment</a></td>
+        <td bgcolor="#FFD5EC"><a href="science_communication_guides#module-2-oral-report">Module 2 Assessment</a></td>
     </tr>
     <tr>
         <td>10</td>
         <td>11/2</td>
-        <td bgcolor="#FCE4D6"><a href="science_communication_guides#module-2-oral-report">Module 2 Assessment</a></td>
-        <td bgcolor="#DDEBF7"><a href="https://physics-50.github.io/General/data_analysis_guides#experimental-design-lesson-before-tech-report">Experimental design lesson</a></td>
-        <td bgcolor="#DDEBF7"><a href="https://physics-50.github.io/General/data_analysis_guides#experimental-design-lesson-before-tech-report">Experimental design lesson</a></td>
-        <td bgcolor="#DDEBF7"><a href="https://physics-50.github.io/General/data_analysis_guides#experimental-design-lesson-before-tech-report">Experimental design lesson</a></td>
+        <td bgcolor="#FFD5EC"><a href="science_communication_guides#module-2-oral-report">Module 2 Assessment</a></td>
+        <td bgcolor="#E6D9FF"><a href="https://physics-50.github.io/General/data_analysis_guides#experimental-design-lesson-before-tech-report">Experimental design lesson</a></td>
+        <td bgcolor="#E6D9FF"><a href="https://physics-50.github.io/General/data_analysis_guides#experimental-design-lesson-before-tech-report">Experimental design lesson</a></td>
+        <td bgcolor="#E6D9FF"><a href="https://physics-50.github.io/General/data_analysis_guides#experimental-design-lesson-before-tech-report">Experimental design lesson</a></td>
     </tr>
     <tr>
         <td>11</td>
         <td>11/9</td>
-        <td bgcolor="#DDEBF7"><a href="https://physics-50.github.io/General/data_analysis_guides#experimental-design-lesson-before-tech-report">Experimental design lesson</a></td>
+        <td bgcolor="#E6D9FF"><a href="https://physics-50.github.io/General/data_analysis_guides#experimental-design-lesson-before-tech-report">Experimental design lesson</a></td>
         <td bgcolor="#E6D9FF"><a href="https://physics-50.github.io/General/science_communication_guides">Tech report, week 1</a></td>
         <td bgcolor="#E6D9FF"><a href="https://physics-50.github.io/General/science_communication_guides">Tech report, week 1</a></td>
         <td bgcolor="#E6D9FF"><a href="https://physics-50.github.io/General/science_communication_guides">Tech report, week 1</a></td>
@@ -124,10 +124,10 @@
     <tr>
         <td>15</td>
         <td>12/7</td>
-        <td bgcolor="#FCE4D6"><a href="science_communication_guides#tech-report-oral-assessment">Tech report assessment</a></td>
-        <td bgcolor="#FCE4D6"><a href="science_communication_guides#tech-report-oral-assessment">Tech report assessment</a></td>
-        <td bgcolor="#FCE4D6"><a href="science_communication_guides#tech-report-oral-assessment">Tech report assessment</a></td>
-        <td bgcolor="#FCE4D6"><a href="science_communication_guides#tech-report-oral-assessment">Tech report assessment</a></td>
+        <td bgcolor="#E6D9FF"><a href="science_communication_guides#tech-report-oral-assessment">Tech report assessment</a></td>
+        <td bgcolor="#E6D9FF"><a href="science_communication_guides#tech-report-oral-assessment">Tech report assessment</a></td>
+        <td bgcolor="#E6D9FF"><a href="science_communication_guides#tech-report-oral-assessment">Tech report assessment</a></td>
+        <td bgcolor="#E6D9FF"><a href="science_communication_guides#tech-report-oral-assessment">Tech report assessment</a></td>
     </tr>
     </table>
 
