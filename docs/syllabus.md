@@ -71,9 +71,17 @@ After the first week of class, and during mid-module weeks, you will have a shor
 
 After Module 1, Module 2, and the Tech Report, instead of a written report you will give a short interactive oral report (approximately 10 minutes) to your instructor.  For Module 1, you and your lab partner give this oral report together with your instructor.  For Module 2 and the Tech Report, you give the oral report individually with your instructor.  These oral reports are scheduled during the Assessment week that follows each module (see [schedule](schedule)), when class time is set aside to meet with each pair or individual in your section.  See the [Science Communication Guides](science_communication_guides) for more detail on format and expectations.
 
-## Lab Books and Data Sheets
+## Data Storage and Availability
 
-In this course you will be assigned a Google Doc and Google Spreadsheet at the beginning of each module to keep your lab record. At the start of each module, you will receive an email with a link to a Google Drive directory containing your lab notebook and data sheet for that module.  **The Google Docs and Sheets are not explicitly graded. Nevertheless, you are required to use them to document your work and data collected in the lab. The Google docs and Google spreadsheets issued to you through this course are accessible to your instructor, and should provide a clear and complete record of your in-lab and analysis work if your instructor seeks additional detail after your oral report.** If you have any trouble accessing your lab notebook or data sheet, please contact your instructor.
+You were assigned a Google Drive folder with blank templates. If you did not receive an email with your Google Drive folder, let your instructor know.
+
+*All your work for Physics 50 must be in this folder*, including:
+  - raw data you collect
+  - your lab notebooks
+  - analysis you perform on the data
+  - visualizations (plots, schematics, presentation slides)
+
+ **The contents of your Physics 50 Drive folder are not explicitly graded. Nevertheless, you are required to use them to document your work and data collected in the lab. The Google docs and Google spreadsheets issued to you through this course are accessible to your instructor, and should provide a clear and complete record of your in-lab and analysis work if your instructor seeks additional detail after your oral report.**
 
 The Google Doc and Google Sheets notebooks are intended to be used in parallel. In broad terms we encourage you to use the Google docs notebook to keep detailed notes and images of your experimental set-up and the Google sheets for data collection and analysis, with sufficient organization and description that a student not enrolled in Physics 50 would be able to understand your data and analysis. We describe our expectations in more detail below.
 
@@ -132,7 +140,7 @@ All modules must be satisfactorily completed (lab weeks attended or made up, and
 <!-- Please note that in this course, in order to provide quick feedback, most grades will be published and released on Gradescope as the work is being graded. However, we do at times need to go back and make adjustments to ensure consistency and therefore do not consider grades final until ~2 weeks after they are released. -->
 
 ## Absence from Class
-Please do not attend class if you are ill or are quarantining due to possible COVID-19 exposure. However, attendance at all class meetings is required except in case of illness, school-related travel, or family or personal emergency.  Any missed lab days must be made up.  Please do reach out to your instructor as soon as you know (or expect) you will be unable to attend a class, and we will work with you to make alternate arrangements including no-penalty extensions. 
+Please do not attend class if you are ill. However, attendance at all class meetings is required except in case of illness, school-related travel, or family or personal emergency.  Any missed lab days must be made up.  Please reach out to your instructor as soon as you know (or expect) you will be unable to attend a class, and we will work with you to make alternate arrangements including no-penalty extensions. 
 
 ## Late Policy
 You may have two extensions of up to 48 hours each without penalty over the course of the semester, to be used for post-lab checkpoints (but not pre-lab mini-questions or oral reports, which are scheduled individually with your instructor).  To use one of these extensions, *you must email your instructor by the regular deadline for the assignment.* You can use both extensions for the same checkpoint. You cannot use a fraction of an extension (e.g. a 1-hour extension counts for a full 48-hour extension).
