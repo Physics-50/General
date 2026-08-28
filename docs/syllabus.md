@@ -85,7 +85,7 @@ You were assigned a Google Drive folder with blank templates. If you did not rec
 
 The Google Doc and Google Sheets notebooks are intended to be used in parallel. In broad terms we encourage you to use the Google docs notebook to keep detailed notes and images of your experimental set-up and the Google sheets for data collection and analysis, with sufficient organization and description that a student not enrolled in Physics 50 would be able to understand your data and analysis. We describe our expectations in more detail below.
 
-## Google Doc Notebook
+### Google Doc Notebook
 What we will stress in this course is not a particular structure or format for your lab book, but rather the usefulness of the record. The hallmark of a good lab book is how useful it is to you and others at a later point in time.  Ask yourself these questions when faced with a blank lab notebook page:  What information will I need to replicate this experiment in 6 months or 6 years? Would a sketch or photo of the setup be helpful? How exactly did I take that particular data point? Was there something strange about it?  What did or did not work in my experimental procedure and what did I learn from it? What are my units? What does this variable mean? etc.
 
 Some tips: 
