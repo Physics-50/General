@@ -9,7 +9,7 @@ This page links to several lessons on different aspects of quantifying uncertain
 + [Significant Figures](DAG_significant-figures)
 
 
-[Google Sheet for Intro Lesson in-class activity](https://docs.google.com/spreadsheets/d/1mObjRjk2TOFRMNUIl6de8zti46AGEUFYNAOkfX87fcI/){:target="_blank"}
+<!-- [Google Sheet for Intro Lesson in-class activity](https://docs.google.com/spreadsheets/d/1mObjRjk2TOFRMNUIl6de8zti46AGEUFYNAOkfX87fcI/){:target="_blank"} -->
 
 Homework for the Intro Lesson is due on Gradescope three days before Module 1 begins.
 

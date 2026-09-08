@@ -29,7 +29,7 @@
 
 Name (pronouns) | Email | Sections  | Office Location | Office Hours
 -----------------| ------ |---------| -------------- | --------------
-M. Ilton (he/him) | milton@g.hmc.edu | Monday 12:40 | Keck 1237 | TBD
+M. Ilton (he/him) | milton@g.hmc.edu | Monday 12:40 | Keck 1237 | [By appointment](https://calendar.app.google/HM4meCj3q7wmEgQ97){:target="_blank"}
 E. Ibarra García Padilla (he/him) | eibarragarciapadilla@hmc.edu | Monday 3:15 | Keck 1243 | TBD
 S. Patel (she/her) | skpatel@g.hmc.edu | Wednesday 12:40 & 3:15 | Keck 1235 | TBD
 P. Saeta (he/him) | saeta@g.hmc.edu | Thursday 12:40 & 3:15 | Keck 1231 | TBD
