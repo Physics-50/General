@@ -34,7 +34,7 @@ E. Ibarra García Padilla (he/him) | eibarragarciapadilla@hmc.edu | Monday 3:15 
 S. Patel (she/her) | skpatel@g.hmc.edu | Wednesday 12:40 & 3:15 | Keck 1235 | M 2-3:55
 P. Saeta (he/him) | saeta@g.hmc.edu | Thursday 12:40 & 3:15 | Keck 1231 | Tu 3:15-4; W 1:15-4; F 2:15-4
 S. Gerbode (they/them) | gerbode@hmc.edu | Friday 10:00 | Keck 1233 | Tu 3:15-4:15; F 3:30-4:30
-N. Breznay (he/him) | nbreznay@hmc.edu | Friday 12:40 & 3:15 | Keck 1247 | TBD
+N. Breznay (he/him) | nbreznay@hmc.edu | Friday 12:40 & 3:15 | Keck 1247 | F 9-11 am
 
 ## Preamble
 
