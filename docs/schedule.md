@@ -43,10 +43,10 @@
     <tr>
         <td>5</td>
         <td>9/28</td>
-        <td bgcolor="#E2EFDA"><a href="science_communication_guides#module-1-oral-report">Module 1 Assessment</a></td>
-        <td bgcolor="#E2EFDA"><a href="science_communication_guides#module-1-oral-report">Module 1 Assessment</a></td>
-        <td bgcolor="#E2EFDA"><a href="science_communication_guides#module-1-oral-report">Module 1 Assessment</a></td>
-        <td bgcolor="#E2EFDA"><a href="science_communication_guides#module-1-oral-report">Module 1 Assessment</a></td>
+        <td bgcolor="#E2EFDA"><a href="science_communication_guides">Module 1 Assessment</a></td>
+        <td bgcolor="#E2EFDA"><a href="science_communication_guides">Module 1 Assessment</a></td>
+        <td bgcolor="#E2EFDA"><a href="science_communication_guides">Module 1 Assessment</a></td>
+        <td bgcolor="#E2EFDA"><a href="science_communication_guides">Module 1 Assessment</a></td>
     </tr>
     <tr>
         <td>6</td>
