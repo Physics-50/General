@@ -24,6 +24,9 @@ Homework for the Intro Lesson is due on Gradescope three days before Module 1 be
 + [Guide to Plotting and Fitting Routine](DAG_plotting-guide)
 + [Interpreting Weighted Fits](DAG_interpreting-plots)
 
+
+[Sample pendulum data sheet](https://docs.google.com/spreadsheets/d/1ZWDUtf0lqZNa4Dk1HFPUWZwuKooCxEhsz4RIhS0R0zo/){:target="_blank"}
+
 Homework for the Graphing and Fitting Lesson is included in Module 2 Checkpoint 1 (due three days before Module 2 Week 2).
 
 
