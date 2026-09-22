@@ -43,10 +43,10 @@
     <tr>
         <td>5</td>
         <td>9/28</td>
-        <td bgcolor="#E2EFDA"><a href="science_communication_guides">Module 1 Assessment</a></td>
-        <td bgcolor="#E2EFDA"><a href="science_communication_guides">Module 1 Assessment</a></td>
-        <td bgcolor="#E2EFDA"><a href="science_communication_guides">Module 1 Assessment</a></td>
-        <td bgcolor="#E2EFDA"><a href="science_communication_guides">Module 1 Assessment</a></td>
+        <td bgcolor="#E2EFDA"><a href="science_communication_guides">Module 1 Oral Report</a></td>
+        <td bgcolor="#E2EFDA"><a href="science_communication_guides">Module 1 Oral Report</a></td>
+        <td bgcolor="#E2EFDA"><a href="science_communication_guides">Module 1 Oral Report</a></td>
+        <td bgcolor="#E2EFDA"><a href="science_communication_guides">Module 1 Oral Report</a></td>
     </tr>
     <tr>
         <td>6</td>
@@ -76,14 +76,14 @@
         <td>9</td>
         <td>10/26</td>
         <td bgcolor="#FFD5EC"><a href="https://physics-50.github.io/Module-2/week2">Module 2, week 2</a></td>
-        <td bgcolor="#FFD5EC"><a href="science_communication_guides#module-2-oral-report">Module 2 Assessment</a></td>
-        <td bgcolor="#FFD5EC"><a href="science_communication_guides#module-2-oral-report">Module 2 Assessment</a></td>
-        <td bgcolor="#FFD5EC"><a href="science_communication_guides#module-2-oral-report">Module 2 Assessment</a></td>
+        <td bgcolor="#FFD5EC"><a href="science_communication_guides#module-2-oral-report">Module 2 Oral Report</a></td>
+        <td bgcolor="#FFD5EC"><a href="science_communication_guides#module-2-oral-report">Module 2 Oral Report</a></td>
+        <td bgcolor="#FFD5EC"><a href="science_communication_guides#module-2-oral-report">Module 2 Oral Report</a></td>
     </tr>
     <tr>
         <td>10</td>
         <td>11/2</td>
-        <td bgcolor="#FFD5EC"><a href="science_communication_guides#module-2-oral-report">Module 2 Assessment</a></td>
+        <td bgcolor="#FFD5EC"><a href="science_communication_guides#module-2-oral-report">Module 2 Oral Report</a></td>
         <td bgcolor="#E6D9FF"><a href="https://physics-50.github.io/General/data_analysis_guides#experimental-design-lesson-before-tech-report">Experimental design lesson</a></td>
         <td bgcolor="#E6D9FF"><a href="https://physics-50.github.io/General/data_analysis_guides#experimental-design-lesson-before-tech-report">Experimental design lesson</a></td>
         <td bgcolor="#E6D9FF"><a href="https://physics-50.github.io/General/data_analysis_guides#experimental-design-lesson-before-tech-report">Experimental design lesson</a></td>
@@ -124,10 +124,10 @@
     <tr>
         <td>15</td>
         <td>12/7</td>
-        <td bgcolor="#E6D9FF"><a href="science_communication_guides#tech-report-oral-assessment">Tech report assessment</a></td>
-        <td bgcolor="#E6D9FF"><a href="science_communication_guides#tech-report-oral-assessment">Tech report assessment</a></td>
-        <td bgcolor="#E6D9FF"><a href="science_communication_guides#tech-report-oral-assessment">Tech report assessment</a></td>
-        <td bgcolor="#E6D9FF"><a href="science_communication_guides#tech-report-oral-assessment">Tech report assessment</a></td>
+        <td bgcolor="#E6D9FF"><a href="science_communication_guides#tech-report-oral-assessment">Tech report Oral Report</a></td>
+        <td bgcolor="#E6D9FF"><a href="science_communication_guides#tech-report-oral-assessment">Tech report Oral Report</a></td>
+        <td bgcolor="#E6D9FF"><a href="science_communication_guides#tech-report-oral-assessment">Tech report Oral Report</a></td>
+        <td bgcolor="#E6D9FF"><a href="science_communication_guides#tech-report-oral-assessment">Tech report Oral Report</a></td>
     </tr>
     </table>
 
