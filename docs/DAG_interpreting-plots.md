@@ -1,6 +1,6 @@
 ## Interpreting the results of a Least Squares Fit
 
-In our [introduction to plotting](curve-fitting-motivation) we introduced the parameter $$\chi^2$$:
+In our [introduction to plotting](DAG_curve-fitting-motivation) we introduced the parameter $$\chi^2$$:
 
 \begin{equation}\label{eq:weighted}
 \chi^2 = \underset{m,b}{\mathrm{min}} \sum_{i=1}^{n} \left(\frac{y_i - (mx_i+b)}{\delta y_i}\right)^2

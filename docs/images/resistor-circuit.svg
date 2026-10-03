@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 380" width="600" height="380" font-family="'Times New Roman', Times, serif">
+  <!-- Circuit schematic for the "Measuring a Resistance" activity:
+       power supply (gray rectangle), resistor R, ammeter A in series, voltmeter V in parallel with R. -->
+  <rect width="600" height="380" fill="#ffffff"/>
+
+  <!-- wires -->
+  <g fill="none" stroke="#000000" stroke-width="1.8" stroke-linejoin="miter" stroke-linecap="square">
+    <!-- power supply (+) up and across the top to the voltmeter -->
+    <polyline points="95,125 95,45 525,45 525,153"/>
+    <!-- resistor branch -->
+    <polyline points="310,45 310,125 326,135 294,155 326,175 294,195 326,215 294,235 310,245 310,325"/>
+    <!-- voltmeter back to the bottom node -->
+    <polyline points="525,227 525,325 310,325"/>
+    <!-- bottom node through the ammeter to power supply (-) -->
+    <line x1="310" y1="325" x2="237" y2="325"/>
+    <polyline points="163,325 95,325 95,255"/>
+  </g>
+
+  <!-- power supply -->
+  <rect x="45" y="125" width="100" height="130" fill="#d9d9d9" stroke="#000000" stroke-width="1.8"/>
+  <text x="95" y="150" font-size="24" text-anchor="middle">+</text>
+  <text x="95" y="186" font-size="19" text-anchor="middle">Power</text>
+  <text x="95" y="208" font-size="19" text-anchor="middle">supply</text>
+  <text x="95" y="246" font-size="24" text-anchor="middle">&#8722;</text>
+
+  <!-- meters -->
+  <circle cx="200" cy="325" r="37" fill="#ffffff" stroke="#000000" stroke-width="1.8"/>
+  <text x="200" y="337" font-size="36" font-style="italic" text-anchor="middle">A</text>
+  <circle cx="525" cy="190" r="37" fill="#ffffff" stroke="#000000" stroke-width="1.8"/>
+  <text x="525" y="202" font-size="36" font-style="italic" text-anchor="middle">V</text>
+
+  <!-- resistor label -->
+  <text x="350" y="197" font-size="36" font-style="italic" text-anchor="middle">R</text>
+
+  <!-- junctions -->
+  <circle cx="310" cy="45" r="5.5" fill="#000000"/>
+  <circle cx="310" cy="325" r="5.5" fill="#000000"/>
+</svg>

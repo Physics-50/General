@@ -20,6 +20,7 @@ Homework for the Intro Lesson is due on Gradescope three days before Module 1 be
 <br>
 
 ## Graphing and Fitting Lesson (Before Module 2)
++ [Pre-Lesson Activity: Measuring a Resistance](DAG_measuring-resistance)
 + [Introduction to Plotting and Fitting](DAG_curve-fitting-motivation)
 + [Guide to Plotting and Fitting Routine](DAG_plotting-guide)
 + [Interpreting Weighted Fits](DAG_interpreting-plots)
