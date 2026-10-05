@@ -112,14 +112,35 @@ Now you will fit a straight line, $$I = mV + b$$, to your data.  Both the slope 
 
 2. To get uncertainties in the slope and intercept, use the Google Sheets function LINEST.  Click on an empty cell that has an empty column to its right and four empty rows below it, and enter **=LINEST(B2:B6, A2:A6, TRUE, TRUE)**.  Here B2:B6 are the cells holding your $$I$$ values and A2:A6 are the cells holding your $$V$$ values; adjust these to match your own sheet.  The first TRUE tells Google Sheets to let the intercept be a free parameter, and the second TRUE asks it to report more than just the slope and intercept.
 
-The output of LINEST fills a block of cells two columns wide and five rows tall.  The first two rows are the ones you need:
+The output of LINEST fills a block of cells two columns wide and five rows tall, arranged as follows:
 
 |  | Left column | Right column |
 |:--|:--|:--|
-| **Row 1** | slope, $$m$$ | intercept, $$b$$ |
-| **Row 2** | uncertainty in slope, $$\delta m$$ | uncertainty in intercept, $$\delta b$$ |
+| **Row 1** | **slope, $$m$$** | **intercept, $$b$$** |
+| **Row 2** | **uncertainty in slope, $$\delta m$$** | **uncertainty in intercept, $$\delta b$$** |
+| Row 3 | $$R^2$$ | standard error of the $$I$$ values |
+| Row 4 | $$F$$ statistic | degrees of freedom |
+| Row 5 | regression sum of squares | residual sum of squares |
 
-Check that the slope and intercept from LINEST match the equation of the trendline on your chart.
+**For this activity, you only need the first two rows.**  Row 1 gives the slope and intercept of the best-fit line, and Row 2 gives the uncertainty in each of them (Google Sheets calls these uncertainties "standard errors").  Check that the slope and intercept from LINEST match the equation of the trendline on your chart.
+
+The remaining three rows give more information about the fit.  You will not use them in this activity, but a quick explanation of what they mean is available below.
+
+<details>
+<summary markdown='span'> (optional reading; click to expand/collapse) 
+<br> What the remaining three rows mean: </summary>
+
++ **Row 3** holds $$R^2$$, a number between 0 and 1 that describes how much of the variation in your $$I$$ values is accounted for by the line; $$R^2 = 1$$ would mean that every data point lies exactly on the line.  Next to it is the standard error of the $$I$$ values, which is roughly the typical vertical distance between a data point and the line.
+
++ **Row 4** holds the $$F$$ statistic and the number of degrees of freedom.  The number of degrees of freedom is the number of data points minus the number of fit parameters (for your data, $$5 - 2 = 3$$).  The $$F$$ statistic compares the variation in your $$I$$ values that is accounted for by the line to the variation that is left over: it is the regression sum of squares divided by the residual sum of squares per degree of freedom (see Row 5).  A large value of $$F$$ means that the trend in your data is much stronger than the scatter of the data points about the line, and so is very unlikely to have come about by chance.  For a straight-line fit, $$F$$ is equal to $$(m/\delta m)^2$$, so a large $$F$$ is another way of saying that your slope is many times larger than its uncertainty.
+
++ **Row 5** holds two sums of squares, illustrated in the figure below.  The residual sum of squares, in the right column, is the sum of the squared vertical distances between your data points and the line; this is the quantity that the fit makes as small as possible.  The regression sum of squares, in the left column, is the sum of the squared vertical distances between the line and the mean of your $$I$$ values, evaluated at each of your data points; it measures how much of the variation in your $$I$$ values is accounted for by the line.
+
+<img src="images/linest-sums-of-squares.svg" alt="Two plots of the same five data points and best-fit line.  In the left plot, squares are drawn between the line and the mean of I.  In the right plot, squares are drawn between each data point and the line.">
+
+The figure above shows the two sums of squares for a made-up data set with much more scatter than yours.  The areas of the blue squares add up to the regression sum of squares, and the areas of the red squares add up to the residual sum of squares.  The better the line fits the data, the smaller the red squares are compared to the blue squares, the closer $$R^2$$ is to 1, and the larger $$F$$ becomes.
+
+</details>
 
 #### Finding the resistance
 
@@ -161,7 +182,7 @@ Google Sheets will draw your error bars, but it does not use them:
 
 2. The uncertainties in the slope and intercept reported by LINEST are determined only from how scattered the data are about the fit line.  They do not take your error bars into account.
 
-3. Google Sheets does not give us a relevant measurement of how good the fit is.  It can report a quantity called $$R^2$$, but $$R^2$$ does not compare the distance of each data point from the line to the size of its error bar.  And when the variation of data away from the fit line is too small to see on the chart, you cannot make that comparison by eye either.
+3. Google Sheets does not give us a relevant measurement of how good the fit is.  It does report $$R^2$$, but $$R^2$$ does not compare the distance of each data point from the line to the size of its error bar.  And when the variation of data away from the fit line is too small to see on the chart, you cannot make that comparison by eye either.
 
 </details>
 
