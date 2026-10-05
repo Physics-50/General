@@ -127,8 +127,8 @@ The output of LINEST fills a block of cells two columns wide and five rows tall,
 The remaining three rows give more information about the fit.  You will not use them in this activity, but a quick explanation of what they mean is available below.
 
 <details>
-<summary markdown='span'> (optional reading; click to expand/collapse) 
-<br> What the remaining three rows mean: </summary>
+<summary markdown='span'> What the remaining three rows mean: (optional reading, click to expand/collapse) 
+<br>  </summary> <br>
 
 + **Row 3** holds $$R^2$$, a number between 0 and 1 that describes how much of the variation in your $$I$$ values is accounted for by the line; $$R^2 = 1$$ would mean that every data point lies exactly on the line.  Next to it is the standard error of the $$I$$ values, which is roughly the typical vertical distance between a data point and the line.
 
@@ -142,7 +142,7 @@ The figure above shows the two sums of squares for a made-up data set with much 
 
 </details>
 
-<br>
+<br><br>
 
 #### Finding the resistance
 
