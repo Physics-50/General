@@ -142,6 +142,8 @@ The figure above shows the two sums of squares for a made-up data set with much 
 
 </details>
 
+<br>
+
 #### Finding the resistance
 
 From Eq. \eqref{eq:ohm}, the slope of your line is $$m = 1/R$$, so you can calculate the resistance as $$R = 1/m$$.  Pay attention to units: if you plotted $$I$$ in mA and $$V$$ in V, then $$m$$ has units of mA/V and $$1/m$$ is a resistance in k$$\Omega$$.  To find the uncertainty $$\delta R$$, use the [error propagation](DAG_error-propagation) rule for functions of a single variable:
@@ -185,6 +187,8 @@ Google Sheets will draw your error bars, but it does not use them:
 3. Google Sheets does not give us a relevant measurement of how good the fit is.  It does report $$R^2$$, but $$R^2$$ does not compare the distance of each data point from the line to the size of its error bar.  And when the variation of data away from the fit line is too small to see on the chart, you cannot make that comparison by eye either.
 
 </details>
+
+<br>
 
 **When the error bars aren't all the same, we want to use a weighted least-squares fit.**  A weighted fit takes into account your confidence (uncertainty) in each individual data point.  For example, a data point with 1% uncertainty will be given more importance than one with 10% uncertainty.  Google Sheets has no simple way to do this, so we need to use a more sophisticated program.
 
