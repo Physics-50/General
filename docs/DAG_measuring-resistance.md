@@ -1,4 +1,4 @@
-# Measuring a Resistance
+# Measuring a Resistor
 
 This hands-on activity is a warm-up for the Graphing and Fitting Lesson.  You will collect a small data set, plot it and fit a line to it in Google Sheets, and then take a critical look at what Google Sheets can and cannot tell you about your fit.  The whole activity should take about 45 minutes.
 
@@ -84,7 +84,7 @@ Record your data in a Google Sheet, arranged with x-axis values ($$V$$) in one c
 
 What should go in the uncertainty column?  For now, we will just worry about one source of uncertainty: the resolution uncertainty of your current measurement.  (Your voltage measurement has a resolution uncertainty too, but we will set it aside for now.)  As discussed in [Understanding Uncertainty](DAG_uncertainty-introduction#resolution-uncertainty), a good estimate of resolution uncertainty is the smallest increment that can be measured divided by $$\sqrt{12}$$.  For a digital meter, the smallest increment is one unit of the last digit on the display.  For example, if your ammeter reads 4.012 mA, the smallest increment it can measure is 0.001 mA, so $$\delta I = (0.001 \text{ mA})/\sqrt{12} \approx 0.0003$$ mA.  In Google Sheets you could calculate this by entering **=0.001/SQRT(12)**.
 
-If the resolution of your ammeter is the same for every reading, all five of your data points have the same uncertainty.  But remember that your ammeter may autoscale: if some of your readings show fewer digits after the decimal point than others, make a note of which ones.  For now, use the largest of your $$\delta I$$ values for all five data points.  We will come back to this at the end of the activity.
+If the resolution of your ammeter is the same for every reading, all five of your data points have the same uncertainty.  But remember that your ammeter may autoscale: if some of your readings show fewer digits after the decimal point than others, make a note of which ones.  
 
 Your data collection should be complete about 20 minutes into the activity.
 
@@ -98,7 +98,7 @@ To help you see the trend in your data, make a scatter chart of $$I$$ vs. $$V$$ 
 
 3. Under "Customize" in the Chart editor, open "Chart & axis titles" and make sure both axes are labeled with the quantity plotted and its units.
 
-4. Still under "Customize", open "Series" and check the box next to "Error bars".  Set "Type" to "Constant" and enter your value of $$\delta I$$ under "Value".
+4. Still under "Customize", open "Series" and check the box next to "Error bars".  Set "Type" to "Constant" and enter the largest of your $$\delta I$$ values for the "Value". We will come back to these error bars at the end of the activity.
 
 For more instructions on how to make the scatter chart and add error bars, see [here](https://support.google.com/docs/answer/9143294){:target="_blank"} and [here](https://support.google.com/docs/answer/9085344){:target="_blank"}, or talk to a classmate or instructor.
 
@@ -132,9 +132,9 @@ The remaining three rows give more information about the fit.  You will not use 
 
 + **Row 3** holds $$R^2$$, a number between 0 and 1 that describes how much of the variation in your $$I$$ values is accounted for by the line; $$R^2 = 1$$ would mean that every data point lies exactly on the line.  Next to it is the standard error of the $$I$$ values, which is roughly the typical vertical distance between a data point and the line.
 
-+ **Row 4** holds the $$F$$ statistic and the number of degrees of freedom.  The number of degrees of freedom is the number of data points minus the number of fit parameters (for your data, $$5 - 2 = 3$$).  The $$F$$ statistic compares the variation in your $$I$$ values that is accounted for by the line to the variation that is left over: it is the regression sum of squares divided by the residual sum of squares per degree of freedom (see Row 5).  A large value of $$F$$ means that the trend in your data is much stronger than the scatter of the data points about the line, and so is very unlikely to have come about by chance.  For a straight-line fit, $$F$$ is equal to $$(m/\delta m)^2$$, so a large $$F$$ is another way of saying that your slope is many times larger than its uncertainty.
++ **Row 4** holds the $$F$$ statistic and the number of degrees of freedom.  The number of degrees of freedom is the number of data points minus the number of fit parameters (for your data, $$5 - 2 = 3$$).  The $$F$$ statistic compares the variation in your $$I$$ values that is accounted for by the line to the variation that is left over: it is the regression sum of squares divided by the residual sum of squares per degree of freedom (see Row 5).  A large value of $$F$$ means that the trend in your data is much stronger than the scatter of the data points about the line, and so is very unlikely to have come about by chance. 
 
-+ **Row 5** holds two sums of squares, illustrated in the figure below.  The residual sum of squares, in the right column, is the sum of the squared vertical distances between your data points and the line; this is the quantity that the fit makes as small as possible.  The regression sum of squares, in the left column, is the sum of the squared vertical distances between the line and the mean of your $$I$$ values, evaluated at each of your data points; it measures how much of the variation in your $$I$$ values is accounted for by the line.
++ **Row 5** holds two sums of squares, illustrated in the figure below. The regression sum of squares, in the left column, is the sum of the squared vertical distances between the line and the mean of your $$I$$ values, evaluated at each of your data points; it measures how much of the variation in your $$I$$ values is accounted for by the line. The residual sum of squares, in the right column, is the sum of the squared vertical distances between your data points and the line; this is the quantity that the fit makes as small as possible.  
 
 <img src="images/linest-sums-of-squares.svg" alt="Two plots of the same five data points and best-fit line.  In the left plot, squares are drawn between the line and the mean of I.  In the right plot, squares are drawn between each data point and the line.">
 
@@ -154,7 +154,7 @@ Calculate $$R \pm \delta R$$ in your Google Sheet, and write down your final res
 
 #### Checking for a systematic offset
 
-According to Eq. \eqref{eq:ohm}, no current should flow when the voltage is zero, so the theory suggests an intercept of $$b = 0$$.  But consider what might happen if you had a systematic error that shifted all of your measured $$I$$ values -- for example, an ammeter that reads a small current even when no current is flowing.  Individual $$V/I$$ values would all be influenced by such an error, but fitting a line would give you the correct slope plus a non-zero intercept.  This is why we let the intercept be a free parameter in the fit.
+According to Eq. \eqref{eq:ohm}, no current should flow when the voltage is zero, so the theory suggests an intercept of $$b = 0$$.  But consider what might happen if you had a systematic error that shifted all of your measured $$I$$ values -- for example, an ammeter that reads a small current even when no current is flowing.  Individual $$V/I$$ values would all be influenced by such an error, but fitting a line would give you the correct slope plus a non-zero intercept.  This possible error is why we let the intercept be a free parameter in the fit.
 
 Compare your intercept $$b$$ to its uncertainty $$\delta b$$.  If $$b$$ is no more than one or two times $$\delta b$$ away from zero, the difference between your intercept and zero is within the uncertainty of the fit, and you have no evidence of a systematic offset.  If $$b$$ is many times $$\delta b$$ away from zero, then something is shifting your measurements, and it is worth thinking about what that might be.
 
