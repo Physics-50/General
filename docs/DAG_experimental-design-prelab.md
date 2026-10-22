@@ -18,7 +18,7 @@ So far in Physics 50, your experiments have been fairly structured. The question
 
 That means that before your first Tech Report lab session, you are already making the decisions that determine whether your data can answer a scientific question at all. How you take your data matters at least as much as how you analyze it: no amount of careful fitting can rescue a data set that was taken in a way that cannot answer your question.
 
-This reading introduces some principles of experimental design that will help you plan your Tech Report investigation. It should take about 35 minutes, including about 15 minutes for two short outside readings: a news article on spotting dubious claims, and a (deliberately flawed) research paper. In class, you will put these principles into practice using the solar panel apparatus and instructions from [Experimental Design During Lab](https://physics-50.github.io/Module-3/week1){:target="_blank"}. This also gives you first-hand familiarity with the solar panel setup in case you would like to use it for your Tech Report investigation.
+This reading introduces some principles of experimental design that will help you plan your Tech Report investigation. It should take about 35 minutes, including about 15 minutes for two short outside readings: a news article on spotting dubious claims, and a (deliberately flawed) research paper. In class, you will put these principles into practice using the solar panel apparatus and instructions from [Experimental Design During Lab](https://physics-50.github.io/Module-3/week1-during-lab){:target="_blank"}. This also gives you first-hand familiarity with the solar panel setup in case you would like to use it for your Tech Report investigation.
 
 ## What Can Go Wrong?
 
@@ -140,7 +140,7 @@ Some habits protect you (and anyone who relies on your results):
 
 + **Decide how you will analyze your data before you take it.** What will you plot, what function will you fit, and what result would answer your question?
 + **Record everything in your lab notebook,** including trials that did not work and the reasons for any changes you make along the way.
-+ **Exclude data only for a reason you can state.** If you are aware that you have made a mistake, then you should repeat the measurement or at least exclude the data taken improperly -- and say so when you report your results.
++ **Exclude data only for a reason you can state.** If you are aware that you have made a mistake, then you should repeat the measurement or at least exclude the data taken improperly, and then say so when you report your results.
 + **Report what you found,** even when it disagrees with what you expected.
 
 #### No effect is still a result
@@ -179,7 +179,7 @@ Some guidelines:
 + **Make the range wide enough to see the effect clearly.** Choose the ends of your range far enough apart that the change in your dependent variable is large compared with your uncertainties. Try to pick values that cover most of the range you can measure well with your apparatus. A wide range also gives you a more precise fit: for the same error bars, the uncertainty in the slope of a fitted line shrinks as the data are spread over a wider range (left panel above).
 + **But not so wide that you leave the region you care about,** or the safe operating range of your equipment. Stay within the ratings of your instruments and power supplies.
 + **Use enough values to see the shape.** Measurements at only two values can tell you that something changes, but not whether the change is linear (middle panel above). You need at least three values to detect curvature. As in Module 2, use about five (no fewer) different values of your independent variable, so that you can test whether your data actually follow the function you fit.
-+ **Do a coarse sweep first, then fill in.** If you do not know where the interesting behavior is, start by changing your independent variable in big steps, then add points where your dependent variable changes most quickly, or where the feature you care about is (right panel above). The interesting region can turn out to be a small part of the range you could physically try. In Module 1, for example, the function generator could produce a huge range of frequencies, but the levitator's speakers respond well only near 40 kHz. If you wanted to study how the levitator's behavior depends on frequency, spreading your measurements evenly over tens of kilohertz would waste most of them. Instead, you would concentrate them near 40 kHz, in small steps, much as you did when you used garlic powder to find a good drive frequency.
++ **Do a coarse sweep first, then fill in.** If you do not know where the interesting behavior is, start by changing your independent variable in big steps, then add points where your dependent variable changes most quickly, or where the feature you care about is (right panel above). The interesting region can turn out to be a small part of the range you could physically try. For example, in Module 1 the function generator could produce a huge range of frequencies, but the levitator's speakers respond well only near 40 kHz. If you wanted to study how the levitator's behavior depends on frequency, spreading your measurements evenly over tens of kilohertz would waste most of them. Instead, you would concentrate them near 40 kHz, in small steps, much as you did when you used garlic powder to find a good drive frequency.
 + **Consider logarithmic spacing** when your independent variable spans several orders of magnitude. In the in-class session for Experimental Design, you will be measuring the power output of a solar panel as a function of load resistance. Values like 1, 3, 10, 30, 100, 300 $$\Omega$$ sample each decade equally, while 1, 2, 3, ..., 299, 300 $$\Omega$$ would put almost all of your points at large resistance.
 + **Your conclusions hold only over the range you tested.** A linear trend between 2 V and 10 V says nothing about what happens at 100 V. Be careful about extrapolating, and state the range you tested when you report your conclusions.
 
@@ -290,7 +290,7 @@ Before you start taking careful data for your Tech Report, you should be able to
 6. **How will you analyze your data?** What will you plot, what function will you fit, and what result would answer your question -- including a result of "no effect"?
 7. **Is it feasible, and is it a good idea?** Can you do it safely, in the time available, with the equipment you have, and with time left over for things that go wrong?
 
-In class, you will practice answering these questions with the solar panel apparatus and instructions from [Experimental Design During Lab](https://physics-50.github.io/Module-3/week1){:target="_blank"}.
+In class, you will practice answering these questions with the solar panel apparatus and instructions from [Experimental Design During Lab](https://physics-50.github.io/Module-3/week1-during-lab){:target="_blank"}.
 
 ## Further Reading
 
