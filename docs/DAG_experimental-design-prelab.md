@@ -25,7 +25,9 @@ Lesson check: Before reading further, take a minute to make a list. What could g
 
 <details>
 <summary markdown='span'> (think about it first, then click to expand/collapse) 
-<br> Answer: </summary>
+<br>  </summary>
+
+Answer:
 
 There are many good answers. Here are three that occur frequently:
 
@@ -60,7 +62,9 @@ Lesson check: Each of the article's four red flags has a counterpart in the lab.
 
 <details>
 <summary markdown='span'> (think about it first, then click to expand/collapse)
-<br> Answer: </summary>
+<br>  </summary>
+
+Answer:
 
 + **Flawed data.** The "criminality" algorithm learned to tell frowning faces from smiling ones, because the two groups of photos differed in expression as well as in the quantity of interest. There was a confounding variable built into the data set. In the lab, the same thing happens if something you did not intend to vary changes along with your independent variable. A common-sense check also helps: estimate the answer before you take data, and ask whether your result is reasonable.
 + **Data censoring.** Leaving out data can change your conclusion. Exclude data only for a reason you can state, and say so when you report your results (see the [section on honest reporting](#p-hacking-and-honest-reporting)). Also ask what your data set _cannot_ show you: the musician study could only include musicians who had already died, just as your conclusions hold only over the range of conditions you actually tested.
@@ -172,7 +176,9 @@ Lesson check: In Module 2, suppose your group had planned to measure $$L$$ at $$
 
 <details>
 <summary markdown='span'> (think about it first, then click to expand/collapse)
-<br> Answer: </summary>
+<br>  </summary>
+
+Answer:
 
 All five values lie within 2 cm of each other, so the plan has a narrow range (left panel of the figure above). Many different slopes of $$L$$ vs. $$x$$ would fit your data within the error bars, and since your value of $$d$$ comes from the slope, it would be poorly determined. You also could not test whether $$L$$ really is proportional to $$x$$ over the range your apparatus allows.
 
@@ -208,7 +214,9 @@ Lesson check: In Module 1, suppose you find that placing your ruler 1 cm behind 
 
 <details>
 <summary markdown='span'> (think about it first, then click to expand/collapse)
-<br> Answer: </summary>
+<br>  </summary>
+
+Answer:
 
 Not without testing it: your result holds only at the camera distance you used. A 2×2 check would take photos with the ruler in the plane of the beads and 1 cm behind it, with the camera both near (20 cm) and far (50 cm) away.
 
@@ -239,7 +247,9 @@ Lesson check: In Module 1, your lab partner suggests taking five photos of the s
 
 <details>
 <summary markdown='span'> (think about it first, then click to expand/collapse)
-<br> Answer: </summary>
+<br>  </summary>
+
+Answer:
 
 Those five photos share the same beads, the same ruler placement, and the same camera position, so their spread mostly reflects how precisely you can locate the beads in each image. They will probably underestimate your uncertainty. Instead, reset between photos: reload the beads, reposition the ruler, and move and re-aim the camera. Spread the repeats out over the session, interleaved with your other measurements, so that any drift also shows up in your uncertainty (or, better, is detected and accounted for).
 
