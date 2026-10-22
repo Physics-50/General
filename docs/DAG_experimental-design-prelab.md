@@ -23,7 +23,7 @@ This reading introduces some principles of experimental design that will help yo
 ## What Can Go Wrong?
 
 Lesson check: Before reading further, take a minute to make a list. What could go wrong in an experiment that would lead you to an erroneous conclusion? Think beyond simple mistakes like misreading a meter.
-<br><br>
+<br>
 <details>
 <summary markdown='span'> (think about it first, then click to expand/collapse) 
 <br>  </summary>
@@ -60,7 +60,7 @@ Some misleading correlations are not funny at all. Take about 5 minutes now to r
 What do you do with a correlation like this? **A correlation is the beginning of a study, not the end!** If you see a correlation, ask whether you can design a follow-up study to test whether there is causation, and whether there are any logical reasons to expect a causal relationship.
 
 Lesson check: Each of the article's four red flags has a counterpart in the lab. For each one, think of how the same problem could show up in a Physics 50 experiment, or which idea in this reading guards against it.
-<br><br>
+<br>
 <details>
 <summary markdown='span'> (think about it first, then click to expand/collapse)
 <br>  </summary>
@@ -96,7 +96,7 @@ In 2015, newspapers and websites around the world reported that eating chocolate
 
 Take about 10 minutes now to read the [study](images/Bohannon15.pdf){:target="_blank"}. As you read, list as many flaws as you can find in the design, analysis, and presentation of the experiment. Then compare your list with ours.
 
-<br><br>
+<br>
 
 <details>
 <summary markdown='span'> (try it first, then click to expand/collapse) 
@@ -112,11 +112,13 @@ Some of the flaws:
 
 You may well have found others.
 
+In fact, the study was flawed _on purpose_. Its lead author, the science journalist John Bohannon, ran it to show how easily bad nutrition science gets published and reported. He describes how he did it in [this article](https://gizmodo.com/i-fooled-millions-into-thinking-chocolate-helps-weight-1707251800){:target="_blank"}: the paper was accepted by a journal that charged a fee and did no real peer review, and a press release that left out the number of participants was enough to spread the story around the world.
+
+
 </details>
 
 <br><br>
 
-In fact, the study was flawed _on purpose_. Its lead author, the science journalist John Bohannon, ran it to show how easily bad nutrition science gets published and reported. He describes how he did it in [this article](https://gizmodo.com/i-fooled-millions-into-thinking-chocolate-helps-weight-1707251800){:target="_blank"}: the paper was accepted by a journal that charged a fee and did no real peer review, and a press release that left out the number of participants was enough to spread the story around the world.
 
 ## P-hacking and Honest Reporting
 
@@ -183,7 +185,7 @@ Some guidelines:
 
 Lesson check: In Module 2, suppose your group had planned to measure $$L$$ at $$x$$ = 9.0, 9.5, 10.0, 10.5, and 11.0 cm. What is the weakness of this plan, and how would you choose better values?
 
-<br><br>
+<br>
 
 <details>
 <summary markdown='span'> (think about it first, then click to expand/collapse)
@@ -201,13 +203,13 @@ A better plan uses about five values spread across most of the range you can mea
 
 ## One Variable at a Time vs. Factorial Designs
 
-Most of the time in Physics 50, you will vary **_one variable at a time_**: change your independent variable while holding everything else constant, then (if you want to study a second variable) go back and vary that one while holding the first constant. This is the approach we recommend for your Tech Report, because it produces data that are easy to interpret. Any change in your dependent variable can be attributed to the one thing you changed, and you can plot and fit your results as a function of a single variable.
+In Physics 50, we have been teaching you to change **_one variable at a time_**: change your independent variable while holding everything else constant, then (if you want to study a second variable) go back and vary that one while holding the first constant. This is the approach we recommend for your Tech Report, because it produces data that are easy to interpret. Any change in your dependent variable can be attributed to the one thing you changed, and you can plot and fit your results as a function of a single variable.
 
-But changing one variable at a time has a blind spot. Suppose you want to know how two variables, A and B, each affect your result. Starting from a baseline with both variables low, a one-variable-at-a-time experiment measures what happens when A is raised (with B low) and what happens when B is raised (with A low), as shown in the left panel of the figure below:
+But changing one variable at a time has a blind spot. A classic example comes from agriculture, where many of the methods of experimental design were first developed: adding fertilizer can greatly increase a crop's yield when the plants get enough water, but fertilizer does very little when they do not get enough water. A one-variable-at-a-time experiment done in a dry field would conclude that fertilizer hardly matters:
 
-<img src="images/design-ovat-vs-factorial.svg" alt="Left: in the plane of variable A versus variable B, a one-variable-at-a-time design starts at low A, low B and changes each variable separately, while a factorial design also measures the corner where both are high. Right: response versus variable A for B low and B high; the lines are not parallel, so the response with both variables high is larger than the one-variable-at-a-time prediction.">
+<img src="images/design-ovat-vs-factorial.svg" alt="Left: in the plane of fertilizer level versus soil moisture, a one-variable-at-a-time design starts at low fertilizer, dry soil and changes each variable separately, while a factorial design also measures the corner where both variables are high. Right: crop yield response versus fertilizer level for dry soil and moist soil; the lines are not parallel, so the response with both variables high is larger than the one-variable-at-a-time prediction.">
 
-If the two variables act independently, you can predict that missing corner by adding up their separate effects. But often the effect of one variable depends on the value of the other. This is called an **_interaction_**. On a plot of the response vs. variable A, an interaction shows up as non-parallel lines for the two values of B (right panel above). A classic example comes from agriculture, where many of the methods of experimental design were first developed: adding fertilizer can greatly increase a crop's yield when the plants get enough water, but fertilizer does very little when they do not get enough water. A one-variable-at-a-time experiment done in a dry field would conclude that fertilizer hardly matters.
+If the two variables act independently, you can predict that missing corner by adding up their separate effects. But often the effect of one variable depends on the value of the other. This is called an **_interaction_**. 
 
 A **_factorial design_** changes the variables together, measuring every combination of their values, or **_levels_**. With two variables at two levels each (a "2×2" design), that means four conditions. Factorial designs have some real advantages:
 
@@ -221,11 +223,11 @@ They also have disadvantages:
 + **The number of runs grows rapidly** as you add variables or levels.
 + **They are harder to set up and to display,** especially if one of the variables is hard to change.
 
-**For your Tech Report,** plan your main investigation around one independent variable, so that you can map out how your dependent variable depends on it with enough values to fit a function. A small 2×2 factorial check is a good tool in two situations: when you suspect that a second variable might change the effect you are studying, and during exploration, when you want to find out quickly which of several variables matter.
+**For your Tech Report,** plan your main investigation around one independent variable, so that you can map out how your dependent variable depends on it with enough values to fit a function. A small 2×2 factorial check is a good tool in two situations: (i) during exploration, when you want to find out quickly which of several variables matter, and (ii) when you suspect that a second variable might change the effect you are studying.
 
 Lesson check: In Module 1, suppose you find that placing your ruler 1 cm behind the plane of the levitated beads, instead of in the same plane, changes your measured wavelength by about 5% when your camera is 20 cm from the beads. Can you conclude that the same 1 cm misplacement would change your result by 5% if the camera were 50 cm away? How could you find out with only a few extra photos?
 
-<br><br>
+<br>
 
 <details>
 <summary markdown='span'> (think about it first, then click to expand/collapse)
@@ -262,7 +264,7 @@ If you have to split your data taking across two lab sessions, take a complete s
 
 Lesson check: In Module 1, your lab partner suggests taking five photos of the same levitated beads, without moving anything between photos, and using the standard error of the five wavelength measurements as your uncertainty. What would you suggest instead?
 
-<br><br>
+<br>
 
 <details>
 <summary markdown='span'> (think about it first, then click to expand/collapse)
