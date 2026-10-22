@@ -16,7 +16,7 @@
 
 So far in Physics 50, your experiments have been fairly structured. The question, the apparatus, and much of the procedure were given to you, and your job was to carry out the measurements carefully and quantify their uncertainty. The Tech Report is more open-ended. You will define your own question, decide what to vary and what to measure, and carry out a procedure to address that question efficiently and quantitatively. You need to do all of this within about six hours of lab time.
 
-That means before your first week you are making the decisions that determine whether your data can answer a scientific question at all. How you take your data matters at least as much as how you analyze it: no amount of careful fitting can rescue a data set that was taken in a way that cannot answer your question.
+That means that before your first Tech Report lab session, you are already making the decisions that determine whether your data can answer a scientific question at all. How you take your data matters at least as much as how you analyze it: no amount of careful fitting can rescue a data set that was taken in a way that cannot answer your question.
 
 This reading introduces some principles of experimental design that will help you plan your Tech Report investigation. It should take about 35 minutes, including about 15 minutes for two short outside readings: a news article on spotting dubious claims, and a (deliberately flawed) research paper. In class, you will put these principles into practice using the solar panel apparatus and instructions from [Experimental Design During Lab](https://physics-50.github.io/Module-3/week1){:target="_blank"}. This also gives you first-hand familiarity with the solar panel setup in case you would like to use it for your Tech Report investigation.
 
@@ -32,8 +32,8 @@ Answer:
 
 There are many good answers. Here are three that occur frequently:
 
-+ **Confirmation bias.** It is easy to see what you expect to see: to stop taking data once the result looks "right," or to look harder for problems in data that disagree with your expectations than in data that agree. Give your data room to tell their actual story, not the one you expected them to tell!
-+ **Uncontrolled variables.** If something other than the quantity you are deliberately changing also changes between measurements (e.g.the room temperature, the alignment of the apparatus, which lab partner takes the reading) then you cannot tell which change caused the effect you see.
++ **Confirmation bias.** It is easy to see what you expect to see: to stop taking data once the result looks "right", or to look harder for problems in data that disagree with your expectations than in data that agree. Give your data room to tell their actual story, not the one you expected them to tell!
++ **Uncontrolled variables.** If something other than the quantity you are deliberately changing also changes between measurements (e.g. the room temperature, the alignment of the apparatus, or which lab partner takes the reading), then you cannot tell which change caused the effect you see.
 + **Mistaking correlation for causation.** Two quantities can rise and fall together without one causing the other.
 
 Other good answers include a method that introduces too much uncertainty to test what you wanted to test, and a measurement that does not actually measure what you think it measures.
@@ -49,7 +49,6 @@ When two quantities rise and fall together, they are **_correlated_**. A correla
 <img src="images/spurious-correlation-margarine-divorce.png" alt="Plot showing per capita margarine consumption in the United States and the divorce rate in Maine both decreasing from 2000 to 2009, with a correlation coefficient of 0.993." width="500">
 
 <img src="images/spurious-correlation-annabelle-ufo.png" alt="Plot showing the number of babies named Annabelle and the number of UFO sightings in Maryland rising and falling together from 1975 to 2021, with a correlation coefficient of 0.962." width="500">
-
 
 Nobody believes that eating margarine causes divorce in Maine. These plots come from Tyler Vigen, [tylervigen.com/spurious-correlations](https://tylervigen.com/spurious-correlations){:target="_blank"}, who wrote a script to harvest data from a bunch of publicly accessible databases and plot a bunch of things against each other until something (accidentally) correlated strongly. We will come back to this idea in the [section on p-hacking](#p-hacking-and-honest-reporting).
 
@@ -96,12 +95,14 @@ Take about 10 minutes now to read the [study](images/Bohannon15.pdf){:target="_b
 
 <details>
 <summary markdown='span'> (try it first, then click to expand/collapse) 
-<br> Some of the flaws: </summary>
+<br>  </summary>
+
+Some of the flaws:
 
 + **Very few participants.** The Methodology section never says how many people were in each group. A note under Table 3 reveals that only 5 people were in the chocolate group and 4 in the low-carb group. With so few people, ordinary day-to-day weight fluctuations are comparable to the differences between groups, and the groups could easily differ in age, sex, or starting weight.
 + **A small effect presented as a big one.** Figure 1 plots changes in weight in kilograms, which makes the groups look very different. The text reports that the chocolate group lost 3.2% of their body weight and the low-carb group lost 3.1%.
 + **The chocolate group was also on a low-carb diet.** So the study says nothing about eating chocolate on its own, yet that is how the result was reported.
-+ **Many measurements, few subjects.** The study tracked weight, BMI, waist-to-hip ratio, cholesterol, triglycerides, several liver and blood values, ketones, sleep, and well-being, and then emphasized whichever results came out "significant." See the next section for why this matters.
++ **Many measurements, few subjects.** The study tracked weight, BMI, waist-to-hip ratio, cholesterol, triglycerides, several liver and blood values, ketones, sleep, and well-being, and then emphasized whichever results came out "significant". See the next section for why this matters.
 + **Hard-to-interpret figures.** What exactly is being compared in Figure 3?
 
 You may well have found others.
@@ -156,11 +157,11 @@ A few habits make this exploration efficient:
 + **Estimate the answer first.** Before you take any data, make a back-of-the-envelope estimate of the result you expect. If your first measurement is far from your estimate, find out why before going further.
 + **Do a quick, rough version of the whole experiment.** Set your independent variable to a few widely spaced values, take one reading at each, and run them all the way through your analysis. This tells you whether the effect you are looking for is large enough to see, what range of your independent variable is interesting, and which parts of your procedure are slow or unreliable.
 + **Change things you think should _not_ matter,** such as the angle of the diffraction grating or which part of the grating the laser passes through, as you did in Module 2, and see whether your results change. Anything that does matter must be controlled, or accounted for, in your careful measurements.
-+ **Budget your time.** A good rule of thumb is to spend only about a quarter of your resources on a first experiment, keeping the rest for the careful measurements and follow-up runs you will turn out to need. For the six hours of Tech Report lab sessions, plan to finish your exploration in roughly the first 90 minutes.
++ **Budget your time.** A good rule of thumb is to spend only about a quarter of your resources on a first experiment, keeping the rest for careful measurements and the follow-up runs you will almost certainly need. For the six hours of Tech Report lab sessions, plan to finish your exploration in roughly the first 90 minutes.
 
 ## Choosing the Range of Your Independent Variable
 
-Once you know what you will vary, you need to decide which values to use: how far to vary it, how many values to use, and how to space them. The figure below compares three choices for the same system:
+Once you know what you will vary, you need to decide which values to use: how wide a range to cover, how many values to measure, and how to space them. The figure below compares three choices for the same system:
 
 <img src="images/design-range-choices.svg" alt="Three panels with the same gently curving true behavior. Left: five points crowded into a narrow range, through which lines with very different slopes all fit. Middle: points only at the two ends, which a straight line fits even though the true behavior curves. Right: points spread over a wide range with extra points where the trend bends, which reveals the curve.">
 
@@ -170,7 +171,7 @@ Some guidelines:
 + **But not so wide that you leave the region you care about,** or the safe operating range of your equipment. Stay within the ratings of your instruments and power supplies.
 + **Use enough values to see the shape.** Measurements at only two values can tell you that something changes, but not whether the change is linear (middle panel above). You need at least three values to detect curvature. As in Module 2, use about five (no fewer) different values of your independent variable, so that you can test whether your data actually follow the function you fit.
 + **Do a coarse sweep first, then fill in.** If you do not know where the interesting behavior is, start by changing your independent variable in big steps, then add points where your dependent variable changes most quickly, or where the feature you care about is (right panel above). The interesting region can turn out to be a small part of the range you could physically try. In Module 1, for example, the function generator could produce a huge range of frequencies, but the levitator's speakers respond well only near 40 kHz. If you wanted to study how the levitator's behavior depends on frequency, spreading your measurements evenly over tens of kilohertz would waste most of them. Instead, you would concentrate them near 40 kHz, in small steps, much as you did when you used garlic powder to find a good drive frequency.
-+ **Consider logarithmic spacing** when your independent variable spans several orders of magnitude. In the in-class session for Experimental Design, you will be measuring the power output of a solar panel as a function of load resistance. Values like 1, 3, 10, 30, 100, 300 $$\Omega$$ sample each decade equally, while 1, 2, 3, ...,299, 300 $$\Omega$$ would put almost all of your points at large resistance.
++ **Consider logarithmic spacing** when your independent variable spans several orders of magnitude. In the in-class session for Experimental Design, you will be measuring the power output of a solar panel as a function of load resistance. Values like 1, 3, 10, 30, 100, 300 $$\Omega$$ sample each decade equally, while 1, 2, 3, ..., 299, 300 $$\Omega$$ would put almost all of your points at large resistance.
 + **Your conclusions hold only over the range you tested.** A linear trend between 2 V and 10 V says nothing about what happens at 100 V. Be careful about extrapolating, and state the range you tested when you report your conclusions.
 
 Lesson check: In Module 2, suppose your group had planned to measure $$L$$ at $$x$$ = 9.0, 9.5, 10.0, 10.5, and 11.0 cm. What is the weakness of this plan, and how would you choose better values?
@@ -189,7 +190,7 @@ A better plan uses about five values spread across most of the range you can mea
 
 ## One Variable at a Time vs. Factorial Designs
 
-Most of the time in Physics 50, you will vary **_one variable at a time_**: change your independent variable while holding everything else constant, then (if you want to study a second factor) go back and vary that one while holding the first constant. This is the approach we recommend for your Tech Report, because it produces data that are easy to interpret. Any change in your dependent variable can be attributed to the one thing you changed, and you can plot and fit your results as a function of a single variable.
+Most of the time in Physics 50, you will vary **_one variable at a time_**: change your independent variable while holding everything else constant, then (if you want to study a second variable) go back and vary that one while holding the first constant. This is the approach we recommend for your Tech Report, because it produces data that are easy to interpret. Any change in your dependent variable can be attributed to the one thing you changed, and you can plot and fit your results as a function of a single variable.
 
 But changing one variable at a time has a blind spot. Suppose you want to know how two variables, A and B, each affect your result. Starting from a baseline with both variables low, a one-variable-at-a-time experiment measures what happens when A is raised (with B low) and what happens when B is raised (with A low), as shown in the left panel of the figure below:
 
@@ -197,10 +198,10 @@ But changing one variable at a time has a blind spot. Suppose you want to know h
 
 If the two variables act independently, you can predict that missing corner by adding up their separate effects. But often the effect of one variable depends on the value of the other. This is called an **_interaction_**. On a plot of the response vs. variable A, an interaction shows up as non-parallel lines for the two values of B (right panel above). A classic example comes from agriculture, where many of the methods of experimental design were first developed: adding fertilizer can greatly increase a crop's yield when the plants get enough water, but fertilizer does very little when they do not get enough water. A one-variable-at-a-time experiment done in a dry field would conclude that fertilizer hardly matters.
 
-A **_factorial design_** changes the variables together, measuring every combination of their levels. With two varialbes at two levels each (a "2×2" design), that means four conditions. Factorial designs have some real advantages:
+A **_factorial design_** changes the variables together, measuring every combination of their values, or **_levels_**. With two variables at two levels each (a "2×2" design), that means four conditions. Factorial designs have some real advantages:
 
 + **They reveal interactions,** which simple one-variable-at-a-time experiments can miss entirely.
-+ **Every run tells you something about every variable.** The effect of A is found by comparing the average of the two runs with A high to the average of the two runs with A low, so all four runs contribute to the estimate of A's effect (and all four also contribute to the estimate of B's effect). 
++ **Every run tells you something about every variable.** The effect of A is found by comparing the average of the two runs with A high to the average of the two runs with A low, so all four runs contribute to the estimate of A's effect (and all four also contribute to the estimate of B's effect).
 + **They can screen many variables quickly.** With $$k$$ variables at two levels each, a full factorial design needs $$2^k$$ runs. For many variables, experimentalists can use carefully chosen fractions of the full design that still separate the effects of the individual variables.
 
 They also have disadvantages:
@@ -231,18 +232,18 @@ In this case, geometry tells you to expect an interaction. Objects farther from 
 
 Repeating measurements lets you estimate your random uncertainty, but only if each repeat includes the variations you care about. A true **_replicate_** repeats the whole measurement, starting from the setup. Reading a meter five times in a row without touching anything mostly tells you about the meter. It does not tell you how much your result would change if you reloaded the beads, repositioned the ruler, or moved and re-aimed the camera. Remember to reset all the factors that also have significant effects on your result, for each measurement. In Module 1, for example, you were asked to combine data from at least five different images, resetting whatever features of the experiment are required to randomize important systematic errors. In Module 2, you were asked to mess up and reposition to the desired value of $$x$$ between each trial, not just leave the grating in one spot and measure its position five times.
 
-Treating repeated readings of a single setup as if they were independent trials is called **_pseudoreplication_**, and it makes results look more precise than they really are. 
+Treating repeated readings of a single setup as if they were independent trials is called **_pseudoreplication_**, and it makes results look more precise than they really are.
 
 #### Run order
 
-The order in which you take your data matters too. Many things drift slowly during a lab session: a meter warms up, the room temperature changes (and with it the speed of sound you measured in Module 1), a battery runs down, a loosely tightened mount slowly slips. If you take your data in order (e.g. from smallest to largest $$x$$ in Module 2) then any drift changes steadily along with your independent variable, and it becomes a confounding variable. You cannot tell how much of the trend you see is caused by your independent variable or by the drift.
+The order in which you take your data matters too. Many things drift slowly during a lab session: a meter warms up, the room temperature changes (and with it the speed of sound you measured in Module 1), a battery runs down, a loosely tightened mount slowly slips. If you take your data in order (e.g. from smallest to largest $$x$$ in Module 2), then any drift changes steadily along with your independent variable, and it becomes a confounding variable. You cannot tell how much of the trend you see is caused by your independent variable or by the drift.
 
 Two simple defenses are:
 
 + **Randomize or interleave the order** of your measurements -- for example, measuring at $$x$$ = 4, 10, 6, 12, and 8 cm instead of 4, 6, 8, 10, and 12 cm -- so that drift adds scatter to your data rather than a fake trend.
 + **Return to a reference condition** at the beginning, middle, and end of your data taking (for example, by re-measuring $$L$$ at $$x$$ = 10 cm). If the reference measurement changes, you have detected drift, and you can estimate how large it is.
 
-If you have to split your data taking across two lab sessions, take a complete set of conditions in each session rather than doing the low values one day and the high values the next. That way, differences between sessions cannot masquerade as an effect of your independent variable.
+If you have to split your data taking across two lab sessions, take a complete set of conditions in each session rather than doing the low values one day and the high values the next. That way, differences between sessions cannot be mistaken for an effect of your independent variable.
 
 Lesson check: In Module 1, your lab partner suggests taking five photos of the same levitated beads, without moving anything between photos, and using the standard error of the five wavelength measurements as your uncertainty. What would you suggest instead?
 
@@ -270,12 +271,11 @@ Before you start taking careful data for your Tech Report, you should be able to
 
 In class, you will practice answering these questions with the solar panel apparatus and instructions from [Experimental Design During Lab](https://physics-50.github.io/Module-3/week1){:target="_blank"}.
 
-
 ## Further Reading
 
 Much of this reading draws on the sources below. If you would like to learn more about any of these ideas, they are a good place to start.
 
-+ J. K. Telford, "[A Brief Introduction to Design of Experiments](https://www.jhuapl.edu/Content/techdigest/pdf/V27-N03/27-03-Telford.pdf){:target="_blank"}," _Johns Hopkins APL Technical Digest_ **27**(3), 224-232 (2007). An accessible introduction to choosing the levels of the factors you vary, one-factor-at-a-time vs. factorial designs, interactions, randomizing the order of your runs, and spending only part of your resources on a first experiment.
++ J. K. Telford, "[A Brief Introduction to Design of Experiments](https://www.jhuapl.edu/Content/techdigest/pdf/V27-N03/27-03-Telford.pdf){:target="_blank"}," _Johns Hopkins APL Technical Digest_ **27**(3), 224-232 (2007). An accessible introduction to choosing the values (levels) of the variables you change, one-variable-at-a-time vs. factorial designs, interactions, randomizing the order of your runs, and spending only part of your resources on a first experiment.
 + "[Topic 1: Introduction to the Principles of Experimental Design](https://www.unh.edu/halelab/ANFS933/Readings/Topic1_Reading.pdf){:target="_blank"}," supplementary reading for ANFS 933, _Design, Analysis, and Interpretation of Experiments_, University of New Hampshire. Covers hypotheses and the scientific method, true replicates vs. repeated measurements of the same setup, and choosing the levels of a treatment, with examples from agricultural experiments.
 + AAPT Committee on Laboratories, "[AAPT Recommendations for the Undergraduate Physics Laboratory Curriculum](https://www.aapt.org/Resources/upload/LabGuidlinesDocument_EBendorsed_nov10.pdf){:target="_blank"}" (American Association of Physics Teachers, 2014). Describes the skills that physics laboratory courses aim to develop, including designing experiments, and how those skills build from introductory to advanced labs.
 + E. Etkina, S. Murthy, and X. Zou, "[Using introductory labs to engage students in experimental design](https://doi.org/10.1119/1.2238885){:target="_blank"}," _American Journal of Physics_ **74**, 979-986 (2006). Describes introductory physics labs in which students design their own experiments, and compares what they learned with students in more traditional labs. (Full text may require signing in through the HMC library.)
