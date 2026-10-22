@@ -35,6 +35,7 @@ Homework for the Graphing and Fitting Lesson is included in Module 2 Checkpoint 
 
 
 ## Experimental Design Lesson (Before Tech Report)
++ [Pre-Lab Reading: Experimental Design](DAG_experimental-design-prelab)
 + [Experimental Design Activity](images/Bohannon15.pdf)
 
 Before this lesson, complete the assigned pre-class reading/video on experimental design principles. In class, you will implement those principles hands-on using the solar panel apparatus and instructions from [Module 3, Week 1](https://physics-50.github.io/Module-3/week1). This gives you first-hand familiarity with the solar panel setup in case you would like to use it for your Tech Report investigation.
