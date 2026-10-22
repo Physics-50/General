@@ -23,7 +23,7 @@ This reading introduces some principles of experimental design that will help yo
 ## What Can Go Wrong?
 
 Lesson check: Before reading further, take a minute to make a list. What could go wrong in an experiment that would lead you to an erroneous conclusion? Think beyond simple mistakes like misreading a meter.
-
+<br><br>
 <details>
 <summary markdown='span'> (think about it first, then click to expand/collapse) 
 <br>  </summary>
@@ -39,6 +39,7 @@ There are many good answers. Here are three that occur frequently:
 Other good answers include a method that introduces too much uncertainty to test what you wanted to test, and a measurement that does not actually measure what you think it measures.
 
 </details>
+<br><br>
 
 An uncontrolled variable that changes along with your independent variable, and also affects your dependent variable, is called a **_confounding variable_**. For example, suppose that in Module 2 you measured $$L$$ for your smallest values of $$x$$ first and your largest values last, and that partway through, your lab partner took over measuring $$L$$ and measured to the front of the grating mount instead of the back. That offset would affect only your later measurements, which are also the ones at large $$x$$. It would change the slope of your $$L$$ vs. $$x$$ plot, and therefore your value of $$d$$. Much of experimental design comes down to keeping confounding variables out of your data.
 
@@ -59,7 +60,7 @@ Some misleading correlations are not funny at all. Take about 5 minutes now to r
 What do you do with a correlation like this? **A correlation is the beginning of a study, not the end!** If you see a correlation, ask whether you can design a follow-up study to test whether there is causation, and whether there are any logical reasons to expect a causal relationship.
 
 Lesson check: Each of the article's four red flags has a counterpart in the lab. For each one, think of how the same problem could show up in a Physics 50 experiment, or which idea in this reading guards against it.
-
+<br><br>
 <details>
 <summary markdown='span'> (think about it first, then click to expand/collapse)
 <br>  </summary>
@@ -72,6 +73,8 @@ Answer:
 + **Axis manipulation.** The charts above use the same trick as the MMR plot: two separately scaled vertical axes. When you make your own plots, plot your data against the quantity you varied, on one clearly labeled vertical axis with error bars, and let a fit tell you how well the data follow a model.
 
 </details>
+
+<br><br>
 
 Correlations can also point toward real causes. Global average temperature and the concentration of carbon dioxide in the atmosphere have risen together over the last century. In this case the correlation is backed by a well-understood physical mechanism, by comparisons between planets, and by many controlled experiments in the lab.
 
@@ -93,6 +96,8 @@ In 2015, newspapers and websites around the world reported that eating chocolate
 
 Take about 10 minutes now to read the [study](images/Bohannon15.pdf){:target="_blank"}. As you read, list as many flaws as you can find in the design, analysis, and presentation of the experiment. Then compare your list with ours.
 
+<br><br>
+
 <details>
 <summary markdown='span'> (try it first, then click to expand/collapse) 
 <br>  </summary>
@@ -108,6 +113,8 @@ Some of the flaws:
 You may well have found others.
 
 </details>
+
+<br><br>
 
 In fact, the study was flawed _on purpose_. Its lead author, the science journalist John Bohannon, ran it to show how easily bad nutrition science gets published and reported. He describes how he did it in [this article](https://gizmodo.com/i-fooled-millions-into-thinking-chocolate-helps-weight-1707251800){:target="_blank"}: the paper was accepted by a journal that charged a fee and did no real peer review, and a press release that left out the number of participants was enough to spread the story around the world.
 
@@ -176,6 +183,8 @@ Some guidelines:
 
 Lesson check: In Module 2, suppose your group had planned to measure $$L$$ at $$x$$ = 9.0, 9.5, 10.0, 10.5, and 11.0 cm. What is the weakness of this plan, and how would you choose better values?
 
+<br><br>
+
 <details>
 <summary markdown='span'> (think about it first, then click to expand/collapse)
 <br>  </summary>
@@ -187,6 +196,8 @@ All five values lie within 2 cm of each other, so the plan has a narrow range (l
 A better plan uses about five values spread across most of the range you can measure well. When you set up the experiment, you pulled the grating back from the screen until the central three spots were spread across most of the screen; that quick step tells you roughly the largest $$x$$ you can use. At the other end, very small values of $$x$$ put the grating close to the screen, where small errors in $$L$$ and $$x$$ make a larger fractional difference. So you might choose values spread from a few centimeters up to the largest $$x$$ that still lands comfortably on your screen.
 
 </details>
+
+<br><br>
 
 ## One Variable at a Time vs. Factorial Designs
 
@@ -214,6 +225,8 @@ They also have disadvantages:
 
 Lesson check: In Module 1, suppose you find that placing your ruler 1 cm behind the plane of the levitated beads, instead of in the same plane, changes your measured wavelength by about 5% when your camera is 20 cm from the beads. Can you conclude that the same 1 cm misplacement would change your result by 5% if the camera were 50 cm away? How could you find out with only a few extra photos?
 
+<br><br>
+
 <details>
 <summary markdown='span'> (think about it first, then click to expand/collapse)
 <br>  </summary>
@@ -225,6 +238,8 @@ Not without testing it: your result holds only at the camera distance you used. 
 In this case, geometry tells you to expect an interaction. Objects farther from the camera look smaller, so a ruler placed behind the beads makes the beads look farther apart than they really are, by roughly the ratio of the extra distance to the camera distance. That is about 1 cm / 20 cm = 5% with the camera near, but only about 1 cm / 50 cm = 2% with the camera far away. A one-variable-at-a-time study done only with the camera close would overstate how much ruler placement matters at other camera distances.
 
 </details>
+
+<br><br>
 
 ## Replicates and Run Order
 
@@ -247,6 +262,8 @@ If you have to split your data taking across two lab sessions, take a complete s
 
 Lesson check: In Module 1, your lab partner suggests taking five photos of the same levitated beads, without moving anything between photos, and using the standard error of the five wavelength measurements as your uncertainty. What would you suggest instead?
 
+<br><br>
+
 <details>
 <summary markdown='span'> (think about it first, then click to expand/collapse)
 <br>  </summary>
@@ -256,6 +273,8 @@ Answer:
 Those five photos share the same beads, the same ruler placement, and the same camera position, so their spread mostly reflects how precisely you can locate the beads in each image. They will probably underestimate your uncertainty. Instead, reset between photos: reload the beads, reposition the ruler, and move and re-aim the camera. Spread the repeats out over the session, interleaved with your other measurements, so that any drift also shows up in your uncertainty (or, better, is detected and accounted for).
 
 </details>
+
+<br><br>
 
 ## Planning Your Investigation
 
