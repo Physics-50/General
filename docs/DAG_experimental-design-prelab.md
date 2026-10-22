@@ -10,6 +10,7 @@
 - [One Variable at a Time vs. Factorial Designs](#one-variable-at-a-time-vs-factorial-designs)
 - [Replicates and Run Order](#replicates-and-run-order)
 - [Planning Your Investigation](#planning-your-investigation)
+- [Further Reading](#further-reading)
 
 ## Why Experimental Design?
 
@@ -268,6 +269,17 @@ Before you start taking careful data for your Tech Report, you should be able to
 7. **Is it feasible, and is it a good idea?** Can you do it safely, in the time available, with the equipment you have, and with time left over for things that go wrong?
 
 In class, you will practice answering these questions with the solar panel apparatus and instructions from [Experimental Design During Lab](https://physics-50.github.io/Module-3/week1){:target="_blank"}.
+
+
+## Further Reading
+
+Much of this reading draws on the sources below. If you would like to learn more about any of these ideas, they are a good place to start.
+
++ J. K. Telford, "[A Brief Introduction to Design of Experiments](https://www.jhuapl.edu/Content/techdigest/pdf/V27-N03/27-03-Telford.pdf){:target="_blank"}," _Johns Hopkins APL Technical Digest_ **27**(3), 224-232 (2007). An accessible introduction to choosing the levels of the factors you vary, one-factor-at-a-time vs. factorial designs, interactions, randomizing the order of your runs, and spending only part of your resources on a first experiment.
++ "[Topic 1: Introduction to the Principles of Experimental Design](https://www.unh.edu/halelab/ANFS933/Readings/Topic1_Reading.pdf){:target="_blank"}," supplementary reading for ANFS 933, _Design, Analysis, and Interpretation of Experiments_, University of New Hampshire. Covers hypotheses and the scientific method, true replicates vs. repeated measurements of the same setup, and choosing the levels of a treatment, with examples from agricultural experiments.
++ AAPT Committee on Laboratories, "[AAPT Recommendations for the Undergraduate Physics Laboratory Curriculum](https://www.aapt.org/Resources/upload/LabGuidlinesDocument_EBendorsed_nov10.pdf){:target="_blank"}" (American Association of Physics Teachers, 2014). Describes the skills that physics laboratory courses aim to develop, including designing experiments, and how those skills build from introductory to advanced labs.
++ E. Etkina, S. Murthy, and X. Zou, "[Using introductory labs to engage students in experimental design](https://doi.org/10.1119/1.2238885){:target="_blank"}," _American Journal of Physics_ **74**, 979-986 (2006). Describes introductory physics labs in which students design their own experiments, and compares what they learned with students in more traditional labs. (Full text may require signing in through the HMC library.)
++ P. Parreira and E. Yao, "[Experimental design laboratories in introductory physics courses: enhancing cognitive tasks and deep conceptual learning](https://eprints.gla.ac.uk/164131/){:target="_blank"}," _Physics Education_ **53**, 055012 (2018). Describes an introductory lab in which small groups plan, build, and troubleshoot their own experiment, and what students thought of it.
 
 
 [Return to Data Analysis Main Page](data_analysis_guides) 
