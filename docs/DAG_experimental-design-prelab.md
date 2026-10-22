@@ -47,9 +47,8 @@ When two quantities rise and fall together, they are **_correlated_**. A correla
 
 <img src="images/spurious-correlation-annabelle-ufo.png" alt="Plot showing the number of babies named Annabelle and the number of UFO sightings in Maryland rising and falling together from 1975 to 2021, with a correlation coefficient of 0.962." width="500">
 
-*Charts by Tyler Vigen, [tylervigen.com/spurious-correlations](https://tylervigen.com/spurious-correlations){:target="_blank"}, used under a [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/){:target="_blank"} license.*
 
-Nobody believes that eating margarine causes divorce in Maine. Plots like these come from someone who wrote a script to harvest data from a bunch of publicly accessible databases and plot a bunch of things against each other until something (accidentally) correlated strongly. We will come back to this idea in the [section on p-hacking](#p-hacking-and-honest-reporting).
+Nobody believes that eating margarine causes divorce in Maine. These plots come from Tyler Vigen, [tylervigen.com/spurious-correlations](https://tylervigen.com/spurious-correlations){:target="_blank"}, who wrote a script to harvest data from a bunch of publicly accessible databases and plot a bunch of things against each other until something (accidentally) correlated strongly. We will come back to this idea in the [section on p-hacking](#p-hacking-and-honest-reporting).
 
 Notice also that each chart has two vertical axes, one for each quantity, with each scale chosen so that its curve fills the plot. Scaling the axes this way can make almost any two quantities that rise (or fall) over the same years look like they move together.
 
