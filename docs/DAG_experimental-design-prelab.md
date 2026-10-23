@@ -9,7 +9,7 @@
 - perform at least 5 replicate measurements at each value of your independent variable, resetting all the other factors that have significant effects on your result in between
 - randomize the order you collect data
     
-
+## Lesson Outline
 - [Broader Motivation](#broader-motivation) 
     - [Why Experimental Design?](#why-experimental-design)
     - [What Can Go Wrong?](#what-can-go-wrong)
