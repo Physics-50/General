@@ -10,20 +10,23 @@
 - randomize the order you collect data
     
 
+- [Broader Motivation](#broader-motivation) 
+    - [Why Experimental Design?](#why-experimental-design)
+    - [What Can Go Wrong?](#what-can-go-wrong)
+    - [Correlation Is Not Causation](#correlation-is-not-causation)
+    - [Case Study: Chocolate and Weight Loss](#case-study-chocolate-and-weight-loss)
+    - [P-hacking and Honest Reporting](#p-hacking-and-honest-reporting)
+- [Experimental Design Best Practices](#experimental-design-best-practices)
+    - [Explore Before You Commit](#explore-before-you-commit)
+    - [Choosing the Range of Your Independent Variable](#choosing-the-range-of-your-independent-variable)
+    - [One Variable at a Time vs. Factorial Designs](#one-variable-at-a-time-vs-factorial-designs)
+    - [Replicates and Run Order](#replicates-and-run-order)
+    - [Planning Your Investigation](#planning-your-investigation)
+    - [Further Reading](#further-reading)
 
-- [Why Experimental Design?](#why-experimental-design)
-- [What Can Go Wrong?](#what-can-go-wrong)
-- [Correlation Is Not Causation](#correlation-is-not-causation)
-- [Case Study: Chocolate and Weight Loss](#case-study-chocolate-and-weight-loss)
-- [P-hacking and Honest Reporting](#p-hacking-and-honest-reporting)
-- [Explore Before You Commit](#explore-before-you-commit)
-- [Choosing the Range of Your Independent Variable](#choosing-the-range-of-your-independent-variable)
-- [One Variable at a Time vs. Factorial Designs](#one-variable-at-a-time-vs-factorial-designs)
-- [Replicates and Run Order](#replicates-and-run-order)
-- [Planning Your Investigation](#planning-your-investigation)
-- [Further Reading](#further-reading)
+## Broader Motivation
 
-## Why Experimental Design?
+### Why Experimental Design?
 
 So far in Physics 50, your experiments have been fairly structured. The question, the apparatus, and much of the procedure were given to you, and your job was to carry out the measurements carefully and quantify their uncertainty. The Tech Report is more open-ended. You will define your own question, decide what to vary and what to measure, and carry out a procedure to address that question efficiently and quantitatively. You need to do all of this within about six hours of lab time.
 
@@ -31,7 +34,7 @@ That means that before your first Tech Report lab session, you are already makin
 
 This reading introduces some principles of experimental design that will help you plan your Tech Report investigation. It should take about 35 minutes, including about 15 minutes for two short outside readings: a news article on spotting dubious claims, and a (deliberately flawed) research paper. In class, you will put these principles into practice using the solar panel apparatus and instructions from [Experimental Design During Lab](https://physics-50.github.io/Module-3/week1-during-lab){:target="_blank"}. This also gives you first-hand familiarity with the solar panel setup in case you would like to use it for your Tech Report investigation.
 
-## What Can Go Wrong?
+### What Can Go Wrong?
 
 Lesson check: Before reading further, take a minute to make a list. What could go wrong in an experiment that would lead you to an erroneous conclusion? Think beyond simple mistakes like misreading a meter.
 <br>
@@ -54,7 +57,7 @@ Other good answers include a method that introduces too much uncertainty to test
 
 An uncontrolled variable that changes along with your independent variable, and also affects your dependent variable, is called a **_confounding variable_**. For example, suppose that in Module 2 you measured $$L$$ for your smallest values of $$x$$ first and your largest values last, and that partway through, your lab partner took over measuring $$L$$ and measured to the front of the grating mount instead of the back. That offset would affect only your later measurements, which are also the ones at large $$x$$. It would change the slope of your $$L$$ vs. $$x$$ plot, and therefore your value of $$d$$. Much of experimental design comes down to keeping confounding variables out of your data.
 
-## Correlation Is Not Causation
+### Correlation Is Not Causation
 
 When two quantities rise and fall together, they are **_correlated_**. A correlation can be a valuable clue, but on its own it does not tell you that one quantity causes the other. Consider the two plots below:
 
@@ -101,11 +104,11 @@ Correlations can also point toward real causes. Global average temperature and t
 
 --------
 
-## Case Study: Chocolate and Weight Loss
+### Case Study: Chocolate and Weight Loss
 
 In 2015, newspapers and websites around the world reported that eating chocolate can help you lose weight. The story was based on a real study with real data, published in a scientific journal.
 
-Take about 10 minutes now to read the [study](images/Bohannon15.pdf){:target="_blank"}. As you read, list as many flaws as you can find in the design, analysis, and presentation of the experiment. Then compare your list with ours.
+Take about 5 minutes now to read the Methodology and Results sections of this [study](images/Bohannon15.pdf){:target="_blank"}. As you read, list as many flaws as you can find in the design, analysis, and presentation of the experiment. Then compare your list with ours.
 
 <br>
 
@@ -131,7 +134,7 @@ In fact, the study was flawed _on purpose_. Its lead author, the science journal
 <br><br>
 
 
-## P-hacking and Honest Reporting
+### P-hacking and Honest Reporting
 
 How did a study with only 15 participants produce "statistically significant" results? Bohannon's team measured 18 different quantities on each participant. He compares each measurement to a lottery ticket. If each one has a 5% chance of looking significant purely by chance, then the probability that at least one of the 18 "wins" is
 \begin{equation}
@@ -168,7 +171,9 @@ Sometimes a careful experiment finds no difference. That is not a failure. A wel
 
 --------
 
-## Explore Before You Commit
+## Experimental Design Best Practices
+
+### Explore Before You Commit
 
 Before embarking on a careful (and probably time-consuming) series of repeated measurements, you should always do some explorations to troubleshoot your basic approach and find out what factors within your control are relevant to ensuring high-quality results. There is no point in carefully controlling something that changes your result by 1%, while ignoring a systematic error that shifts all your results by 20% or even a factor of two!
 
@@ -179,7 +184,7 @@ A few habits make this exploration efficient:
 + **Change things you think should _not_ matter,** such as the angle of the diffraction grating or which part of the grating the laser passes through, as you did in Module 2, and see whether your results change. Anything that does matter must be controlled, or accounted for, in your careful measurements.
 + **Budget your time.** A good rule of thumb is to spend only about a quarter of your resources on a first experiment, keeping the rest for careful measurements and the follow-up runs you will almost certainly need. For the six hours of Tech Report lab sessions, plan to finish your exploration in roughly the first 90 minutes.
 
-## Choosing the Range of Your Independent Variable
+### Choosing the Range of Your Independent Variable
 
 Once you know what you will vary, you need to decide which values to use: how wide a range to cover, how many values to measure, and how to space them. The figure below compares three choices for the same system:
 
@@ -212,7 +217,7 @@ A better plan uses about five values spread across most of the range you can mea
 
 <br><br>
 
-## One Variable at a Time vs. Factorial Designs
+### One Variable at a Time vs. Factorial Designs
 
 In Physics 50, we have been teaching you to change **_one variable at a time_**: change your independent variable while holding everything else constant, then (if you want to study a second variable) go back and vary that one while holding the first constant. This is the approach we recommend for your Tech Report, because it produces data that are easy to interpret. Any change in your dependent variable can be attributed to the one thing you changed, and you can plot and fit your results as a function of a single variable.
 
@@ -254,7 +259,7 @@ In this case, geometry tells you to expect an interaction. Objects farther from 
 
 <br><br>
 
-## Replicates and Run Order
+### Replicates and Run Order
 
 #### Replicates
 
@@ -289,7 +294,7 @@ Those five photos share the same beads, the same ruler placement, and the same c
 
 <br><br>
 
-## Planning Your Investigation
+### Planning Your Investigation
 
 Before you start taking careful data for your Tech Report, you should be able to answer these questions:
 
@@ -303,7 +308,7 @@ Before you start taking careful data for your Tech Report, you should be able to
 
 In class, you will practice answering these questions with the solar panel apparatus and instructions from [Experimental Design During Lab](https://physics-50.github.io/Module-3/week1-during-lab){:target="_blank"}.
 
-## Further Reading
+### Further Reading
 
 Much of this reading draws on the sources below. If you would like to learn more about any of these ideas, they are a good place to start.
 
