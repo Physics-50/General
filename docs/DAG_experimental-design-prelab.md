@@ -3,11 +3,11 @@
 
 ## Key Takeaways for your Tech Report
 
-- *Do exploratory measurements first*: budget around 25% of your total lab time to exploratory measurements
-- Plan your main investigation around *one independent variable*, so that you can map out how your dependent variable depends on it with enough values to fit a function
-- Carefully consider the *range of your independent variable* that you will explore; start with a coarse sweep and then fill in more values
-- Perform at least 5 *replicate measurements* at each value of your independent variable, *resetting* all the other factors that have significant effects on your result in between
-- *randomize* the order you collect data
+- **Do exploratory measurements first**: budget around 25% of your total lab time to exploratory measurements
+- Plan your main investigation around **one independent variable**, so that you can map out how your dependent variable depends on it with enough values to fit a function
+- Carefully consider the **range of your independent variable** that you will explore; start with a coarse sweep and then fill in more values
+- Perform at least **5 replicate measurements** at each value of your independent variable, **resetting** all the other factors that have significant effects on your result in between
+- **Randomize** the order you collect data
     
 ## Lesson Outline
 - [Broader Motivation](#broader-motivation) 
