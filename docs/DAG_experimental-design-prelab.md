@@ -3,11 +3,11 @@
 
 ## Key Takeaways for your Tech Report
 
-- do exploratory measurements first (budget around 25% of your total lab time to exploratory measurements)
-- plan your main investigation around one independent variable, so that you can map out how your dependent variable depends on it with enough values to fit a function
-- carefully consider the range of your independent variable that you will explore; start with a coarse sweep and then fill in more values
-- perform at least 5 replicate measurements at each value of your independent variable, resetting all the other factors that have significant effects on your result in between
-- randomize the order you collect data
+- *Do exploratory measurements first*: budget around 25% of your total lab time to exploratory measurements
+- Plan your main investigation around *one independent variable*, so that you can map out how your dependent variable depends on it with enough values to fit a function
+- Carefully consider the *range of your independent variable* that you will explore; start with a coarse sweep and then fill in more values
+- Perform at least 5 *replicate measurements* at each value of your independent variable, *resetting* all the other factors that have significant effects on your result in between
+- *randomize* the order you collect data
     
 ## Lesson Outline
 - [Broader Motivation](#broader-motivation) 
@@ -92,7 +92,7 @@ Answer:
 
 Correlations can also point toward real causes. Global average temperature and the concentration of carbon dioxide in the atmosphere have risen together over the last century. In this case the correlation is backed by a well-understood physical mechanism, by comparisons between planets, and by many controlled experiments in the lab.
 
-**This is where experimental design comes in.** In a designed experiment, you deliberately change one quantity (the **_independent variable_**) and measure its effect on another (the **_dependent variable_**), while holding everything else constant. When you cannot hold something constant (the room temperature, say, or the exact placement of the grating), you can still keep it from masquerading as the effect you are looking for: take your measurements in a random order, reset it between trials so that it adds random scatter rather than a systematic shift, or measure it so that you can account for it. The [section on replicates and run order](#replicates-and-run-order) describes these strategies in more detail. Data collected this way can establish cause and effect. Data collected by simply watching two quantities change together can only establish correlation.
+**This is where experimental design comes in.** In a designed experiment, you deliberately change one quantity (the **_independent variable_**) and measure its effect on another (the **_dependent variable_**), while holding everything else constant. When you cannot hold something constant (the room temperature, say, or the exact placement of the grating), you can still keep it from causing a systematic error: take your measurements in a random order, reset it between trials so that it adds random scatter rather than a systematic shift, or measure it so that you can account for it. The [section on replicates and run order](#replicates-and-run-order) describes these strategies in more detail. Data collected this way can establish cause and effect. Data collected by simply watching two quantities change together can only establish correlation.
 
 --------
 
