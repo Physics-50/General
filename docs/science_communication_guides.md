@@ -23,7 +23,7 @@ Your Module 1 oral report is given together with **your lab partner and your ins
 
 Your Module 2 oral report is given **individually** with your instructor, and is approximately 10 minutes total: a short lightning talk from one slide, followed by a discussion.
 
-**[Placeholder: your instructor will share the detailed grading rubric before the assessment.]**
++ [Module 2 Oral Report Grading Rubric](images/Module2-Oral-Report-Rubric.pdf){:target="_blank"}
 
 ## Tech Report
 
